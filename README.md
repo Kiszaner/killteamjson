@@ -1,9 +1,7 @@
 # killteamjson
-JSON Dataset for Killteam 2024.
+JSON Dataset for Killteam 2024. Forked form [https://github.com/vjosset/killteamjson](https://github.com/vjosset/killteamjson)
 
-See also [KTDash](https://ktdash.app/)
-
-**If you are using this dataset for your own applications, please give the appropriate credit. These teams take hours to load.**
+See also [KT SERVITOR](https://ktservitor.xdavidleon.com/)
 
 # Structure/Hierarchy
 
