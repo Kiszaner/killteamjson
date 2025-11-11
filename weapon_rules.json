@@ -1,0 +1,136 @@
+{
+  "weapon_rules": [
+    {
+      "id": "WR-ACCURATE",
+      "name": "Accurate",
+      "variable": true,
+      "description": "You can retain up to X attack dice as normal successes without rolling them. If a weapon has more than one instance of Accurate X, treat it as Accurate 2 instead."
+    },
+    {
+      "id": "WR-BALANCED",
+      "name": "Balanced",
+      "variable": false,
+      "description": "You can re-roll one of your attack dice."
+    },
+    {
+      "id": "WR-BLAST",
+      "name": "Blast",
+      "variable": true,
+      "description": "Shoot the primary target, then shoot each visible operative within X as secondary targets. Roll each sequence separately. Secondary targets count as in cover and obscured if the primary target was."
+    },
+    {
+      "id": "WR-BRUTAL",
+      "name": "Brutal",
+      "variable": false,
+      "description": "Opponent can only block with critical successes."
+    },
+    {
+      "id": "WR-CEASELESS",
+      "name": "Ceaseless",
+      "variable": false,
+      "description": "You can re-roll any of your attack dice of one result (e.g., all 2s)."
+    },
+    {
+      "id": "WR-DEVASTATING",
+      "name": "Devastating",
+      "variable": true,
+      "description": "Each retained critical success inflicts X damage. If given as distance + X, deal X damage to the target and each visible operative within that distance. The success is not discarded."
+    },
+    {
+      "id": "WR-HEAVY",
+      "name": "Heavy",
+      "variable": true,
+      "description": "An operative cannot move in an activation/counteraction in which it uses this weapon, and vice-versa. If Heavy (X only), only that move type is allowed. Doesn't prevent Guard."
+    },
+    {
+      "id": "WR-HOT",
+      "name": "Hot",
+      "variable": false,
+      "description": "After use, roll 1D6. If the result is less than the weapon’s Hit stat, inflict damage equal to the result ×2. Only roll once even if used multiple times."
+    },
+    {
+      "id": "WR-LETHAL",
+      "name": "Lethal",
+      "variable": true,
+      "description": "Successes equal to or greater than X are critical successes."
+    },
+    {
+      "id": "WR-LIMITED",
+      "name": "Limited",
+      "variable": true,
+      "description": "After X uses of the weapon during the battle, it is removed. Using multiple times in one action counts as one use."
+    },
+    {
+      "id": "WR-PIERCING",
+      "name": "Piercing",
+      "variable": true,
+      "description": "Defender rolls X fewer defence dice. If Piercing Crits X, effect applies only when you retain critical successes."
+    },
+    {
+      "id": "WR-PUNISHING",
+      "name": "Punishing",
+      "variable": false,
+      "description": "If you retain any critical successes, you may retain one fail as a normal success."
+    },
+    {
+      "id": "WR-RANGE",
+      "name": "Range",
+      "variable": true,
+      "description": "Only operatives within X can be valid targets."
+    },
+    {
+      "id": "WR-RELENTLESS",
+      "name": "Relentless",
+      "variable": false,
+      "description": "You can re-roll any of your attack dice."
+    },
+    {
+      "id": "WR-RENDING",
+      "name": "Rending",
+      "variable": false,
+      "description": "If you retain any critical successes, you can change one normal success to a critical success."
+    },
+    {
+      "id": "WR-SATURATE",
+      "name": "Saturate",
+      "variable": false,
+      "description": "The defender cannot retain cover saves."
+    },
+    {
+      "id": "WR-SEEK",
+      "name": "Seek",
+      "variable": false,
+      "description": "Targets cannot use terrain for cover when being selected. If Seek Light, they cannot use Light terrain. Does not remove cover saves if applicable."
+    },
+    {
+      "id": "WR-SEVERE",
+      "name": "Severe",
+      "variable": false,
+      "description": "If you do not retain critical successes, change one normal success to critical. Devastating and Piercing Crits still apply; Punishing and Rending do not."
+    },
+    {
+      "id": "WR-SHOCK",
+      "name": "Shock",
+      "variable": false,
+      "description": "The first time you strike with a critical success in each sequence, discard one of your opponent’s unresolved normal successes (or a critical if none)."
+    },
+    {
+      "id": "WR-SILENT",
+      "name": "Silent",
+      "variable": false,
+      "description": "An operative can Shoot with this weapon while it has a Conceal order."
+    },
+    {
+      "id": "WR-STUN",
+      "name": "Stun",
+      "variable": false,
+      "description": "If you retain any critical successes, subtract 1 APL from the target until the end of its next activation."
+    },
+    {
+      "id": "WR-TORRENT",
+      "name": "Torrent",
+      "variable": true,
+      "description": "Select a primary target normally, then select any number of valid targets within X as secondary. Shoot all in any order, rolling each sequence separately."
+    }
+  ]
+}
