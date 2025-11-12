@@ -15,31 +15,31 @@
     {
       "id": "WR-UNIV-BLAST",
       "name": "Blast",
-      "description": "Whenever this operative performs the Fight action, at the start of the Roll Attack Dice step, you can use this rule. If you do, inflict 2 damage on the enemy operative in that sequence.",
+      "description": "The target you select is the primary target. After shooting the primary target, shoot with this weapon against each secondary target in an order of your choice (roll each sequence separately). Secondary targets are other operatives visible to and within x of the primary target, e.g., Blast 2” (they are all valid targets, regardless of a Conceal order). Secondary targets are in cover and obscured if the primary target was.",
       "team": null
     },
     {
       "id": "WR-UNIV-BRUTAL",
       "name": "Brutal",
-      "description": "Whenever this operative is fighting, its heavy thunder hammer has the Brutal weapon rule. Whenever this operative performs the Charge action, its heavy thunder hammer has the Ceaseless weapon rule until the end of the activation/counteraction.",
+      "description": "Your opponent can only block with critical successes.",
       "team": null
     },
     {
       "id": "WR-UNIV-CEASELESS",
       "name": "Ceaseless",
-      "description": "As a STRATEGIC GAMBIT in each turning point after the first, if you have less than three non- incapacitated friendly CANOPTEK CIRCLE WARRIOR operatives, you can set up another one ready and with a Conceal order wholly within your drop zone (you can select its weapon options as normal).",
+      "description": "You can re-roll any of your attack dice results of one result (e.g., results of 2).",
       "team": null
     },
     {
       "id": "WR-UNIV-DEVASTATING",
       "name": "Devastating",
-      "description": "\n- Whenever this operative is fighting or retaliating, enemy operatives cannot assist.\n- At the end of each enemy operative’s activation or counteraction, you can select an enemy operative within 2\" of this operative.\nThis operative can perform a free Charge action (you can change its order to Engage to do so), but it cannot move more than 2\" and must end that move within control range of that selected operative.\n",
+      "description": "Each retained critical success immediately inflicts x damage on the operative this weapon is being used against, e.g., Devastating 3. If the rule starts with a distance (e.g., 1” Devastating x), inflict x damage on that operative and each other operative visible to and within that distance of it. Note that success isn’t discarded after doing so—it can still be resolved later in the sequence.",
       "team": null
     },
     {
       "id": "WR-UNIV-HEAVY",
       "name": "Heavy",
-      "description": "Whenever this operative is shooting with a weapon from its datacard, if it hasn’t moved during the activation, or if it’s a counteraction, that weapon has the Ceaseless weapon rule;\nif the weapon already has that weapon rule (i.e. from the Cult Ambush faction rule), it has the Relentless weapon rule.\nNote this operative isn’t restricted from moving after shooting.",
+      "description": "An operative cannot use this weapon in an activation or counteraction in which it moved, and it cannot move in an activation or counteraction in which it used this weapon. If the rule is Heavy (x only), where x is a move action, only that move is allowed, e.g., Heavy (Dash only). This weapon rule has no effect on preventing the Guard action.",
       "team": null
     },
     {
@@ -51,19 +51,19 @@
     {
       "id": "WR-UNIV-LETHAL",
       "name": "Lethal",
-      "description": "Whenever this operative is retaliating, before resolving attack dice in Step 4 of the fight sequence, if you have any critical successes, you can immediately resolve one of them (before the NPO resolves any).",
+      "description": "Your successes equal to or greater than x are critical successes, e.g., Lethal 5+.",
       "team": null
     },
     {
       "id": "WR-UNIV-LIMITED",
       "name": "Limited",
-      "description": "After X uses of the weapon during the battle, it is removed. Using multiple times in one action counts as one use.",
+      "description": "After an operative uses this weapon a number of times in the battle equal to x, they no longer have it. If it’s used multiple times in one action (e.g., Blast), treat this as one use.",
       "team": null
     },
     {
       "id": "WR-UNIV-PIERCING",
       "name": "Piercing",
-      "description": "Defender rolls X fewer defence dice. If Piercing Crits X, effect applies only when you retain critical successes.",
+      "description": "The defender collects x less defence dice, e.g., Piercing 1. If the rule is Piercing Crits x, this only comes into effect if you retain any critical successes.",
       "team": null
     },
     {
@@ -75,13 +75,13 @@
     {
       "id": "WR-UNIV-PUNISHING",
       "name": "Punishing",
-      "description": "If you retain any critical successes, you may retain one fail as a normal success.",
+      "description": "If you retain any critical successes, you can retain one of your fails as a normal success instead of discarding it.",
       "team": null
     },
     {
       "id": "WR-UNIV-RANGE",
       "name": "Range",
-      "description": "Only operatives within X can be valid targets.",
+      "description": "Only operatives within x of the active operative can be valid targets, e.g., Range 9”",
       "team": null
     },
     {
@@ -93,7 +93,7 @@
     {
       "id": "WR-UNIV-RENDING",
       "name": "Rending",
-      "description": "If you retain any critical successes, you can change one normal success to a critical success.",
+      "description": "If you retain any critical successes, you can retain one of your normal successes as a critical success instead.",
       "team": null
     },
     {
@@ -105,7 +105,7 @@
     {
       "id": "WR-UNIV-SEEK",
       "name": "Seek",
-      "description": "STRATEGIC GAMBIT. You can immediately change this operative’s order and/or it can immediately perform a free Omniscanner, Fall Back, Place Marker, Pick Up Marker, Reposition or mission action.\nIf it’s the Fall Back or Reposition action and this operative isn’t carrying a marker, it must end that move either within your drop zone (if this isn’t possible, then as close as possible to it), or with an objective marker or one of your mission markers within its control range.",
+      "description": "When selecting a valid target, operatives cannot use terrain for cover. If the rule is Seek Light, operatives cannot use Light terrain for cover. Whilst this can allow such operatives to be targeted (assuming they’re visible), it doesn’t remove their cover save (if any).",
       "team": null
     },
     {
@@ -123,19 +123,19 @@
     {
       "id": "WR-UNIV-SILENT",
       "name": "Silent",
-      "description": "An operative can Shoot with this weapon while it has a Conceal order.",
+      "description": "An operative can perform the Shoot action with this weapon while it has a Conceal order.",
       "team": null
     },
     {
       "id": "WR-UNIV-STUN",
       "name": "Stun",
-      "description": "\r - Select one enemy operative visible to and within 6\" of this operative. That operative and each other operative within 1\" of it takes a stun test. For an operative to take a stun test, roll one D6: on a 3+, subtract 1 from its APL stat until the end of its next activation.\r - An operative cannot perform this action while within control range of an enemy operative, or if you have reached the total number of times your kill team can perform it.\r ",
+      "description": "If you retain any critical successes, subtract 1 from the APL stat of the operative this weapon is being used against until the end of its next activation.",
       "team": null
     },
     {
       "id": "WR-UNIV-TORRENT",
       "name": "Torrent",
-      "description": "Note that Torrent 0\" means you cannot select secondary targets, but this weapon still has the Torren weapon rule for all other rules purposes, e.g. the Condensed Stronghold rule (see Killzone: Volkus).",
+      "description": "Select a valid target as normal as the primary target, then select any number of other valid targets within x of the first valid target as secondary targets, e.g., Torrent 2”. Shoot with this weapon against all of them in an order of your choice (roll each sequence separately).",
       "team": null
     },
     {
