@@ -7,7 +7,7 @@
     "killteamName": "Angels Of Death",
     "description": "Genetically modified transhuman warriors, Space Marines are amongst Humanity\u2019s most elite fighting forces.\nAngels of Death kill teams are composed of elite specialists trained in myriad forms of combat, who are capable of overcoming almost any foe.",
     "composition": "An ANGELS OF DEATH KillTeam is composed of:\n \n- 1 ANGEL OF DEATH operative selected from the following list:\n  - ASSAULT INTERCESSOR SERGEANT with one option from each of the following:\n    - Hand flamer or heavy bolt pistol\n    - Chainsword, power fist, power weapon or thunder hammer  \n    - Or the following option:\n      - Plasma pistol; chainsword\n  - INTERCESSOR SERGEANT with one option  from each of the following:\n    - Auto bolt rifle, bolt rifle or stalker bolt rifle\n    - Chainsword, fists, power fist, power weapon or thunder hammer\n  - SPACE MARINE CAPTAIN\n- 5 ANGEL OF DEATH operatives selected from the following list:\n  - ASSAULT INTERCESSOR GRENADIER\n  - ASSAULT INTERCESSOR WARRIOR\n  - ELIMINATOR SNIPER*\n  - HEAVY INTERCESSOR GUNNER*\n  - INTERCESSOR GUNNER with auxiliary grenade launcher and one of the following options:\n    - Auto bolt rifle; fists\n    - Bolt rifle; fists\n    - Stalker bolt rifle; fists    \n  - INTERCESSOR WARRIOR with one of the following options:\n    - Auto bolt rifle; fists\n    - Bolt rifle; fists\n    - Stalker bolt rifle; fists\n\nOther than WARRIOR operatives, your kill team can only include each operative on this list once.  \n*You cannot select more than one of these operatives combined.\n\nSome ANGEL OF DEATH rules refer to a 'bolt weapon'. This is a ranged weapon that includes 'bolt' in its name, e.g. stalker bolt rifle, heavy bolt pistol, etc.\n\n---\n\n**Chapter Tactics:**  \nWhen selecting your kill team, select a primary and secondary CHAPTER TACTIC for friendly ANGEL OF DEATH operatives to gain for the battle. Multiple instances of the same CHAPTER TACTIC are not cumulative.\n",
-    "archetypes": "Security/Seek And Destroy",
+    "archetypes": "Security/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "IMP-AOD-CPT",
@@ -2595,7 +2595,7 @@
     "killteamName": "Blades Of Khaine",
     "description": "Athletic, graceful and utterly lethal, the Aeldari warriors that comprise Blades of Khaine kill teams come together to undertake missions of utmost importance on behalf of their craftworlds. They are dispatched to sever specific strands of fate, ensuring that terrible events they have foreseen never come to pass.",
     "composition": "A BLADES OF KHAINE KillTeam is composed of:\n\n- 1 BLADES OF KHAINE operative selected from the following list:\n  - DIRE AVENGER EXARCH with one of the following options:\n    - Shuriken catapult; fists\n      - Twin shuriken catapult; gun butts  \n    Or one option from each of the following:\n    - Diresword or power weapon\n      - Shuriken pistol or shimmershield\n  - HOWLING BANSHEE EXARCH with one of the following options:\n    - Mirrorswords\n      - Shuriken pistol; executioner\n      - Shuriken pistol; power weapon\n      - Shuriken pistol; triskele\n      - Triskele; power weapon\n  - STRIKING SCORPION EXARCH with one of the following options:\n    - Shuriken pistol; biting blade\n      - Shuriken pistol; scorpion\u2019s claw & chainsword\n      - Twin shuriken pistols; twin chainswords  \n- 7 BLADES OF KHAINE operatives selected from the following list:\n  - DIRE AVENGER WARRIOR\n  - HOWLING BANSHEE WARRIOR\n  - STRIKING SCORPION WARRIOR",
-    "archetypes": "Seek And Destroy/Security/Recon/Infiltration",
+    "archetypes": "Seek & Destroy/Security/Recon/Infiltration",
     "opTypes": [
       {
         "opTypeId": "AEL-BOK-DAX",
@@ -3443,7 +3443,7 @@
     "killteamName": "Blooded",
     "description": "Many Astra Militarum troops have turned to Chaos over the centuries, including entire regiments of the Astra Militarum's Imperial Army predecessors that followed the Warmaster Horus into battle against the Imperium during the Horus Heresy.\n  \n  \n\nThese Traitors represent the primary mortal troops available to the forces of Chaos, now known as the \"Traitoris Militarum\" in High Gothic to the defenders of the Imperium. Even ten millennia later, Chaos Lords are known to attract these followers of Chaos into their warbands and personal armies, which vary greatly in both size and strength.",
     "composition": "A BLOODED killteam is composed of:\n- 1 Blooded Chieftan operative with one of the following options:\n  - Autopistol or laspistol, chainsword or power weapon\n  - Bolt Pistol, chainsword\n  - Boltgun, bayonet\n  - Plasma pistol, improvised Blade *(2)*\n- 9 Blooded operatives selected from the following list:\n  - Brimstone Grenadier\n  - Butcher\n  - Commsman\n  - Corpseman  - Flenser\n  - Gunner with bayonet and Flamer *(1)*\n  - Gunner with bayonet and Grenade Launcher *(1)*\n  - Gunner with bayonet and Meltagun *(1)*\n  - Gunner with bayonet and plasma gun *(1,2)*\n  - Sharpshooter *(1)*\n  - Thug\n  - Trench Sweeper\n  - Trooper\n- 4 Blooded operatives selected from the following list:\n - Enforcer (counts as two selections)\n - Ogryn (counts as two selections)\n - Trooper\n\nOther than Trooper operatives your Kill Team can only include each operative on this list once.  \n\n**(1):** You cannot select more than three of these operatives combined  \n\n**(2):** You cannot select this option and this operative. In other words you can only have one operative with a plasma weapon.",
-    "archetypes": "Infiltration/Seek And Destroy",
+    "archetypes": "Infiltration/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "CHAOS-BLD-CHF",
@@ -7048,7 +7048,7 @@
     "killteamName": "Chaos Cult",
     "description": "Wherever bitterness and discontent fester, so does the worship of the Dark Gods take hold. Zealous bands of cultists throng to the banners of malefic powers. The most monstrous of these zealots are warped beyond recognition, sprouting chitinous claws, leathery wings and all manner of mutations with which to slaughter their enemies.",
     "composition": "A CHAOS CULT killteam is composed of:\n \n- 1 CULT DEMAGOGUE operative\n- 2 BLESSED BLADE operatives\n- 9 CHAOS DEVOTEE operatives\n- 1 ICONARCH operative\n- 1 MINDWITCH operative\n",
-    "archetypes": "Infiltration/Seek And Destroy",
+    "archetypes": "Infiltration/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "CHAOS-CULT-DEMA",
@@ -9201,7 +9201,7 @@
     "killteamName": "Death Korps",
     "description": "Grim, fatalistic and utterly uncompromising, the Death Korps of Krieg are famed for their endurance and ability to do\nbattle in the most horrific conditions. Death Korps kill teams are made up of veteran specialists who have seen more fighting that many Astra Militarum soldiers will experience in their entire lifetime.",
     "composition": "A DEATH KORPS KillTeam is composed of:\n\n- 1 DEATH KORPS WATCHMASTER operative with the following:\n  - Boltgun; bayonet  \n  Or one option from each of the following:\n  - Bolt pistol, plasma pistol or relic laspistol\n  - Chainsword or power weapon\n- 4 TROOPER operatives*\n- 9 DEATH KORPS operatives selected from the following list:\n  - BRUISER\n  - CONFIDANT with one of the following options:\n    - Boltgun or lasgun; bayonet\n    - Bolt pistol or relic laspistol; chainsword    \n  - GUNNER with bayonet and flamer\n  - GUNNER with bayonet and grenade launcher\n  - GUNNER with bayonet and meltagun\n  - GUNNER with bayonet and plasma gun\n  - MEDIC\n  - SAPPER\n  - SNIPER\n  - SPOTTER\n  - TROOPER\n  - VETERAN\n  - VOX-OPERATOR\n  - ZEALOT\n\nOther than TROOPER operatives, your kill team can only include each operative on this list once.  \n\n*Up to four times, instead of taking one of these TROOPER operatives, you can select one DEATH KORPS ploy to cost you 0CP for the battle.",
-    "archetypes": "Security/Seek And Destroy",
+    "archetypes": "Security/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "IMP-DKK-WM",
@@ -10543,7 +10543,7 @@
     "killteamName": "Deathwatch",
     "description": "Deathwatch kill teams combat the xenos foes of the Imperium with adaptive expertise and specialist weaponry.  \n\nThey wield some of Humanity\u2019s most highly advanced weapons alongside more esoteric equipment. Besides their superhuman strength and speed, the Deathwatch bring to the battlefield their hatred of the xenos in all its forms.",
     "composition": "\nA DEATHWATCH Killteam is composed of 5 DEATHWATCH operatives selected from the following list:\n- WATCH SERGEANT\n- AEGIS\n- BLADEMASTER\n- BOMBARD\n- BREACHER\n- DEMOLISHER\n- DISRUPTOR\n- GUNNER\n- HEADTAKER\n- HORDE-SLAYER\n- MARKSMAN\n\nYour kill team can only include each operative on this list once, and can only include up to one GRAVIS operative.",
-    "archetypes": "Seek And Destroy/Security",
+    "archetypes": "Seek & Destroy/Security",
     "opTypes": [
       {
         "opTypeId": "IMP-DW-SGT",
@@ -12566,7 +12566,7 @@
     "killteamName": "Exaction Squad",
     "description": "It is the responsibility of the Adeptus Arbites to enforce Imperial law. Exaction Squads are formed from the most\nhighly skilled and experienced Arbitrators. They are tasked with hunting down and securing the most heinous of\ncriminals, returning them alive to face the full extent of the Emperor\u2019s justice.",
     "composition": "An EXACTION SQUAD KillTeam is composed of:\n\n- 1 EXACTION SQUAD PROCTOR-EXACTANT operative with one of the following options:\n  - Combat shotgun; repression baton\n  - Shotpistol; dominator maul & assault shield\n- 10 EXACTION SQUAD operatives selected from the following list:\n  - CASTIGATOR\n  - CHIRURGANT\n  - LEASHMASTER\n  - R-VR CYBER-MASTIFF\n  - MALOCATOR\n  - MARKSMAN\n  - REVELATUM\n  - SUBDUCTOR\n  - VIGILANT\n  - VOX-SIGNIFIER\n  - GUNNER with one of the following options:\n    - Grenade launcher; repression baton\n    - Heavy stubber; repression baton\n    - Webber; repression baton\n        \n\n  \n\nOther than GUNNER, SUBDUCTOR and VIGILANT operatives, your kill team can only include each operative on this list once.  \n\nYour kill team can only include up to two GUNNER operatives (each must have a different option) and up to four SUBDUCTOR operatives.",
-    "archetypes": "Security/Seek And Destroy",
+    "archetypes": "Security/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "IMP-AES-PE",
@@ -15068,7 +15068,7 @@
     "killteamName": "Fellgor Ravagers",
     "description": "Of all the mutant Beastmen in thrall to the Dark Gods, Fellgor Ravagers believe themselves the greatest and most powerful.\nThey stalk space hulks, underhives and warp-tainted ruins, using their keen senses to track unsuspecting prey through the darkness before striking and butchering their foes with savage glee.",
     "composition": "A FELLGOR RAVAGERS KillTeam is composed of:\n\n- 1 FELLGOR RAVAGER IRONHORN operative with one of the following options:\n  - Corrupted pistol; corrupted chainsword\n  - Plasma pistol; bludgeon\n- 9 FELLGOR RAVAGER operatives selected from the following list:\n  - DEATHKNELL\n  - FLUXBRAY\n  - GNARLSCAR\n  - GOREHORN\n  - HERD-GOAD\n  - MANGLER\n  - SHAMAN\n  - TOXHORN\n  - VANDAL\n  - WARRIOR with one of the following options:\n    - Autopistol; bludgeon\n    - Autopistol; cleaver\n\nOther than WARRIOR operatives, your kill team can only include each operative on this list once.",
-    "archetypes": "Recon/Seek And Destroy",
+    "archetypes": "Recon/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "CHAOS-FELL-IH",
@@ -16165,7 +16165,7 @@
     "killteamName": "Gellerpox Infected",
     "description": "Corrupted by a gruesome techno-organic affliction, the Gellerpox Infected are nightmarish meldings of flesh,\nmachinery and rampant disease. Most of these hideous beings began as loyal servants of the God-Emperor. Those\norigins are long gone, however, wiped away by supernatural sickness and a compulsion to spread their infection\nacross the stars.",
     "composition": "Note that other than MUTOID VERMIN, you do not select your operatives from a list.  \n\nThis kill team\u2019s operatives are specified.  \n\nA GELLERPOX INFECTED killteam is composed of every GELLERPOX INFECTED operative in the following list:\n\n- 1 GELLERPOX INFECTED VULGRAR THRICE-CURSED\n- 1 GELLERPOX INFECTED BLOATSPAWN\n- 1 GELLERPOX INFECTED FLESHSCREAMER\n- 1 GELLERPOX INFECTED LUMBERGHAST\n- 4 GELLERPOX INFECTED GLITCHLING\n- 1 GELLERPOX INFECTED MUTANT with frag grenade and heavy axe\n- 2 GELLERPOX INFECTED MUTANT with frag grenade and improvised weapon\n\nIf you selected the Mutoid Vermin faction equipment:  \n\nSpecified number of GELLERPOX INFECTED operatives selected from the following list:\n\n- CURSEMITE\n- EYESTINGER SWARM\n- SLUDGE-GRUB\n",
-    "archetypes": "Security/Seek And Destroy",
+    "archetypes": "Security/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "CHAOS-GPI-VTC",
@@ -17306,7 +17306,7 @@
     "killteamName": "Goremongers",
     "description": "Goremongers are among the most lucid and reliable of Khorne\u2019s troops, pumping a constant flow of combat stimms mixed with drops of their masters\u2019 blood into their systems while still retaining a modicum of cunning and level-headedness. The first thing they do is to cut off their own legs and graft on a new mechanical pair that brings them closer to the ideal physical form, armed with blood letting chainweapons and ritual daggers..",
     "composition": "A GOREMONGER kill team is composed of:\n\n- 1 GOREMONGER BLOOD HERALD\n- 7 GOREMONGER operatives selected from the following list:\n  - ASPIRANT\n  - BLOODTAKER\n  - IMPALER\n  - INCITER\n  - SKULLCLAIMER\n  - STALKER\n\nOther than ASPIRANT operatives, your kill team can only include each operative on this list once.",
-    "archetypes": "Recon/Seek And Destroy",
+    "archetypes": "Recon/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "CHAOS-GORE-BH",
@@ -20591,7 +20591,7 @@
     "killteamName": "Hernkyn Yaegirs",
     "description": "The Hernkyn are those Kin who serve as the Leagues of Votann's explorers, scouts, prospectors and pioneers. To the Kin, any region of blank space upon their star charts is a mystery in need of solving. The desire to plumb the depths of the void, to discover its secrets and claim its riches is deeply ingrained in their psyche, as is the need to know what -- if any -- sources of peril might lurk amidst the shadows. ",
     "composition": "A HERNKYN YAEGIR killteam is composed of:\n\n- 1 HERNKYN YAEGIR Theyn operative\n- 9 HERNKYN YAEGIR operatives selected from the following list:\n  - Bladekyn\n  - Bombast\n  - Gunner\n  - Ironbreak\n  - Riflekyn\n  - Tracker\n  - Warrior with one of the following options:\n    - Bolt Revolver, plasma knife\n    - Bolt Shotgun, Fists\nOther than Warrior operatives, your kill team can only include each operative on this list once.",
-    "archetypes": "Infiltration/Seek And Destroy",
+    "archetypes": "Infiltration/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "VOT-HKY-THEYN",
@@ -22641,7 +22641,7 @@
     "killteamName": "Hunter Clade",
     "description": "To the techno-zealots of the Adeptus Mechanicus, the galaxy is a complex mechanism, its workings the creation of\ntheir Machine God. They see the acquisition of knowledge as holy work, and task their cybernetically altered servants\nwith carrying it out, no matter the cost.",
     "composition": "A HUNTER CLADE killteam is composed of:\r \r - 1 HUNTER CLADE operative selected from the following list:\r   - SICARIAN INFILTRATOR PRINCEPS with one option from each of the following:\r     - Flechette blaster or stubcarbine\r     - Power weapon or taser goad\r   - SICARIAN RUSTSTALKER PRINCEPS\r   - SKITARII RANGER ALPHA with one of the following options:\r     - Galvanic rifle; gun butt\r       - Master-crafted radium pistol; power weapon  \r     Or one option from each of the following:\r     - Arc pistol or phosphor blast pistol\r     - Arc maul or taser goad\r   - SKITARII VANGUARD ALPHA with one of the following options:\r     - Radium carbine; gun butt\r     - Master-crafted radium pistol; power weapon  \r     Or one option from each of the following:\r     - Arc pistol or phosphor blast pistol\r     - Arc maul or taser goad\r - 9 HUNTER CLADE operatives selected from the following list:\r   - SICARIAN INFILTRATOR WARRIOR* with one option from each of the following:\r     - Flechette blaster or stubcarbine\r     - Power weapon or taser goad\r   - SICARIAN RUSTSTALKER WARRIOR* with one of the following options:\r     - Chordclaw & transonic razor\r     - Transonic blades\r   - SKITARII RANGER DIKTAT\r   - SKITARII RANGER GUNNER* with gun butt and one of the following options:\r     - Arc rifle, plasma caliver or transuranic arquebus\r   - SKITARII RANGER SURVEYOR\r   - SKITARII RANGER WARRIOR\r   - SKITARII VANGUARD DIKTAT\r   - SKITARII VANGUARD GUNNER* with gun butt and one of the following options:\r     - Arc rifle, plasma caliver or transuranic arquebus    \r   - SKITARII VANGUARD SURVEYOR\r   - SKITARII VANGUARD WARRIOR\r \r \r *You cannot select more than 7 of these operatives combined.  \r \r Other than GUNNER and WARRIOR operatives, your kill team can only include each operative on this list once.\r Your kill team can only include up to one DIKTAT operative, up to one SURVEYOR operative and up to five SICARIAN operatives.  \r \r Your kill team can only include up to one arc rifle, up to one plasma caliver and up to one transuranic arquebus.",
-    "archetypes": "Recon/Seek And Destroy",
+    "archetypes": "Recon/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "IMP-HC-SRSP",
@@ -24335,7 +24335,7 @@
     "killteamName": "Imperial Navy Breachers",
     "description": "Counted amongst the complement of many Navis Imperialis vessels, Navy Breachers are elite Voidsmen who are outfitted, trained and endlessly drilled in boarding actions and void-based combat. Wielding a wide array of cutting gear, boarding shields and close-range weapons, they are well-suited to deadly combat in close confines.",
     "composition": "An IMPERIAL NAVY BREACHERS killteam is composed of:\n- 1 IMPERIAL NAVY BREACHER SERGEANT-AT-ARMS operative with the following:  \n  - Navis shotgun and Navis hatchet  \n  Or one option from each of the following:  \n  - Bolt pistol or heirloom autopistol\n  - Chainsword or power weapon\n- 10 IMPERIAL NAVY BREACHER operatives selected from the following list:\n  - ARMSMAN\n  - AXEJACK\n  - C.A.T. UNIT\n  - ENDURANT\n  - GHEISTSKULL\n  - GRENADIER\n  - GUNNER with Navis las-volley and gun butt\n  - GUNNER with meltagun and gun butt\n  - GUNNER with plasma gun and gun butt\n  - HATCHCUTTER\n  - SURVEYOR\n  - VOID-JAMMER\n\nOther than ARMSMAN operatives, your kill team can only include each operative on this list once. Your kill team can only include up to two GUNNER operatives.  \n\nYour kill team can only include a GHEISTSKULL operative if it also includes a VOID-JAMMER operative, and it can only include a C.A.T. UNIT operative if it also includes a SURVEYOR operative.  \n\nThese operatives count as half a selection each, meaning you can select both of them and it\u2019s treated as one selection in total.",
-    "archetypes": "Security/Seek And Destroy",
+    "archetypes": "Security/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "IMP-INB-SGT",
@@ -25636,7 +25636,7 @@
     "killteamName": "Inquisitorial Agents",
     "description": "The reach of the Inquisition extends across the vastness of the Imperium. Inquisitorial kill teams bring together agents from all strata of Imperial society, from elite soldiers to zealous priests. Together, these disparate elements combine their skills to deadly effect, enabling them to root out and destroy heretics, aliens and the servants of Chaos.",
     "composition": "An INQUISITORIAL AGENTS killteam is composed of:\n\n- 1 INQUISITORIAL AGENT INTERROGATOR operative\n- 1 INQUISITORIAL AGENT TOME-SKULL operative\n- 5 INQUISITORIAL AGENT operatives selected from the following list:\n  - AUTOSAVANT\n  - QUESTKEEPER\n  - DEATH WORLD VETERAN\n  - ENLIGHTENER\n  - HEXORCIST\n  - MYSTIC\n  - PENAL LEGIONNAIRE\n  - PISTOLIER\n  - GUN SERVITOR with one of the following options:\n    - Heavy bolter; servo-claw\n    - Multi-melta; servo-claw\n    - Plasma cannon; servo-claw\n- 5 INQUISITORIAL AGENT operatives selected from the list above, or REQUISITIONED operatives from one group in the Inquisitorial Requisition faction rule (you cannot select REQUISITIONED operatives from different groups).\n  \nYour kill team can only include each operative on this list once, unless you\u2019re not including any REQUISITIONED operatives, in which case you can include up to two GUN SERVITOR operatives, but each one must have different options.  \n\nYour kill team (including any REQUISITIONED operatives) cannot include more than one weapon with the Piercing 2 weapon rule, and cannot include more than three weapons with the Piercing X (excluding Piercing Crits X) weapon rule combined.",
-    "archetypes": "Recon/Security/Seek And Destroy/Infiltration",
+    "archetypes": "Recon/Security/Seek & Destroy/Infiltration",
     "opTypes": [
       {
         "opTypeId": "IMP-INQ-INQ24-INT",
@@ -31828,7 +31828,7 @@
     "killteamName": "Kommandos",
     "description": "A Kommando is an Ork Boy specialist who prefers to rely on \"kunning trikz\" instead of fighting his opponents head-on like most other Greenskins.\n  \n  \n\nKommandoz serve as the Orks' infiltrators and saboteurs, and are masters of the arts of stealth, ambush, unconventional tactics and striking at the opponent from a totally unexpected quarter. ",
     "composition": "A KOMMANDOS KillTeam is composed of:\n\n- 1 KOMMANDO Boss Nob operative with one of the following options:\n  - Slugga; Big Choppa\n  - Slugga; Power Klaw\n- 9 KOMMANDO operatives selected from the following list:\n  - Bomb Squig (X)\n  - Boy\n  - Breacha Boy\n  - Burna Boy\n  - Comms Boy\n  - Dakka Boy\n  - Grot (X)\n  - Rokkit Boy\n  - Slasha Boy\n  - Snipa Boy\n\nOther than BOY operatives, your kill team can only include each operative on this list once.  \n\n(X) These operatives count as half a selection each, meaning you can select both of them and it's treated as one selection in total.",
-    "archetypes": "Seek And Destroy/Infiltration",
+    "archetypes": "Seek & Destroy/Infiltration",
     "opTypes": [
       {
         "opTypeId": "ORK-KOM-NOB",
@@ -32869,7 +32869,7 @@
     "killteamName": "Legionaries",
     "description": "Legionary kill teams are bitter veterans who possess centuries of combat experience. Some are little more than\nravening killers who desire only to reave, slaughter and despoil. Others are devoted worshippers of the Dark Gods,\nseeking to conduct fell rituals in the hope of pleasing their infernal patrons and attaining greater power.",
     "composition": "A LEGIONARIES KillTeam is composed of:\n\n- 1 LEGIONARY operative selected from the following list:\n  - ASPIRING CHAMPION with one option from each of the following:\n    - Plasma pistol or tainted bolt pistol\n    - Power fist, power maul, power weapon or tainted chainsword  \n  - CHOSEN with one of the following options:\n    - Plasma pistol; daemon blade\n    - Tainted bolt pistol; daemon blade\n- 5 LEGIONARY operatives selected from the following list:\n  - ANOINTED\n  - BALEFIRE ACOLYTE\n  - BUTCHER\n  - ICON BEARER with one of the following options:\n    - Boltgun; fists\n    - Bolt pistol; chainsword  \n  - SHRIVETALON\n    - WARRIOR with one of the following options:\n    - Boltgun; fists\n    - Bolt pistol; chainsword    \n  - GUNNER with one of the following options:\n    - Bolt pistol; flamer; fists\n      - Bolt pistol; meltagun; fists\n      - Bolt pistol; plasma gun; fists   \n  - HEAVY GUNNER with one of the following options:\n    - Bolt pistol; heavy bolter; fists\n    - Bolt pistol; missile launcher; fists\n    - Bolt pistol; reaper chaincannon; fists\n\nOther than WARRIOR operatives, your kill team can only include each operative on this list once.",
-    "archetypes": "Security/Seek And Destroy",
+    "archetypes": "Security/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "CHAOS-LEG-AC",
@@ -35426,7 +35426,7 @@
     "killteamName": "Nemesis Claw",
     "description": "The Night Lords are synonymous with terror and murder, for their favoured mode of warfare is the unfettered application of brutal, overwhelming force. They show no mercy whatsoever, eschewing all subtlety and guile for wanton bloodshed and destruction.\n  \n  \n\nThe Night Lords do not worship any of the four major Chaos Gods individually, but acknowledge them equally in the form of Chaos Undivided as they ruthlessly spread terror and fear amongst the galaxy's inhabitants. The Night Lords are experts in the use of terror tactics to win battles and demoralise their foes before the main combat even begins. ",
     "composition": "A NEMESIS CLAW KillTeam is composed of:\n\n- 1 NEMESIS CLAW Visionary with one of the following options:\n  - Bolt pistol, power fist\n  - Bolt pistol, power maul\n  - Bolt pistol, power weapon\n  - Plasma Pistol, Nostraman Chainblade\n- 5 Nemesis Claw operatives selected from the following list:\n  - Fearmonger\n  - Gunner with one of the following options:\n    - Bolt Pistol, Flamer, Fists\n      - Bolt Pistol, Meltagun, Fists\n      - Bolt Pistol, Plasma Gun, Fists   \n  - Heavy Gunner with one of the following options:\n    - Bolt Pistol, Heavy Bolter, Fists\n    - Bolt Pistol, Missile Launcher, Fists    \n  - Screecher\n  - Skinthief\n  - Ventrilokar\n  - Warrior with one of the following options:\n    - Bolt pistol, Chainsword\n    - Boltgun, Fists\n  \n",
-    "archetypes": "Infiltration/Seek And Destroy",
+    "archetypes": "Infiltration/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "CHAOS-NC-VIS",
@@ -41022,7 +41022,7 @@
     "killteamName": "Plague Marines",
     "description": "Corrupted sons of Mortarion, Plague Marines are suffused and bloated with rot and disease. Though compact and slow moving, Plague Marines are horrifyingly resilient, trudging relentlessly towards their objectives while spreading contagion in their wake.",
     "composition": "A PLAGUE MARINES KillTeam is composed of:\n\n- 1 PLAGUE MARINE CHAMPION operative\n- 5 PLAGUE MARINE operatives selected from the following list:\n  - BOMBARDIER\n  - FIGHTER\n  - HEAVY GUNNER\n  - ICON BEARER\n  - MALIGNANT PLAGUECASTER\n  - WARRIOR\n\nYour kill team can only include each operative on this list once",
-    "archetypes": "Security/Seek And Destroy",
+    "archetypes": "Security/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "CHAOS-PM-CHAMP",
@@ -43198,7 +43198,7 @@
     "killteamName": "Raveners",
     "description": "Ravener kill teams are hyperadapted to such an extent that they are able to overcome all manner of a prey species\u2019 defences. Driven by alien synaptic imperatives, Raveners burrow with horrific speed to strike at prey from vulnerable angles, before using razor-sharp talons, chitinous claws and virulent biotoxins to enact the Hive Mind\u2019s will.",
     "composition": "A RAVENERS KillTeam  is composed of:\n\n- 1 RAVENER PRIME\n- 4 RAVENER operatives selected from the following list:\n  - FELLTALON\n  - TREMORSCYTHE\n  - VENOMSPITTER\n  - WARRIOR\n  - WRECKER\n\nOther than WARRIOR operatives, your KillTeam can only include each operative on this list once.",
-    "archetypes": "Seek And Destroy/Infiltration",
+    "archetypes": "Seek & Destroy/Infiltration",
     "opTypes": [
       {
         "opTypeId": "TYR-RAV-PRM",
@@ -43947,7 +43947,7 @@
     "killteamName": "Sanctifiers",
     "description": "As the Great Gun reloads and its hallowed ammunition is transported across Hive Fissilicus, great processions of pilgrims and preachers accompany these holy relics to their final assembly points. They are far from a peaceful congregation, and any who seek to disrupt the great Day of Firing will find themselves lit by the flames and faith wielded by the Sanctifiers.",
     "composition": "A SANCTIFIER kill team is composed of:\n\n- 1 SANCTIFIER CONFESSOR\n- 1 SANCTIFIER CHERUB\n- 9 SANCTIFIER operatives selected from the following list:\n  - CONFLAGRATOR\n  - DEATH CULT ASSASSIN\n  - DRILL ABBOT\n  - MIRACULIST\n  - MISSIONARY with one of the following options:\n    - Ministorum flamer; brazier of holy fire\n    - Ministorum flamer; gun butt; holy relic\n  - MISSIONARY with one of the following options:\n    - Meltagun; chainsword; holy relic\n    - Plasma gun; chainsword; brazier of holy fire\n  - PERSECUTOR\n  - PREACHER\n  - RELIQUANT\n  - SALVATIONIST\n\nOther than PREACHER operatives, your kill team can only include each operative above once.  \n\nYour kill team can only include up to four PREACHER operatives.  \n\nYou cannot select an option that includes a brazier of holy fire more than once per battle.",
-    "archetypes": "Security/Seek And Destroy",
+    "archetypes": "Security/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "IMP-SANC-CFS",
@@ -45891,7 +45891,7 @@
     "killteamName": "Tempestus Aquilon",
     "description": "\"It doesn't matter who or what the enemy are. If they stand between us and following our orders, they'll die for it.\"  \n\n*--Tempestus Aquilon Therka Drayv, prior to the Ossinium Drop*",
     "composition": "A TEMPESTUS AQUILON KillTeam is composed of:\n\n- 1 TEMPESTUS AQUILON TEMPESTOR operative with one of the following options:\n  - Hot-Shot Laspistol; Power Weapon\n  - Relic Bolt Pistol; Chainsword\n  - Hot-Shot Lascarbine; Fists\n- 1 SERVO-SENTRY with one of the following options:\n  - Flamer\n  - Grenade Launcher\n  - Hot-Shot Volley Gun\n- 9 TEMPESTUS AQUILON operatives selected from the following list:\n  - GRENADIER\n  - GUNFIGHTER\n  - GUNNER with Melta Carbine and Fists\n  - GUNNER with Plasma Carbine and Fists\n  - MARKSMAN\n  - PRECURSOR\n  - TROOPER\n\nOther than TROOPER operatives, your killteam can only include each operative above once.",
-    "archetypes": "Recon/Seek And Destroy",
+    "archetypes": "Recon/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "IMP-TEMPAQ-TEMP",
@@ -47431,7 +47431,7 @@
     "killteamName": "Vespid Stingwings",
     "description": "\"So swift and so deadly are the Mal'Kor, it is as though they fury of the D'Yangi moon tempests had swept the enemy away. I almost pity those who stand against them\"  \n\n*--Shas'o Vior'la Shem*",
     "composition": "A VESPID STINGWINGS killteam is composed of:\n\n- 1 VESPID STINGWING STRAIN LEADER operative\n- 1 VESPID STINGWING OVERSIGHT DRONE operative\n- 9 VESPID STINGWING operatives selected from the following list:\n  - LONGSTING\n  - SHADESTRAIN\n  - SKYBLAST\n  - SWARMGUARD\n  - WARRIOR\n\nOther than WARRIOR operatives, your killteam can only include each operative above once.",
-    "archetypes": "Recon/Seek And Destroy",
+    "archetypes": "Recon/Seek & Destroy",
     "opTypes": [
       {
         "opTypeId": "TAU-VESP-VSL",
@@ -50976,7 +50976,7 @@
     "killteamName": "Wrecka Krew",
     "description": "Wrecka Crews are infamous Ork Kill Team Units, that love to commit explosive combat during their murderous rampages.\r They are considered the best of their species and are larger and stronger than the typical Ork. Wrecka Crews also make use of weapons that create explosions and the thought of this empowers them to become Tanked Up and ready to fight. These attributes and their use of 'eavy Armour, makes the Wrecka Crews incredibly durable and deadly in battle.",
     "composition": "A WRECKA KREW KillTeam is composed of:\n\n- 1 WRECKA KREW BOSS NOB operative with one of the following options:\n  - Rokkit Pistol; Smash Hammer\n  - Two Rokkit Pistols; Choppa\n- 2 WRECKA KREW BOMB SQUIG operatives\n- 5 WRECKA KREW operatives selected from the following list:\n  - BREAKA BOY DEMOLISHA\n  - BREAKA BOY FIGHTER\n  - BREAKA BOY KRUSHA\n  - TANKBUSTA GUNNER with one of the following options:\n    - 'Eavy Rokkit Launcha; Fists\n    - Rokkit Launcha; Fists    \n  - TANKBUSTA ROKKITEER with one of the following options:\n    - Rokkit Launcha; Pusla Rokkit; Fists\n    - Rokkit Launcha; Rokkit Rack; Fists\n\nOther than BOMB SQUIG, BREAKA BOY FIGHTER, and TANKBUSTA GUNNER operatives, your KillTeam can only include each operative above once.",
-    "archetypes": "Seek And Destroy/Security",
+    "archetypes": "Seek & Destroy/Security",
     "opTypes": [
       {
         "opTypeId": "ORK-WK-NOB",
@@ -51792,7 +51792,7 @@
     "killteamName": "Wyrmblade",
     "description": "Genestealer Cults are insidious broods of Human-xenos hybrids that spread unnoticed on Imperial worlds, sometimes for generations. They infiltrate the Imperium\u2019s social, industrial and military fabric, and their elite Wyrmblade kill teams squirm undetected into perfect ambush sites.",
     "composition": "A WYRMBLADE killteam is composed of:\n\n- 1 WYRMBLADE NEOPHYTE LEADER operative with one of the following options:  \n  - Autogun; gun butt\n  - Shotgun; gun butt  \n  Or one option from each of the following:\n  - Bolt pistol, master-crafted autopistol or web pistol\n  - Chainsword, power maul or power pick\n- 13 WYRMBLADE operatives selected from the following list: \n  - KELERMORPH*\n  - LOCUS*\n  - GUNNER with flamer and gun butt\n  - GUNNER with grenade launcher and gun butt\n  - GUNNER with webber and gun butt\n  - HEAVY GUNNER with heavy stubber and gun butt\n  - HEAVY GUNNER with mining laser and gun butt\n  - HEAVY GUNNER with seismic cannon and gun butt\n  - ICON BEARER with one of the following options:\n      - Autogun; gun butt\n      - Shotgun; gun butt\n  - SANCTUS SNIPER*\n  - SANCTUS TALON*\n  - WARRIOR with one of the following options:\n      - Autogun; gun butt\n      - Shotgun; gun butt\n\n*These operatives count as two selections each.  \nOther than WARRIOR operatives, your kill team can only include each operative on this list once.  \n\nYour kill team can only include up to two GUNNER operatives, up to two HEAVY GUNNER operatives and up to two CULT AGENT operatives.",
-    "archetypes": "Seek And Destroy/Infiltration",
+    "archetypes": "Seek & Destroy/Infiltration",
     "opTypes": [
       {
         "opTypeId": "TYR-WB-LDR",
