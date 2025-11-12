@@ -31342,8 +31342,8 @@ normal success instead of discarding it."
   {
     "factionId": "ORK",
     "killteamId": "ORK-KOM",
-    "version": "",
-    "file": "",
+    "version": "October '25",
+    "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_kommandos-u3kzqkdrdq-qsgcyhj4pc.pdf",
     "killteamName": "Kommandos",
     "description": "A Kommando is an Ork Boy specialist who prefers to rely on \"kunning trikz\" instead of fighting his opponents head-on like most other Greenskins.\n  \n  \n\nKommandoz serve as the Orks' infiltrators and saboteurs, and are masters of the arts of stealth, ambush, unconventional tactics and striking at the opponent from a totally unexpected quarter. ",
     "composition": "A KOMMANDOS KillTeam is composed of:\n\n- 1 KOMMANDO Boss Nob operative with one of the following options:\n  - Slugga; Big Choppa\n  - Slugga; Power Klaw\n- 9 KOMMANDO operatives selected from the following list:\n  - Bomb Squig (X)\n  - Boy\n  - Breacha Boy\n  - Burna Boy\n  - Comms Boy\n  - Dakka Boy\n  - Grot (X)\n  - Rokkit Boy\n  - Slasha Boy\n  - Snipa Boy\n\nOther than BOY operatives, your kill team can only include each operative on this list once.  \n\n(X) These operatives count as half a selection each, meaning you can select both of them and it's treated as one selection in total.",
@@ -31397,10 +31397,10 @@ normal success instead of discarding it."
                 "wepId": "ORK-KOM-NOB-BC",
                 "seq": 0,
                 "profileName": "",
-                "ATK": "4",
+                "ATK": "5",
                 "HIT": "3+",
                 "DMG": "5/6",
-                "WR": "Punishing"
+                "WR": ""
               }
             ]
           },
@@ -31408,7 +31408,7 @@ normal success instead of discarding it."
             "wepId": "ORK-KOM-NOB-PC",
             "opTypeId": "ORK-KOM-NOB",
             "seq": 3,
-            "wepName": "Power Claw",
+            "wepName": "Power Klaw",
             "wepType": "M",
             "isDefault": false,
             "profiles": [
@@ -31420,7 +31420,7 @@ normal success instead of discarding it."
                 "ATK": "4",
                 "HIT": "3+",
                 "DMG": "5/7",
-                "WR": "Brutal"
+                "WR": "Brutal, Shock"
               }
             ]
           }
@@ -31439,6 +31439,13 @@ normal success instead of discarding it."
             "abilityName": "Get it Dun",
             "AP": 1,
             "description": "**SUPPORT** Select one other friendly KOMMANDO operative (excluding BOMB SQUIG) visible to and within 6\" of this operative.\nUntil the end of that operative's next activation add 1 to its APL stat.  \n\nThis operative cannot perform this action while within control range of an enemy operative."
+          },
+          {
+            "abilityId": "ORK-KOM-NOB-KT",
+            "opTypeId": "ORK-KOM-NOB",
+            "abilityName": "Krumpin' Time",
+            "AP": null,
+            "description": "This operative can perform two Fight actions during its activation"
           }
         ],
         "options": [],
@@ -31863,7 +31870,7 @@ normal success instead of discarding it."
                 "ATK": "5",
                 "HIT": "4+",
                 "DMG": "3/4",
-                "WR": "Rng 6\", Ceaseless"
+                "WR": "Rng 9\", Ceaseless"
               },
               {
                 "wepprofileId": "ORK-KOM-DAK-DS-1",
@@ -32340,7 +32347,7 @@ normal success instead of discarding it."
         "killteamId": "ORK-KOM",
         "seq": 2,
         "eqName": "Collapsible Stocks",
-        "description": "Add 4\" to the range rule of the following ranged weapons that friendly KOMMANDO operatives have:\r \r - Dakka Shoota (Short Range)\r - Shokka Pistol\r - Slugga\r ",
+        "description": "Remove the Range weapon rule from the following ranged weapons that friendly KOMMANDO operatives have:\r \r- Shokka Pistol\r - Slugga\r ",
         "effects": ""
       },
       {
