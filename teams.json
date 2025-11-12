@@ -30351,8 +30351,8 @@ normal success instead of discarding it."
   {
     "factionId": "IMP",
     "killteamId": "IMP-KAS",
-    "version": "",
-    "file": "",
+    "version": "October '25",
+    "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_kasrkin-hep6iyh4sy-j205ckyh8o.pdf",
     "killteamName": "Kasrkin",
     "description": "Amongst Cadia's most elite warriors, the Kasrkin are trained from birth in the art of war.\nClad in carapace armour and bearing a wide range of specialist wargear, they are the special forces of the Cadian regiments, tasked with completing nigh impossible missions in the defence and furtherance of the Imperial cause.",
     "composition": "A KASRKIN KillTeam is composed of:\n\n- 1 KASRKIN SERGEANT operative with one of the following options:\n  - Bolt pistol; power weapon\n  - Hot-shot lasgun; gun butt\n  - Hot-shot laspistol; power weapon\n  - Plasma pistol; chainsword\n- 9 KASRKIN operatives selected from the following list:\n  - COMBAT MEDIC\n  - DEMO-TROOPER\n  - GUNNER with flamer and gun butt*\n  - GUNNER with grenade launcher and gun butt*\n  - GUNNER with hot-shot volley gun and gun butt*\n  - GUNNER with meltagun and gun butt*\n  - GUNNER with plasma gun and gun butt*\n  - RECON-TROOPER\n  - SHARPSHOOTER*\n  - TROOPER\n  - VOX-TROOPER\n\nOther than TROOPER operatives, your kill team can only include each operative on this list once.  \n\n*You cannot select more than four of these operatives combined.  \n\nSome KASRKIN rules refer to a \u2018hot-shot weapon\u2019. This is a ranged weapon that includes \u2018hot-shot\u2019 in its name, e.g. hot-shot lasgun, all profiles of a hot-shot marksman rifle, etc.",
@@ -31277,7 +31277,7 @@ normal success instead of discarding it."
         "ployType": "T",
         "seq": 1,
         "ployName": "Cover Retreat",
-        "description": "Use this firefight ploy when a friendly KASRKIN operative performs the Fall Back action while visible to and within 6\" of another ready friendly KASRKIN operative that is not within control range of enemy operatives.\nAfter that friendly operative has finished moving, but before that Fall Back action ends, that other friendly operative can immediately perform a free Shoot action."
+        "description": "Use this firefight ploy when a friendly KASRKIN operative performs the Fall Back action while visible to and within 6\" of another friendly KASRKIN operative that is not within control range of enemy operatives.\nAfter that friendly operative has finished moving, but before that Fall Back action ends, that other friendly operative can immediately perform a free Shoot action (you can change its order to Engage to do so)."
       },
       {
         "ployId": "IMP-KAS-T-GNG",
@@ -31293,7 +31293,7 @@ normal success instead of discarding it."
         "ployType": "T",
         "seq": 1,
         "ployName": "Neutralise Target",
-        "description": "Use this firefight ploy when a friendly KASRKIN operative is shooting, after rolling your attack dice. If the target is expended and is either not in cover or is being scanned (see RECON-TROOPER), you can re-roll any of your attack dice."
+        "description": "Use this firefight ploy when a friendly KASRKIN operative is shooting, after rolling your attack dice if it's shooting an operative that's either not in cover or is being scanned (see RECON-TROOPER). You can re-roll any of your attack dice."
       },
       {
         "ployId": "IMP-KAS-T-STI",
@@ -31301,7 +31301,7 @@ normal success instead of discarding it."
         "ployType": "T",
         "seq": 1,
         "ployName": "Seize The Initiative",
-        "description": "Use this firefight ploy at the end of the firefight phase (excluding the final Firefight phase).\nIn the Initiative step of the next Strategy phase, when rolling off to decide initiative, you can do one of the following:\n\n- Re-roll your dice.\n- Force your opponent to re-roll their dice.\n"
+        "description": "Use this firefight ploy at the start of the Firefight phase. One friendly KASRKIN operative can immediately perform a 1AP action for free, but it cannot move during that action. You cannot use this ploy if you’re the player with initiative."
       }
     ],
     "equipments": [
@@ -31326,7 +31326,7 @@ normal success instead of discarding it."
         "killteamId": "IMP-KAS",
         "seq": 3,
         "eqName": "Relics Of Cadia",
-        "description": "Once per turning point, when a friendly KASRKIN operative is shooting, if you roll two or more fails, you can discard one of them to retain another as a normal success instead.",
+        "description": "Once per turning point, when a friendly KASRKIN operative is shooting, fighting or retaliating, if you roll two or more fails, you can discard one of them to retain another as a normal success instead.",
         "effects": ""
       },
       {
