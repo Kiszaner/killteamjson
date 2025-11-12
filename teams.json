@@ -9076,8 +9076,8 @@
   {
     "factionId": "IMP",
     "killteamId": "IMP-DKK",
-    "version": "",
-    "file": "",
+    "version": "1.2",
+    "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_death_korps-cxs24twanf-b6n2jvrgdd.pdf",
     "killteamName": "Death Korps",
     "description": "Grim, fatalistic and utterly uncompromising, the Death Korps of Krieg are famed for their endurance and ability to do\nbattle in the most horrific conditions. Death Korps kill teams are made up of veteran specialists who have seen more fighting that many Astra Militarum soldiers will experience in their entire lifetime.",
     "composition": "A DEATH KORPS KillTeam is composed of:\n\n- 1 DEATH KORPS WATCHMASTER operative with the following:\n  - Boltgun; bayonet  \n  Or one option from each of the following:\n  - Bolt pistol, plasma pistol or relic laspistol\n  - Chainsword or power weapon\n- 4 TROOPER operatives*\n- 9 DEATH KORPS operatives selected from the following list:\n  - BRUISER\n  - CONFIDANT with one of the following options:\n    - Boltgun or lasgun; bayonet\n    - Bolt pistol or relic laspistol; chainsword    \n  - GUNNER with bayonet and flamer\n  - GUNNER with bayonet and grenade launcher\n  - GUNNER with bayonet and meltagun\n  - GUNNER with bayonet and plasma gun\n  - MEDIC\n  - SAPPER\n  - SNIPER\n  - SPOTTER\n  - TROOPER\n  - VETERAN\n  - VOX-OPERATOR\n  - ZEALOT\n\nOther than TROOPER operatives, your kill team can only include each operative on this list once.  \n\n*Up to four times, instead of taking one of these TROOPER operatives, you can select one DEATH KORPS ploy to cost you 0CP for the battle.",
@@ -13775,8 +13775,8 @@
   {
     "factionId": "TAU",
     "killteamId": "TAU-FSKB",
-    "version": "",
-    "file": "",
+    "version": "June '25",
+    "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_farstalker_kinband-c0p0a01n39-1gxzkcsgjy.pdf",
     "killteamName": "Farstalker Kinband",
     "description": "Farstalker Kinbands operate as scouts for the Kroot species. They range far and wide throughout the galaxy, seeking new and valuable genetic material to return to their Shapers. Farstalker Kinbands contain expert trackers, hunters and guerrilla fighters who are capable of matching far more technologically advanced foes.",
     "composition": "A FARSTALKER KINBAND killteam is composed of:\n\n- 1 FARSTALKER KINBAND KILL-BROKER operative with one of the following options:\n  - Kroot rifle; ritual blade\n  - Pulse weapon; ritual blade\n- 11 FARSTALKER KINBAND operatives selected from the following list:\n  - BOW-HUNTER\n  - COLD-BLOOD\n  - CUT-SKIN\n  - HOUND\n  - LONG-SIGHT\n  - PISTOLIER\n  - STALKER\n  - TRACKER\n  - HEAVY GUNNER with one of the following options:\n    - Dvorgite skinner; blade\n    - Londaxi tribalest; blade    \n  - WARRIOR with one of the following options:\n    - Kroot rifle; blade\n    - Kroot scattergun; blade\n        \nOther than HOUND and WARRIOR operatives, your kill team can only include each operative on this list once. Your kill team can only include up to two HOUND operatives.",
@@ -15930,8 +15930,8 @@
   {
     "factionId": "CHAOS",
     "killteamId": "CHAOS-GPI",
-    "version": "",
-    "file": "",
+    "version": "October '25",
+    "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_gellerpox_infected-nhhm7c7xlv-vkglix92eh.pdf",
     "killteamName": "Gellerpox Infected",
     "description": "Corrupted by a gruesome techno-organic affliction, the Gellerpox Infected are nightmarish meldings of flesh,\nmachinery and rampant disease. Most of these hideous beings began as loyal servants of the God-Emperor. Those\norigins are long gone, however, wiped away by supernatural sickness and a compulsion to spread their infection\nacross the stars.",
     "composition": "Note that other than MUTOID VERMIN, you do not select your operatives from a list.  \n\nThis kill team\u2019s operatives are specified.  \n\nA GELLERPOX INFECTED killteam is composed of every GELLERPOX INFECTED operative in the following list:\n\n- 1 GELLERPOX INFECTED VULGRAR THRICE-CURSED\n- 1 GELLERPOX INFECTED BLOATSPAWN\n- 1 GELLERPOX INFECTED FLESHSCREAMER\n- 1 GELLERPOX INFECTED LUMBERGHAST\n- 4 GELLERPOX INFECTED GLITCHLING\n- 1 GELLERPOX INFECTED MUTANT with frag grenade and heavy axe\n- 2 GELLERPOX INFECTED MUTANT with frag grenade and improvised weapon\n\nIf you selected the Mutoid Vermin faction equipment:  \n\nSpecified number of GELLERPOX INFECTED operatives selected from the following list:\n\n- CURSEMITE\n- EYESTINGER SWARM\n- SLUDGE-GRUB\n",
@@ -16983,7 +16983,7 @@
         "ployType": "S",
         "seq": 1,
         "ployName": "Rust Emanations",
-        "description": "Whenever an enemy operative is within control range of friendly GELLERPOX INFECTED NIGHTMARE HULK operatives, worsen the Hit stat of that enemy operative\u2019s weapons by 1. This isn\u2019t cumulative with being injured."
+        "description": "Whenever a friendly GELLERPOX INFECTED NIGHTMARE HULK operative is fighting, your opponent cannot retain results of 3 as successes."
       },
       {
         "ployId": "CHAOS-GPI-T-BA",
@@ -34133,8 +34133,8 @@ normal success instead of discarding it."
   {
     "factionId": "AEL",
     "killteamId": "AEL-MND",
-    "version": "",
-    "file": "",
+    "version": "June '25",
+    "file": "https://assets.warhammer-community.com/eng_29-10_kt_mandrakes-ecwkg7utxo-xquhkr0qlv.pdf",
     "killteamName": "Mandrakes",
     "description": "The Mandrakes can be found in Aelindrach, a region of Commorragh. Literally fallen into shadow, it is one of the several districts of Commorragh that exists in more than one dimension at once. In Aelindrach, shadows thicken and writhe as living things, flowing into one another and attempting to capture those that venture into the district.\n  \n  \n\nIt is in Aelindrach that Mandrakes and Shaderavens make their lairs. Rumour has it that somewhere in Aelindrach lies a portal to a world where shade-daemons exist who can freeze the soul with but a touch. ",
     "composition": "A MANDRAKE killteam is composed of:\n\n- 1 MANDRAKE Nightfiend\n- 8 MANDRAKE operatives selected from the following list:  \n  - Abyssal\n  - Chooser of the Flesh\n  - Dirgemaw\n  - Shadeweaver\n  - Warrior\n\nOther than Warrior operatives, your Killteam can only include each operative once.",
