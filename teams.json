@@ -6953,8 +6953,8 @@
   {
     "factionId": "CHAOS",
     "killteamId": "CHAOS-CULT",
-    "version": "",
-    "file": "",
+    "version": "July '25",
+    "file": "https://assets.warhammer-community.com/eng_jul25_kt_teamrules_chaos_cult-2i74jwysks-qqdbyewoso.pdf",
     "killteamName": "Chaos Cult",
     "description": "Wherever bitterness and discontent fester, so does the worship of the Dark Gods take hold. Zealous bands of cultists throng to the banners of malefic powers. The most monstrous of these zealots are warped beyond recognition, sprouting chitinous claws, leathery wings and all manner of mutations with which to slaughter their enemies.",
     "composition": "A CHAOS CULT killteam is composed of:\n \n- 1 CULT DEMAGOGUE operative\n- 2 BLESSED BLADE operatives\n- 9 CHAOS DEVOTEE operatives\n- 1 ICONARCH operative\n- 1 MINDWITCH operative\n",
@@ -23988,8 +23988,8 @@ normal success instead of discarding it."
   {
     "factionId": "IMP",
     "killteamId": "IMP-INB",
-    "version": "",
-    "file": "",
+    "version": "July '25",
+    "file": "https://assets.warhammer-community.com/eng_jul25_kt_teamrules_imperial_navy_breachers-fe9o3l2nhv-whpv6kllcr.pdf",
     "killteamName": "Imperial Navy Breachers",
     "description": "Counted amongst the complement of many Navis Imperialis vessels, Navy Breachers are elite Voidsmen who are outfitted, trained and endlessly drilled in boarding actions and void-based combat. Wielding a wide array of cutting gear, boarding shields and close-range weapons, they are well-suited to deadly combat in close confines.",
     "composition": "An IMPERIAL NAVY BREACHERS killteam is composed of:\n- 1 IMPERIAL NAVY BREACHER SERGEANT-AT-ARMS operative with the following:  \n  - Navis shotgun and Navis hatchet  \n  Or one option from each of the following:  \n  - Bolt pistol or heirloom autopistol\n  - Chainsword or power weapon\n- 10 IMPERIAL NAVY BREACHER operatives selected from the following list:\n  - ARMSMAN\n  - AXEJACK\n  - C.A.T. UNIT\n  - ENDURANT\n  - GHEISTSKULL\n  - GRENADIER\n  - GUNNER with Navis las-volley and gun butt\n  - GUNNER with meltagun and gun butt\n  - GUNNER with plasma gun and gun butt\n  - HATCHCUTTER\n  - SURVEYOR\n  - VOID-JAMMER\n\nOther than ARMSMAN operatives, your kill team can only include each operative on this list once. Your kill team can only include up to two GUNNER operatives.  \n\nYour kill team can only include a GHEISTSKULL operative if it also includes a VOID-JAMMER operative, and it can only include a C.A.T. UNIT operative if it also includes a SURVEYOR operative.  \n\nThese operatives count as half a selection each, meaning you can select both of them and it\u2019s treated as one selection in total.",
@@ -39014,8 +39014,8 @@ normal success instead of discarding it."
   {
     "factionId": "IMP",
     "killteamId": "IMP-PHO",
-    "version": "",
-    "file": "",
+    "version": "July '25",
+    "file": "https://assets.warhammer-community.com/eng_jul25_kt_teamrules_phobos_strike_team-b6ucsxeqii-zz4xcyoa3s.pdf",
     "killteamName": "Phobos Strike Team",
     "description": "Masters of stealth and subterfuge, Phobos Strike Teams consist of Space Marine Infiltrators, Incursors and Reivers.\nPossessed of transhuman strength and equipped with a range of explosives, communications equipment and precise weaponry, they are capable of outmanoeuvring and overwhelming enemy forces many times their own size.",
     "composition": "A PHOBOS STRIKE TEAM KillTeam is composed of:\n\n- 1 PHOBOS STRIKE TEAM operative selected from the following list:\n  - INFILTRATOR SERGEANT\n  - INCURSOR SERGEANT\n  - REIVER SERGEANT with one of the following options:\n    - Special issue bolt pistol; combat knife\n    - Bolt carbine; fists\n- 5 PHOBOS STRIKE TEAM operatives selected from the following list:\n  - INFILTRATOR COMMSMAN\n  - INFILTRATOR HELIX ADEPT\n  - INFILTRATOR SABOTEUR\n  - INFILTRATOR VETERAN\n  - INFILTRATOR VOXBREAKER\n  - INFILTRATOR WARRIOR\n  - INCURSOR MARKSMAN\n  - INCURSOR MINELAYER\n  - INCURSOR WARRIOR\n  - REIVER WARRIOR with one of the following options:\n    - Special issue bolt pistol; combat knife\n    - Bolt carbine; fists\n\nOther than WARRIOR operatives, your kill team can only include each operative on this list once.",
@@ -40398,8 +40398,8 @@ normal success instead of discarding it."
   {
     "factionId": "CHAOS",
     "killteamId": "CHAOS-PM",
-    "version": "",
-    "file": "",
+    "version": "July '25",
+    "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_plague_marines-aq5mhbmkrk-yuzqskgscs.pdf",
     "killteamName": "Plague Marines",
     "description": "Corrupted sons of Mortarion, Plague Marines are suffused and bloated with rot and disease. Though compact and slow moving, Plague Marines are horrifyingly resilient, trudging relentlessly towards their objectives while spreading contagion in their wake.",
     "composition": "A PLAGUE MARINES KillTeam is composed of:\n\n- 1 PLAGUE MARINE CHAMPION operative\n- 5 PLAGUE MARINE operatives selected from the following list:\n  - BOMBARDIER\n  - FIGHTER\n  - HEAVY GUNNER\n  - ICON BEARER\n  - MALIGNANT PLAGUECASTER\n  - WARRIOR\n\nYour kill team can only include each operative on this list once",
