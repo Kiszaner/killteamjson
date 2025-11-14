@@ -183,13 +183,13 @@
     {
       "id": "WR-IMP-PHO-CUSTOM",
       "name": "Personalizada",
-      "description": "Al final del paso de Elegir agentes, si este agente es elegido para el despliegue, elige hasta dos de las siguientes reglas de armas para que las tenga esta arma durante la batalla: Críticos de Penetración 1, Desgarradora, Equilibrada, Letal 5+, Saturación."
+      "description": "Al final del paso de Elegir agentes, si este agente es elegido para el despliegue, elige hasta dos de las siguientes reglas de armas para que las tenga esta arma durante la batalla: Críticos de Penetración 1, Desgarradora, Equilibrada, Letal 5+, Saturación.",
       "team": "IMP-PHO"
     },
     {
       "id": "WR-IMP-DKK-DETONATE",
       "name": "Detonar",
-      "description": "No elijas un blanco válido. En su lugar, dispara contra cada agente a 2" o menos de tu marcador de Explosivos, salvo que haya terreno Pesado completamente interpuesto entre ese agente y ese marcador. Ninguno de esos agentes está a cubierto u ofuscado. Tira cada secuencia por separado en el orden que elijas. No puedes elegir esta arma si tu marcador de Explosivos no está en la zona de aniquilación. Al final de la acción, retira tu marcador de Explosivos de la ella.",
+      "description": "No elijas un blanco válido. En su lugar, dispara contra cada agente a 2\" o menos de tu marcador de Explosivos, salvo que haya terreno Pesado completamente interpuesto entre ese agente y ese marcador. Ninguno de esos agentes está a cubierto u ofuscado. Tira cada secuencia por separado en el orden que elijas. No puedes elegir esta arma si tu marcador de Explosivos no está en la zona de aniquilación. Al final de la acción, retira tu marcador de Explosivos de la ella.",
       "team": "IMP-DKK"
     },
     {
@@ -201,7 +201,7 @@
     {
       "id": "WR-CHAOS-GORE-DRAG",
       "name": "Arrastre",
-      "description": "Cuando este agente dispare con esta arma, al inicio del paso de Resolver dados de ataque (antes de infligir daño), puedes mover al blanco hasta x\". X es tu número total de dados de ataque no bloqueados exitosos, multiplicado por 2. El blanco debe ser movido a una localización en la que pueda ser colocado tan cerca de este agente como sea posible, determinada por las x" que decidas usar. El movimiento debe hacerse en uno o más incrementos en línea recta, y cada incremento se redondeará siempre al alza hasta la pulgada más cercana. Cuando el blanco se deje caer durante dicho movimiento, ignora la distancia vertical.",
+      "description": "Cuando este agente dispare con esta arma, al inicio del paso de Resolver dados de ataque (antes de infligir daño), puedes mover al blanco hasta X\". X es tu número total de dados de ataque no bloqueados exitosos, multiplicado por 2. El blanco debe ser movido a una localización en la que pueda ser colocado tan cerca de este agente como sea posible, determinada por las X\" que decidas usar. El movimiento debe hacerse en uno o más incrementos en línea recta, y cada incremento se redondeará siempre al alza hasta la pulgada más cercana. Cuando el blanco se deje caer durante dicho movimiento, ignora la distancia vertical.",
       "team": "CHAOS-GORE"
     },
     {
@@ -243,7 +243,7 @@
     {
       "id": "WR-AEL-VDT-HUMBLING",
       "name": "Crueldad humillante",
-      "description": "Si el blanco de esta arma no resulta incapacitado pero alguno de tus dados de ataque inflige daño, el blanco obtiene una de tus fichas de Crueldad humillante (si no tiene una ya). Mientras un enemigo tenga una de tus fichas de Crueldad humillante, empeora en 1 el atributo Impactar de sus armas y resta 2" a su atributo Movimiento. Esto no se acumula con estar lesionado. Al final de la siguiente activación de ese agente enemigo, retira su ficha de Crueldad humillante.",
+      "description": "Si el blanco de esta arma no resulta incapacitado pero alguno de tus dados de ataque inflige daño, el blanco obtiene una de tus fichas de Crueldad humillante (si no tiene una ya). Mientras un enemigo tenga una de tus fichas de Crueldad humillante, empeora en 1 el atributo Impactar de sus armas y resta 2\" a su atributo Movimiento. Esto no se acumula con estar lesionado. Al final de la siguiente activación de ese agente enemigo, retira su ficha de Crueldad humillante.",
       "team": "AEL-VDT"
     },
     {
@@ -297,7 +297,7 @@
     {
       "id": "WR-ORK-WK-PULSA",
       "name": "Indukzión",
-      "description": "No selecciones un blanco válido. En su lugar, sitúa tu marcador de Indukzión visible para este agente, o en terreno aventajado de un elemento de terreno visible para este agente. Ese marcador gana 1 punto de Indukzión (usa las fichas de puntos de Indukzión); luego tira los dados de ataque: el marcador gana 1 punto de Indukzión adicional por cada éxito (hasta un máximo de 3 puntos adicionales). Inflige 1D3 de daño por separado a cada agente completamente a x" o menos de ese marcador, donde x equivale a los puntos de Indukzión de ese marcador. Después la acción finaliza.",
+      "description": "No selecciones un blanco válido. En su lugar, sitúa tu marcador de Indukzión visible para este agente, o en terreno aventajado de un elemento de terreno visible para este agente. Ese marcador gana 1 punto de Indukzión (usa las fichas de puntos de Indukzión); luego tira los dados de ataque: el marcador gana 1 punto de Indukzión adicional por cada éxito (hasta un máximo de 3 puntos adicionales). Inflige 1D3 de daño por separado a cada agente completamente a x\" o menos de ese marcador, donde x equivale a los puntos de Indukzión de ese marcador. Después la acción finaliza.",
       "team": "ORK-WK"
     },
     {
@@ -333,7 +333,7 @@
     {
       "id": "WR-CHAOS-LEG-SIPHON",
       "name": "Drenaje Vital",
-      "description": "Cuando elijas esta arma, puedes usar esta regla. Si lo haces, al inicio del paso de Resolver Dados de Ataque, puedes selecciona un agente amigo LEGIONARIO visible y a 6" de este agente. Por cada dado de ataque que resuelvas durante ese paso que inflija daño, ese agente amigo recupera 1 herida perdida, o 1D3 heridas perdidas si fue un éxito crítico. No puedes usar esta regla de arma más de una vez por punto de inflexión.",
+      "description": "Cuando elijas esta arma, puedes usar esta regla. Si lo haces, al inicio del paso de Resolver Dados de Ataque, puedes selecciona un agente amigo LEGIONARIO visible y a 6\" de este agente. Por cada dado de ataque que resuelvas durante ese paso que inflija daño, ese agente amigo recupera 1 herida perdida, o 1D3 heridas perdidas si fue un éxito crítico. No puedes usar esta regla de arma más de una vez por punto de inflexión.",
       "team": "CHAOS-LEG"
     },
     {
@@ -363,7 +363,7 @@
     {
       "id": "WR-AEL-HOTA-STINGER",
       "name": "Aguijón",
-      "description": "Cuando un agente enemigo queda incapacitado por esta arma, antes de retirarlo de la zona de aniquilación, inflige 1D3 daños a cada otro agente a 2" o menos ese agente enemigo y visible para él. Cada agente que quede subsiguientemente incapacitado debido a esta regla de armas provocará que esto vuelva a suceder.",
+      "description": "Cuando un agente enemigo queda incapacitado por esta arma, antes de retirarlo de la zona de aniquilación, inflige 1D3 daños a cada otro agente a 2\" o menos ese agente enemigo y visible para él. Cada agente que quede subsiguientemente incapacitado debido a esta regla de armas provocará que esto vuelva a suceder.",
       "team": "AEL-HOTA"
     },
     {
@@ -399,7 +399,7 @@
     {
       "id": "WR-IMP-SANC-TWIN",
       "name": "Ráfaga doble",
-      "description": "Elige hasta dos blancos válidos. Dispara con esta arma contra ambos en el orden que elijas (tira cada secuencia por separado). Ráfaga 0" significa que no puedes elegir blancos secundarios, pero esta arma sigue teniendo la regla de armas Ráfaga a todos los demás efectos de reglas, como por ejemplo de la regla Fortaleza condensada (ver Zona de aniquilación: Volkus, Libro básico de Kill Team).",
+      "description": "Elige hasta dos blancos válidos. Dispara con esta arma contra ambos en el orden que elijas (tira cada secuencia por separado). Ráfaga 0\" significa que no puedes elegir blancos secundarios, pero esta arma sigue teniendo la regla de armas Ráfaga a todos los demás efectos de reglas, como por ejemplo de la regla Fortaleza condensada (ver Zona de aniquilación: Volkus, Libro básico de Kill Team).",
       "team": "IMP-SANC"
     },
     {
