@@ -107,6 +107,9 @@
       ],
       "conditions": [
         "An operative cannot perform this action while within control range of an enemy operative, if that marker is not yours, or if that marker has been used this turning point."
+      ],
+      "packs": [
+        "Universal Equipment"
       ]
     },
     {
@@ -122,6 +125,9 @@
       ],
       "conditions": [
         "This action is treated as a Reposition action. An operative cannot perform the Move with Barricade action in the same turning point in which it performed the Fall Back or Charge actions."
+      ],
+      "packs": [
+        "Universal Equipment"
       ]
     },
     {
@@ -140,6 +146,9 @@
       ],
       "conditions": [
         "An operative cannot perform this action while within control range of an enemy operative, or if you have reached the total number of times your kill team can perform it."
+      ],
+      "packs": [
+        "Universal Equipment"
       ]
     },
     {
@@ -155,6 +164,9 @@
       ],
       "conditions": [
         "An operative cannot perform this action while within control range of an enemy operative, or if you have reached the total number of times your kill team can perform it."
+      ],
+      "packs": [
+        "Universal Equipment"
       ]
     }
   ]
