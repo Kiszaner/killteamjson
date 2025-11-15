@@ -2,7 +2,7 @@
   "weapon_rules": [
     {
       "id": "WR-UNIV-ACCURATE",
-      "name": "Certera X",
+      "name": "Certera",
       "description": "Puedes guardar hasta x dados de ataque como éxitos normales sin tirarlos. Si un arma tiene más de una mención de Certera x, considérala una mención de Certero 2 en su lugar (esto tiene preferencia ante las reglas x que figuran en el encabezamiento de esta sección).",
       "team": null
     },
@@ -14,7 +14,7 @@
     },
     {
       "id": "WR-UNIV-BLAST",
-      "name": "Área X",
+      "name": "Área",
       "description": "El blanco que selecciones es el blanco principal. Tras disparar al blanco principal, dispara con esta arma contra cada blanco secundario en el orden que elijas (tira por cada secuencia por separado). Los blancos secundarios son otros agentes visibles para el blanco principal y a x o menos del mismo; p. ej., “Área 2” (todos se consideran blancos válidos, a pesar de que tengan órdenes de Ocultarse). Los blancos secundarios están a cubierto y ofuscados si el blanco principal lo estaba.",
       "team": null
     },
@@ -32,7 +32,7 @@
     },
     {
       "id": "WR-UNIV-DEVASTATING",
-      "name": "Devastadora X",
+      "name": "Devastadora",
       "description": "Cada éxito crítico guardado inflige inmediatamente x daño al agente contra el que se utiliza el arma; p. ej., Devastadora 3. Si la regla empieza con una distancia (p. ej., 1” Devastadora x), inflige x daño a ese agente y a cualquier otro visible para el blanco y a esa distancia o menos del mismo. Ten en cuenta que el éxito no se descarta después de hacerlo: puede resolverse más adelante en la secuencia.",
       "team": null
     },
@@ -50,19 +50,19 @@
     },
     {
       "id": "WR-UNIV-LETHAL",
-      "name": "Letal X+",
+      "name": "Letal",
       "description": "Tus éxitos con un resultado igual o superior a x son éxitos críticos; p. ej., Letal 5+.",
       "team": null
     },
     {
       "id": "WR-UNIV-LIMITED",
-      "name": "Limitada X",
+      "name": "Limitada",
       "description": "En cuanto un agente ha usado esta arma x veces en batalla, deja de tenerla. Si se usa múltiples veces en una acción (p. ej., Área), se considera de un solo uso.",
       "team": null
     },
     {
       "id": "WR-UNIV-PIERCING",
-      "name": "Penetración X",
+      "name": "Penetración",
       "description": "El defensor reúne x dados de defensa menos; p. ej., Penetración 1. Si la regla es Críticos de penetración x, eso solo sucede si guardas algún éxito crítico.",
       "team": null
     },
@@ -80,7 +80,7 @@
     },
     {
       "id": "WR-UNIV-RANGE",
-      "name": "Alcance X",
+      "name": "Alcance",
       "description": "Solo los agentes a x o menos del agente activo pueden ser blancos válidos; p. ej., Alcance 9\"",
       "team": null
     },
@@ -134,7 +134,7 @@
     },
     {
       "id": "WR-UNIV-TORRENT",
-      "name": "Ráfaga X",
+      "name": "Ráfaga",
       "description": "Elige un blanco válido como blanco principal, luego elige cualquier número de otros blancos válidos a x o menos del primer blanco como blancos secundarios; p. ej., Ráfaga 2\". Dispara con esta arma contra todos ellos en el orden que prefieras (tira por cada secuencia por separado).",
       "team": null
     }
