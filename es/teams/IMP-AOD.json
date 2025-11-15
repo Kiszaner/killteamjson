@@ -153,8 +153,8 @@
     },
     {
       "abilityId": "IMP-AOD-TA-CTST",
-      "abilityName": "[CT] Sigiloso",
-      "description": "*Al elegir tu comando, elige una TÁCTICA DE CAPÍTULO primaria y otra secundaria que los agentes ÁNGEL DE LA MUERTE amigos obtendrán durante esta batalla. Los efectos de múltiples instancias de la misma TÁCTICA DE CAPÍTULO no se acumulan.*  \n  \nSiempre que un agente enemigo dispare contra este agente, si está en cobertura, puedes guardar una salvación adicional por cobertura o convertir una salvación por cobertura en una salvación crítica..\nNo se acumula con salvaciones por cobertura mejoradas por terreno Aventajado."
+      "abilityName": "[TC] SigilosoS",
+      "description": "*Al elegir tu comando, elige una TÁCTICA DE CAPÍTULO primaria y otra secundaria que los agentes ÁNGEL DE LA MUERTE amigos obtendrán durante esta batalla. Los efectos de múltiples instancias de la misma TÁCTICA DE CAPÍTULO no se acumulan.*  \n  \nSiempre que un agente enemigo dispare contra este agente, si está en cobertura, puedes guardar una salvación adicional por cobertura o convertir una salvación por cobertura en una salvación crítica.\nNo se acumula con salvaciones por cobertura mejoradas por terreno Aventajado."
     }
   ],
   "opTypes": [
@@ -593,7 +593,7 @@
               "wepprofileId": "IMP-AOD-ISGT-SBR-1",
               "wepId": "IMP-AOD-ISGT-SBR",
               "seq": 1,
-              "profileName": "Mobile",
+              "profileName": "Móvil",
               "ATK": "4",
               "HIT": "3+",
               "DMG": "3/4",
@@ -717,14 +717,14 @@
         {
           "abilityId": "IMP-AOD-ISGT-A-CVET",
           "opTypeId": "IMP-AOD-ISGT",
-          "abilityName": "Chapter Veteran",
-          "description": "At the end of the Select Operatives step, if this operative is selected for deployment, select one additional CHAPTER TACTIC for it to have for the battle.\nUnlike primary and secondary CHAPTER TACTICS, you don't have to select the same one for each battle in a campaign or tournament."
+          "abilityName": "Veterano del Capítulo",
+          "description": " Al final del paso de Elegir agentes, si este agente es elegido para el despliegue, elige una TÁCTICA DE CAPÍTULO adicional para que este agente la tenga durante esta batalla. A diferencia de las TÁCTICAS DE CAPÍTULO primarias y secundarias, no tienes que elegir la misma en cada batalla de una campaña o torneo."
         },
         {
           "abilityId": "IMP-AOD-ISGT-A-DW",
           "opTypeId": "IMP-AOD-ISGT",
-          "abilityName": "Doctrine Warfare",
-          "description": "You can do each of the following once per battle:\n\n- Whenever you would use the Combat Doctrine strategy ploy and then select Devastator, if this operative is in the killzone, it costs you 0CP.\n- Whenever you would use the Combat Doctrine strategy ploy and then select Tactical, if this operative is in the killzone, it costs you 0CP."
+          "abilityName": "Guerra según las doctrinas",
+          "description": "Puedes realizar cada una de las siguientes opciones una vez por batalla:\n\n-  Cuando uses el ardid de estrategia Doctrina de combate y elijas Asalto, si este agente está en la zona de aniquilación, te cuesta 0PM.\n- Cuando uses el ardid de estrategia Doctrina de combate y elijas Táctica, si este agente está en la zona de aniquilación, te cuesta 0PM."
         }
       ]
     },
@@ -732,7 +732,7 @@
       "opTypeId": "IMP-AOD-SNP",
       "killteamId": "IMP-AOD",
       "seq": 3,
-      "opTypeName": "Eliminator Sniper",
+      "opTypeName": "Francotirador Eliminador",
       "MOVE": "7\"",
       "APL": 3,
       "SAVE": "3+",
@@ -744,7 +744,7 @@
           "wepId": "IMP-AOD-SNP-BP",
           "opTypeId": "IMP-AOD-SNP",
           "seq": 0,
-          "wepName": "Bolt Pistol",
+          "wepName": "Pistola bólter",
           "wepType": "R",
           "profiles": [
             {
@@ -768,28 +768,28 @@
           "wepId": "IMP-AOD-SNP-BSR",
           "opTypeId": "IMP-AOD-SNP",
           "seq": 1,
-          "wepName": "Bolt Sniper Rifle",
+          "wepName": "Rifle bólter de francotirador",
           "wepType": "R",
           "profiles": [
             {
               "wepprofileId": "IMP-AOD-SNP-BSR-0",
               "wepId": "IMP-AOD-SNP-BSR",
               "seq": 0,
-              "profileName": "Executioner",
+              "profileName": "Ejecutor",
               "ATK": "4",
               "HIT": "2+",
               "DMG": "3/4",
               "WR": [
                 {
                   "id": "WR-UNIV-HEAVY",
-                  "details": "Dash"
+                  "details": "Correr"
                 },
                 {
                   "id": "WR-UNIV-SATURATE"
                 },
                 {
                   "id": "WR-UNIV-SEEK",
-                  "details": "Light"
+                  "details": "Ligera"
                 },
                 {
                   "id": "WR-UNIV-SILENT"
@@ -800,7 +800,7 @@
               "wepprofileId": "IMP-AOD-SNP-BSR-1",
               "wepId": "IMP-AOD-SNP-BSR",
               "seq": 1,
-              "profileName": "Hyperfrag",
+              "profileName": "Hiperfrag",
               "ATK": "4",
               "HIT": "2+",
               "DMG": "2/4",
@@ -811,7 +811,7 @@
                 },
                 {
                   "id": "WR-UNIV-HEAVY",
-                  "details": "Dash"
+                  "details": "Correr"
                 },
                 {
                   "id": "WR-UNIV-SILENT"
@@ -833,7 +833,7 @@
                 },
                 {
                   "id": "WR-UNIV-HEAVY",
-                  "details": "Dash"
+                  "details": "Correr"
                 },
                 {
                   "id": "WR-UNIV-PIERCING",
@@ -870,14 +870,14 @@
         {
           "abilityId": "IMP-AOD-SNP-A-CC",
           "opTypeId": "IMP-AOD-SNP",
-          "abilityName": "Camo Cloak",
-          "description": "Whenever an operative is shooting this operative, ignore the Saturate weapon rule.\nThis operative has the Stealthy CHAPTER TACTIC. If you selected that CHAPTER TACTIC, you can do both of its options (i.e. retain two cover saves - one normal and one critical success)."
+          "abilityName": "Capa de camuflaje",
+          "description": " Siempre que un agente dispare contra este agente, ignora la regla de arma Saturación.\nEste agente tiene la TÁCTICA DE CAPÍTULO Sigilosos. Si ya habías elegido esa TÁCTICA DE CAPÍTULO, puedes hacer sus dos opciones (es decir, guardar dos salvaciones por cobertura; un éxito normal y uno crítico)."
         },
         {
           "abilityId": "IMP-AOD-SNP-A-ST",
           "opTypeId": "IMP-AOD-SNP",
-          "abilityName": "Stealthy",
-          "description": "Whenever an operative is shooting this operative, if you can retain any cover saves, you can retain one additional cover save, or you can retain one cover save as a critical success.\nThis is not cumulative with improved cover saves from Vantage terrain."
+          "abilityName": "Sigiloso",
+          "description": "Siempre que un agente enemigo dispare contra este agente, si está en cobertura, puedes guardar una salvación adicional por cobertura o convertir una salvación por cobertura en una salvación crítica.\nNo se acumula con salvaciones por cobertura mejoradas por terreno Aventajado."
         }
       ],
       "actions": [
@@ -886,7 +886,7 @@
           "type": "ability",
           "seq": 0,
           "AP": 1,
-          "name": "Optics",
+          "name": "Óptica",
           "description": null,
           "effects": [
             "Until the start of this operative's next activation, whenever it is shooting, enemy operatives cannot be obscured."
@@ -913,7 +913,7 @@
           "wepId": "IMP-AOD-GRN-HBP",
           "opTypeId": "IMP-AOD-GRN",
           "seq": 0,
-          "wepName": "Heavy Bolt Pistol",
+          "wepName": "Pistola bólter pesada",
           "wepType": "R",
           "profiles": [
             {
@@ -1045,7 +1045,7 @@
           "wepId": "IMP-AOD-AWAR-HBP",
           "opTypeId": "IMP-AOD-AWAR",
           "seq": 0,
-          "wepName": "Heavy Bolt Pistol",
+          "wepName": "Pistola bólter pesada",
           "wepType": "R",
           "profiles": [
             {
@@ -1306,7 +1306,7 @@
               "wepprofileId": "IMP-AOD-GNR-SBR-1",
               "wepId": "IMP-AOD-GNR-SBR",
               "seq": 1,
-              "profileName": "Mobile",
+              "profileName": "Móvil",
               "ATK": "4",
               "HIT": "3+",
               "DMG": "3/4",
@@ -1432,7 +1432,7 @@
               "wepprofileId": "IMP-AOD-WAR-SBR-1",
               "wepId": "IMP-AOD-WAR-SBR",
               "seq": 1,
-              "profileName": "Mobile",
+              "profileName": "Móvil",
               "ATK": "4",
               "HIT": "3+",
               "DMG": "3/4",
