@@ -82,32 +82,28 @@
       "killteamId": "NEC-HIER",
       "seq": 1,
       "eqName": "Magnification Conduits",
-      "description": "Once per turning point, when a friendly HIEROTEK CIRCLE APPRENTEK or HIEROTEK CIRCLE CRYPTEK operative is performing the Shoot action, you can use this rule.\nIf you do, select one other friendly HIEROTEK CIRCLE operative (excluding PLASMACYTE) that has an Engage order and is visible to that friendly operative.\nUntil the end of that action, that other friendly operative can be treated as the active operative for the Magnify weapon rule.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly HIEROTEK CIRCLE APPRENTEK or HIEROTEK CIRCLE CRYPTEK operative is performing the Shoot action, you can use this rule.\nIf you do, select one other friendly HIEROTEK CIRCLE operative (excluding PLASMACYTE) that has an Engage order and is visible to that friendly operative.\nUntil the end of that action, that other friendly operative can be treated as the active operative for the Magnify weapon rule."
     },
     {
       "eqId": "NEC-HIER-PS",
       "killteamId": "NEC-HIER",
       "seq": 2,
       "eqName": "Phase Shifter",
-      "description": "Once per turning point, when an operative is shooting a friendly CRYPTEK operative, at the start of the Roll Defence Dice step, you can use this rule.\nIf you do, worsen the x of the Piercing weapon rule by 1 (if any) until the end of that sequence.\nNote that Piercing 1 would therefore be ignored.",
-      "effects": ""
+      "description": "Once per turning point, when an operative is shooting a friendly CRYPTEK operative, at the start of the Roll Defence Dice step, you can use this rule.\nIf you do, worsen the x of the Piercing weapon rule by 1 (if any) until the end of that sequence.\nNote that Piercing 1 would therefore be ignored."
     },
     {
       "eqId": "NEC-HIER-TC",
       "killteamId": "NEC-HIER",
       "seq": 3,
       "eqName": "Tesseract Cube",
-      "description": "In the Ready step of each Strategy phase, when you gain CP, if a friendly CRYPTEK operative is not incapacitated, is not within control range of enemy operatives, and has not been REANIMATED this turning point,\nyou can use this rule.\nIf you do, roll one D6: on a 1, you cannot use this rule for the rest of the battle; on a 4+, you gain 1CP.\nOnce you have gained 2CP from this rule, you cannot use it for the rest of the battle.",
-      "effects": ""
+      "description": "In the Ready step of each Strategy phase, when you gain CP, if a friendly CRYPTEK operative is not incapacitated, is not within control range of enemy operatives, and has not been REANIMATED this turning point,\nyou can use this rule.\nIf you do, roll one D6: on a 1, you cannot use this rule for the rest of the battle; on a 4+, you gain 1CP.\nOnce you have gained 2CP from this rule, you cannot use it for the rest of the battle."
     },
     {
       "eqId": "NEC-HIER-TW",
       "killteamId": "NEC-HIER",
       "seq": 4,
       "eqName": "Tesla Weave",
-      "description": "Once per turning point, when an enemy operative ends the Charge action with friendly HIEROTEK CIRCLE operatives within its control range, you can use this rule. If you do, inflict D3+1 damage on that enemy operative.",
-      "effects": ""
+      "description": "Once per turning point, when an enemy operative ends the Charge action with friendly HIEROTEK CIRCLE operatives within its control range, you can use this rule. If you do, inflict D3+1 damage on that enemy operative."
     }
   ],
   "teamAbilities": [

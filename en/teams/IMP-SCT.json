@@ -82,32 +82,28 @@
       "killteamId": "IMP-SCT",
       "seq": 1,
       "eqName": "Camo Cloak",
-      "description": "Whenever an operative is shooting a friendly SCOUT SQUAD operative (excluding SNIPER), if you can retain any cover saves, you can retain one additional cover save.  \n\r This is not cumulative with improved cover saves from vantage terrain.",
-      "effects": ""
+      "description": "Whenever an operative is shooting a friendly SCOUT SQUAD operative (excluding SNIPER), if you can retain any cover saves, you can retain one additional cover save.  \n\r This is not cumulative with improved cover saves from vantage terrain."
     },
     {
       "eqId": "IMP-SCT-CBAK",
       "killteamId": "IMP-SCT",
       "seq": 2,
       "eqName": "Combat Blades",
-      "description": "Friendly SCOUT SQUAD operatives have the following melee weapon. Note that some operatives already have this weapon but with better stats; in that instance, use the better version.\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|Combat Blade|3|3+|4/5|",
-      "effects": "ADDWEP:Combat Blade|M|3|3+|4/5|"
+      "description": "Friendly SCOUT SQUAD operatives have the following melee weapon. Note that some operatives already have this weapon but with better stats; in that instance, use the better version.\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|Combat Blade|3|3+|4/5|"
     },
     {
       "eqId": "IMP-SCT-HWBP",
       "killteamId": "IMP-SCT",
       "seq": 3,
       "eqName": "Heavy Weapon Bipod",
-      "description": "Whenever a friendly SCOUT SQUAD HEAVY GUNNER operative is shooting with a heavy bolter or missile launcher, if it has not moved during the activation, or if it is a counteraction, that weapon has the Ceaseless rule; if the weapon already has that weapon rule it has the Relentless weapon rule. Note that operative is not restricted from moving after shooting.<hr/>\n**Ceaseless:** Can re-roll any or all results of one value (e.g. all results of 2)  \n\n**Relentless:** Can re-roll any or all Attack dice",
-      "effects": ""
+      "description": "Whenever a friendly SCOUT SQUAD HEAVY GUNNER operative is shooting with a heavy bolter or missile launcher, if it has not moved during the activation, or if it is a counteraction, that weapon has the Ceaseless rule; if the weapon already has that weapon rule it has the Relentless weapon rule. Note that operative is not restricted from moving after shooting.<hr/>\n**Ceaseless:** Can re-roll any or all results of one value (e.g. all results of 2)  \n\n**Relentless:** Can re-roll any or all Attack dice"
     },
     {
       "eqId": "IMP-SCT-TO",
       "killteamId": "IMP-SCT",
       "seq": 4,
       "eqName": "Targeting Oculars",
-      "description": "Up to twice per turning point, when a friendly SCOUT SQUAD operative is performing the Shoot action and you are selecting a valid target, you can use this rule. If you do, until the end of that action, its ranged weapons have the Lethal 5+ and Saturate weapon rules.<hr/>\r **Saturate:** The defender cannot retain Cover saves.",
-      "effects": ""
+      "description": "Up to twice per turning point, when a friendly SCOUT SQUAD operative is performing the Shoot action and you are selecting a valid target, you can use this rule. If you do, until the end of that action, its ranged weapons have the Lethal 5+ and Saturate weapon rules.<hr/>\r **Saturate:** The defender cannot retain Cover saves."
     }
   ],
   "opTypes": [

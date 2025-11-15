@@ -82,32 +82,28 @@
       "killteamId": "CHAOS-FELL",
       "seq": 1,
       "eqName": "Brass Adornments",
-      "description": "Once per battle, you can use the Animalistic Fury and Wild Rage firefight ploys for 0CP each.",
-      "effects": ""
+      "description": "Once per battle, you can use the Animalistic Fury and Wild Rage firefight ploys for 0CP each."
     },
     {
       "eqId": "CHAOS-FELL-GM",
       "killteamId": "CHAOS-FELL",
       "seq": 2,
       "eqName": "Gore Marks",
-      "description": "Once per turning point, when a friendly FELLGOR RAVAGER operative is fighting or retaliating, you can use this rule.\nIf you do, inflict 1 damage on that friendly operative and re-roll one of your attack dice. If the result is a fail, inflict 1 additional damage on that friendly operative.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly FELLGOR RAVAGER operative is fighting or retaliating, you can use this rule.\nIf you do, inflict 1 damage on that friendly operative and re-roll one of your attack dice. If the result is a fail, inflict 1 additional damage on that friendly operative."
     },
     {
       "eqId": "CHAOS-FELL-CS",
       "killteamId": "CHAOS-FELL",
       "seq": 3,
       "eqName": "Chaos Sigil",
-      "description": "Once per turning point, when an operative is shooting a friendly FELLGOR RAVAGER operative, at the start of the Roll Defence Dice step, you can use this rule.\nIf you do, worsen the x of the Piercing weapon rule by 1 (if any) until the end of that sequence. Note that Piercing 1 would therefore be ignored.",
-      "effects": ""
+      "description": "Once per turning point, when an operative is shooting a friendly FELLGOR RAVAGER operative, at the start of the Roll Defence Dice step, you can use this rule.\nIf you do, worsen the x of the Piercing weapon rule by 1 (if any) until the end of that sequence. Note that Piercing 1 would therefore be ignored."
     },
     {
       "eqId": "CHAOS-FELL-WP",
       "killteamId": "CHAOS-FELL",
       "seq": 4,
       "eqName": "War Paint",
-      "description": "You can ignore any changes to the Move stat of friendly FELLGOR RAVAGER operatives from being injured.",
-      "effects": "NOINJMOV"
+      "description": "You can ignore any changes to the Move stat of friendly FELLGOR RAVAGER operatives from being injured."
     }
   ],
   "teamAbilities": [

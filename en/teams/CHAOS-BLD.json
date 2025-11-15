@@ -82,32 +82,28 @@
       "killteamId": "CHAOS-BLD",
       "seq": 1,
       "eqName": "Chaos Sigil",
-      "description": "The Reward Earned firefight ploy costs you 0 CP.",
-      "effects": ""
+      "description": "The Reward Earned firefight ploy costs you 0 CP."
     },
     {
       "eqId": "CHAOS-BLD-ST",
       "killteamId": "CHAOS-BLD",
       "seq": 2,
       "eqName": "Sinister Trophies",
-      "description": "Whenever an enemy operative is shooting against, fighting against, or retaliating against a friendly BLOODED operative that has one of your Blooded tokens and is within 2\" of it,\nyour opponent cannot re-roll their attack dice results of 1.",
-      "effects": ""
+      "description": "Whenever an enemy operative is shooting against, fighting against, or retaliating against a friendly BLOODED operative that has one of your Blooded tokens and is within 2\" of it,\nyour opponent cannot re-roll their attack dice results of 1."
     },
     {
       "eqId": "CHAOS-BLD-SOBW",
       "killteamId": "CHAOS-BLD",
       "seq": 3,
       "eqName": "Symbols of Bloody Worship",
-      "description": "Whenever a friendly BLOODED operative ends an action, if it was not incapacitated but inflicted damage on any enemy operatives during that action, it regains 1 lost wound.",
-      "effects": ""
+      "description": "Whenever a friendly BLOODED operative ends an action, if it was not incapacitated but inflicted damage on any enemy operatives during that action, it regains 1 lost wound."
     },
     {
       "eqId": "CHAOS-BLD-WB",
       "killteamId": "CHAOS-BLD",
       "seq": 4,
       "eqName": "Wicked Blades",
-      "description": "Add 1 to both Dmg stats of each friendly BLOODED operative's bayonet, bayonet and shield, and improvised blade for the battle.",
-      "effects": "wepid:BAY,BAS,IB|DMG:1/1"
+      "description": "Add 1 to both Dmg stats of each friendly BLOODED operative's bayonet, bayonet and shield, and improvised blade for the battle."
     }
   ],
   "teamAbilities": [

@@ -82,32 +82,28 @@
       "killteamId": "IMP-PHO",
       "seq": 1,
       "eqName": "Purity Seals",
-      "description": "Once per turning point, when a friendly PHOBOS STRIKE TEAM operative is shooting, fighting or retaliating, if you roll two or more fails, you can discard one of them to retain another as a normal success instead.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly PHOBOS STRIKE TEAM operative is shooting, fighting or retaliating, if you roll two or more fails, you can discard one of them to retain another as a normal success instead."
     },
     {
       "eqId": "IMP-PHO-AUG",
       "killteamId": "IMP-PHO",
       "seq": 2,
       "eqName": "Additional Utility Grenades",
-      "description": "This equipment allows you to select four utility grenades from the utility grenades equipment (see universal equipment).  \n\nYou cannot also select that equipment as normal (i.e. to give you six).",
-      "effects": ""
+      "description": "This equipment allows you to select four utility grenades from the utility grenades equipment (see universal equipment).  \n\nYou cannot also select that equipment as normal (i.e. to give you six)."
     },
     {
       "eqId": "IMP-PHO-CB",
       "killteamId": "IMP-PHO",
       "seq": 3,
       "eqName": "Combat Blades",
-      "description": "Friendly PHOBOS STRIKE TEAM operatives have the following melee weapon:\n \n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Combat Blade|5|3+|3/4|",
-      "effects": "ADDWEP:Combat Blade|M|5|3+|3/4|"
+      "description": "Friendly PHOBOS STRIKE TEAM operatives have the following melee weapon:\n \n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Combat Blade|5|3+|3/4|"
     },
     {
       "eqId": "IMP-PHO-SIA",
       "killteamId": "IMP-PHO",
       "seq": 4,
       "eqName": "Special Issue Ammunition",
-      "description": "Once per turning point, when a friendly PHOBOS STRIKE TEAM operative is performing the Shoot action and you select a bolt carbine, marksman bolt carbine or occulus bolt carbine,\nyou can use this rule. If you do, until the end of the turning point, that weapon has the Piercing 1 weapon rule.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly PHOBOS STRIKE TEAM operative is performing the Shoot action and you select a bolt carbine, marksman bolt carbine or occulus bolt carbine,\nyou can use this rule. If you do, until the end of the turning point, that weapon has the Piercing 1 weapon rule."
     }
   ],
   "teamAbilities": [

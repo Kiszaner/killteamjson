@@ -82,32 +82,28 @@
       "killteamId": "AEL-MND",
       "seq": 1,
       "eqName": "Bone Darts",
-      "description": "Once per turning point, a friendly MANDRAKE operative can use the following ranged weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Bone Dart|4|3+|2/4|\n|**Weapon Rules**|\n|Range 6\", Rending, Silent|\n",
-      "effects": "ADDWEP:Bone Dart|R|4|3+|2/4|Range 6\", Rending, Silent"
+      "description": "Once per turning point, a friendly MANDRAKE operative can use the following ranged weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Bone Dart|4|3+|2/4|\n|**Weapon Rules**|\n|Range 6\", Rending, Silent|\n"
     },
     {
       "eqId": "AEL-MND-CS",
       "killteamId": "AEL-MND",
       "seq": 2,
       "eqName": "Chain Snare",
-      "description": "Whenever an enemy operative would perform the Fall Back action while within control range of a friendly MANDRAKE operative,\nif no other enemy operatives are within that friendly operative's control range, you can use this rule.\nIf you do, roll 2D6, or 1D6 if that enemy operative has a higher Wounds stat than that friendly operative.\nIf any result is a 4+, that enemy cannot perform that action during that activation or counteraction (No AP are spent on it).",
-      "effects": ""
+      "description": "Whenever an enemy operative would perform the Fall Back action while within control range of a friendly MANDRAKE operative,\nif no other enemy operatives are within that friendly operative's control range, you can use this rule.\nIf you do, roll 2D6, or 1D6 if that enemy operative has a higher Wounds stat than that friendly operative.\nIf any result is a 4+, that enemy cannot perform that action during that activation or counteraction (No AP are spent on it)."
     },
     {
       "eqId": "AEL-MND-SG",
       "killteamId": "AEL-MND",
       "seq": 3,
       "eqName": "Shadow Glyph",
-      "description": "Once per turning point, when a friendly MANDRAKE operative is activated WITHIN SHADOW, you can use this rule.\r If you do, until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g, Seek, Vantage Point) except being within 2\".",
-      "effects": ""
+      "description": "Once per turning point, when a friendly MANDRAKE operative is activated WITHIN SHADOW, you can use this rule.\r If you do, until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g, Seek, Vantage Point) except being within 2\"."
     },
     {
       "eqId": "AEL-MND-SGM",
       "killteamId": "AEL-MND",
       "seq": 4,
       "eqName": "Soul Gem",
-      "description": "Once per turning point, when a friendly MANDRAKE operative is performing the Shoot action and you select a Baleblast, you can use this rule.\nIf you do, until the end of that action, that weapon has the Blast 1\" rule.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly MANDRAKE operative is performing the Shoot action and you select a Baleblast, you can use this rule.\nIf you do, until the end of that action, that weapon has the Blast 1\" rule."
     }
   ],
   "teamAbilities": [

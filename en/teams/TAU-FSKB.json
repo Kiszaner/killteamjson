@@ -82,32 +82,28 @@
       "killteamId": "TAU-FSKB",
       "seq": 1,
       "eqName": "Piercing Shot",
-      "description": "Once per turning point, when a friendly FARSTALKER KINBAND operative is performing the Shoot action and you select a Kroot rifle, Kroot scattergun or dual Kroot pistols (focused), you can use this rule.\r If you do, until the end of that action, that weapon has the Piercing 1 weapon rule.  \nYou cannot use the Piercing Shot and Toxin Shot rules during the same action.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly FARSTALKER KINBAND operative is performing the Shoot action and you select a Kroot rifle, Kroot scattergun or dual Kroot pistols (focused), you can use this rule.\r If you do, until the end of that action, that weapon has the Piercing 1 weapon rule.  \nYou cannot use the Piercing Shot and Toxin Shot rules during the same action."
     },
     {
       "eqId": "TAU-FSKB-TS",
       "killteamId": "TAU-FSKB",
       "seq": 2,
       "eqName": "Toxin Shot",
-      "description": "Once per turning point, when a friendly FARSTALKER KINBAND operative is performing the Shoot action and you select a Kroot rifle, Kroot scattergun or dual Kroot pistols (focused), you can use this rule.\r If you do, until the end of that action, that weapon has the Lethal 5+ and Stun weapon rules.  \nYou cannot use the Piercing Shot and Toxin Shot rules during the same action.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly FARSTALKER KINBAND operative is performing the Shoot action and you select a Kroot rifle, Kroot scattergun or dual Kroot pistols (focused), you can use this rule.\r If you do, until the end of that action, that weapon has the Lethal 5+ and Stun weapon rules.  \nYou cannot use the Piercing Shot and Toxin Shot rules during the same action."
     },
     {
       "eqId": "TAU-FSKB-MEAT",
       "killteamId": "TAU-FSKB",
       "seq": 3,
       "eqName": "Meat",
-      "description": "Once per turning point, when a friendly FARSTALKER KINBAND operative (excluding HOUND) is activated, if it's not within control range of enemy operatives, you can use this rule. If you do, that friendly operative regains D3+1 lost wounds.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly FARSTALKER KINBAND operative (excluding HOUND) is activated, if it's not within control range of enemy operatives, you can use this rule. If you do, that friendly operative regains D3+1 lost wounds."
     },
     {
       "eqId": "TAU-FSKB-TRP",
       "killteamId": "TAU-FSKB",
       "seq": 4,
       "eqName": "Trophy",
-      "description": "Once per battle, during a friendly FARSTALKER KINBAND operative's activation (excluding HOUND), before or after it performs an action, if it's not within control range of enemy operatives, you can use this rule.\r If you do, add 1 to that friendly operative's APL stat until the end of its activation.",
-      "effects": ""
+      "description": "Once per battle, during a friendly FARSTALKER KINBAND operative's activation (excluding HOUND), before or after it performs an action, if it's not within control range of enemy operatives, you can use this rule.\r If you do, add 1 to that friendly operative's APL stat until the end of its activation."
     }
   ],
   "teamAbilities": [

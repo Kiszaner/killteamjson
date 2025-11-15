@@ -82,32 +82,28 @@
       "killteamId": "TAU-PF",
       "seq": 1,
       "eqName": "Target Analysis Optic",
-      "description": "Once per turning point, when a friendly PATHFINDER operative (excluding DRONE) is performing the Shoot action and you're selecting a valid target, you can use this rule.\nIf you do, until the end of that action, if the target has at least one of your Markerlight tokens, it is treated as having one more. If the ranged weapon has the Blast or Torrent weapon rule, only the primary target is affected.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly PATHFINDER operative (excluding DRONE) is performing the Shoot action and you're selecting a valid target, you can use this rule.\nIf you do, until the end of that action, if the target has at least one of your Markerlight tokens, it is treated as having one more. If the ranged weapon has the Blast or Torrent weapon rule, only the primary target is affected."
     },
     {
       "eqId": "TAU-PF-OSUL",
       "killteamId": "TAU-PF",
       "seq": 2,
       "eqName": "Orbital Survey Uplink",
-      "description": "Once per turning point, when a friendly PATHFINDER operative performs the Markerlight action, you can use this rule.\nIf you do, you can select one enemy operative in the killzone to gain one of your Markerlight tokens instead (it doesn't need to be visible).\nThis is not cumulative with the high-intensity Markerlight or Analyse rules.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly PATHFINDER operative performs the Markerlight action, you can use this rule.\nIf you do, you can select one enemy operative in the killzone to gain one of your Markerlight tokens instead (it doesn't need to be visible).\nThis is not cumulative with the high-intensity Markerlight or Analyse rules."
     },
     {
       "eqId": "TAU-PF-HIML",
       "killteamId": "TAU-PF",
       "seq": 3,
       "eqName": "High-Intensity Markerlight",
-      "description": "Once per turning point, when a friendly PATHFINDER operative (excluding MV7 MARKER DRONE) performs the Markerlight action, you can use this rule.\nIf you do, the enemy operative you select gains two of your Markerlight tokens (instead of one).",
-      "effects": ""
+      "description": "Once per turning point, when a friendly PATHFINDER operative (excluding MV7 MARKER DRONE) performs the Markerlight action, you can use this rule.\nIf you do, the enemy operative you select gains two of your Markerlight tokens (instead of one)."
     },
     {
       "eqId": "TAU-PF-PG",
       "killteamId": "TAU-PF",
       "seq": 4,
       "eqName": "Photon Grenade",
-      "description": "Once per turning point, a friendly PATHFINDER operative that has the Markerlight action on their datacard (excluding DRONE) can perform the following unique action:  \n\n**PHOTON GRENADE (1 AP):**  \n\nSelect a valid target for this operative and roll one D6:  \n\nOn a 3+, until the end of that operative's next activation, subtract 2\" from its Move stat and it cannot perform the Dash action.</br>\nAn operative cannot perform this action while within control range of an enemy operative.",
-      "effects": ""
+      "description": "Once per turning point, a friendly PATHFINDER operative that has the Markerlight action on their datacard (excluding DRONE) can perform the following unique action:  \n\n**PHOTON GRENADE (1 AP):**  \n\nSelect a valid target for this operative and roll one D6:  \n\nOn a 3+, until the end of that operative's next activation, subtract 2\" from its Move stat and it cannot perform the Dash action.</br>\nAn operative cannot perform this action while within control range of an enemy operative."
     }
   ],
   "teamAbilities": [

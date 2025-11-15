@@ -82,32 +82,28 @@
       "killteamId": "CHAOS-WC",
       "seq": 1,
       "eqName": "Ensorcelled Rounds",
-      "description": "Friendly WARPCOVEN operatives' inferno boltguns, inferno bolt pistols and autopistols have the Devastating 1 weapon rule.",
-      "effects": "wepid:IBG,IBP,AP|WR:Devastating 1"
+      "description": "Friendly WARPCOVEN operatives' inferno boltguns, inferno bolt pistols and autopistols have the Devastating 1 weapon rule."
     },
     {
       "eqId": "CHAOS-WC-DMW",
       "killteamId": "CHAOS-WC",
       "seq": 2,
       "eqName": "Daemonmaw Weapons",
-      "description": "Add 1 to the Atk stat of friendly WARPCOVEN RUBRIC MARINE operatives' melee weapons. Whenever a friendly WARPCOVEN RUBRIC MARINE operative is retaliating, its melee weapons have the Accurate 1 weapon rule.",
-      "effects": "weptype:M|A:+1"
+      "description": "Add 1 to the Atk stat of friendly WARPCOVEN RUBRIC MARINE operatives' melee weapons. Whenever a friendly WARPCOVEN RUBRIC MARINE operative is retaliating, its melee weapons have the Accurate 1 weapon rule."
     },
     {
       "eqId": "CHAOS-WC-SS",
       "killteamId": "CHAOS-WC",
       "seq": 3,
       "eqName": "Sorcerous Scrolls",
-      "description": "Once per battle, when a friendly WARPCOVEN SORCERER operative is activated or counteracts, you can select a different BOON OF TZEENTCH for it to have until the end of the battle (it loses any it previously had). It cannot be the same BOON OF TZEENTCH any other friendly operative has.\r Note that if you use this rule when a friendly operative counteracts and you select Echoes from the Warp, it can be used immediately to change the operative's order and perform a free action during that counteraction.",
-      "effects": ""
+      "description": "Once per battle, when a friendly WARPCOVEN SORCERER operative is activated or counteracts, you can select a different BOON OF TZEENTCH for it to have until the end of the battle (it loses any it previously had). It cannot be the same BOON OF TZEENTCH any other friendly operative has.\r Note that if you use this rule when a friendly operative counteracts and you select Echoes from the Warp, it can be used immediately to change the operative's order and perform a free action during that counteraction."
     },
     {
       "eqId": "CHAOS-WC-AR",
       "killteamId": "CHAOS-WC",
       "seq": 4,
       "eqName": "Arcane Robes",
-      "description": "Whenever an attack dice would inflict Critical Dmg on a friendly WARPCOVEN SORCERER operative, you can choose for that attack dice to inflict Normal Dmg instead.\nYou cannot use this rule for each friendly WARPCOVEN SORCERER operative more than once per turning point.",
-      "effects": ""
+      "description": "Whenever an attack dice would inflict Critical Dmg on a friendly WARPCOVEN SORCERER operative, you can choose for that attack dice to inflict Normal Dmg instead.\nYou cannot use this rule for each friendly WARPCOVEN SORCERER operative more than once per turning point."
     }
   ],
   "teamAbilities": [

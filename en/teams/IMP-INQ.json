@@ -84,32 +84,28 @@
       "killteamId": "IMP-INQ",
       "seq": 1,
       "eqName": "Inquisitorial Rosette",
-      "description": "Once per battle, when a friendly INQUISITORIAL AGENT operative is activated, if you've used the Quarry strategy ploy during this turning point, you can use this rule.\nIf you do, you can select a new enemy operative to be your quarry until the end of the turning point.",
-      "effects": ""
+      "description": "Once per battle, when a friendly INQUISITORIAL AGENT operative is activated, if you've used the Quarry strategy ploy during this turning point, you can use this rule.\nIf you do, you can select a new enemy operative to be your quarry until the end of the turning point."
     },
     {
       "eqId": "IMP-INQ-AB",
       "killteamId": "IMP-INQ",
       "seq": 2,
       "eqName": "Armoured Bodysuits",
-      "description": "Whenever an operative is shooting a friendly INQUISITORIAL AGENT operative (excluding TOME-SKULL) that has a 5+ Save stat, you can retain one of your defence dice results of 4 as a normal success.",
-      "effects": ""
+      "description": "Whenever an operative is shooting a friendly INQUISITORIAL AGENT operative (excluding TOME-SKULL) that has a 5+ Save stat, you can retain one of your defence dice results of 4 as a normal success."
     },
     {
       "eqId": "IMP-INQ-CD",
       "killteamId": "IMP-INQ",
       "seq": 3,
       "eqName": "Combat Daggers",
-      "description": "Friendly INQUISITORIAL AGENT operatives have the following melee weapon. Whenever a friendly SISTER OF SILENCE operative is using it, add 1 to its Atk stat. \n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Combat Dagger|3|4+|3/4|",
-      "effects": "ADDWEP:Combat Dagger|M|3|4+|3/4|"
+      "description": "Friendly INQUISITORIAL AGENT operatives have the following melee weapon. Whenever a friendly SISTER OF SILENCE operative is using it, add 1 to its Atk stat. \n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Combat Dagger|3|4+|3/4|"
     },
     {
       "eqId": "IMP-INQ-SS",
       "killteamId": "IMP-INQ",
       "seq": 4,
       "eqName": "Servo-Skull",
-      "description": "Once per battle, one friendly INQUISITORIAL AGENT operative can perform a mission action for 1 less AP.",
-      "effects": ""
+      "description": "Once per battle, one friendly INQUISITORIAL AGENT operative can perform a mission action for 1 less AP."
     }
   ],
   "opTypes": [

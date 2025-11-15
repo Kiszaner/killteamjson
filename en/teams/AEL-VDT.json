@@ -82,32 +82,28 @@
       "killteamId": "AEL-VDT",
       "seq": 1,
       "eqName": "Wraithbone Talisman",
-      "description": "Once per turning point, when a friendly VOID-DANCER TROUPE operative is shooting, fighting or retaliating, if you roll two or more fails, you can discard one of them to retain another as a normal success instead.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly VOID-DANCER TROUPE operative is shooting, fighting or retaliating, if you roll two or more fails, you can discard one of them to retain another as a normal success instead."
     },
     {
       "eqId": "AEL-VDT-STR",
       "killteamId": "AEL-VDT",
       "seq": 2,
       "eqName": "Shrieker Toxic Rounds",
-      "description": "Once per turning point, when a friendly VOID-DANCER TROUPE operative is performing the Shoot action and you select a shuriken pistol or shrieker cannon (focused), you can use this rule.\nIf you do, until the end of that action, that weapon has the Devastating 1 weapon rule.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly VOID-DANCER TROUPE operative is performing the Shoot action and you select a shuriken pistol or shrieker cannon (focused), you can use this rule.\nIf you do, until the end of that action, that weapon has the Devastating 1 weapon rule."
     },
     {
       "eqId": "AEL-VDT-DM",
       "killteamId": "AEL-VDT",
       "seq": 3,
       "eqName": "Death Mask",
-      "description": "Keep a Tragedy tally. Whenever a friendly VOID-DANCER TROUPE operative that has an ACCOLADE rule is incapacitated, add 1 to your Tragedy tally. When your Tragedy tally reaches 3, you gain 1CP and stop that tally.",
-      "effects": ""
+      "description": "Keep a Tragedy tally. Whenever a friendly VOID-DANCER TROUPE operative that has an ACCOLADE rule is incapacitated, add 1 to your Tragedy tally. When your Tragedy tally reaches 3, you gain 1CP and stop that tally."
     },
     {
       "eqId": "AEL-VDT-UM",
       "killteamId": "AEL-VDT",
       "seq": 4,
       "eqName": "Understudy's Mask",
-      "description": "Once per battle, when you activate a friendly VOID-DANCER TROUPE operative, if the friendly operative that has the PIVOTAL ROLE has been incapacitated, you can use this rule.\nIf you do, that activated operative has the PIVOTAL ROLE for the battle.",
-      "effects": ""
+      "description": "Once per battle, when you activate a friendly VOID-DANCER TROUPE operative, if the friendly operative that has the PIVOTAL ROLE has been incapacitated, you can use this rule.\nIf you do, that activated operative has the PIVOTAL ROLE for the battle."
     }
   ],
   "teamAbilities": [

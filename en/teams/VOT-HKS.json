@@ -82,32 +82,28 @@
       "killteamId": "VOT-HKS",
       "seq": 1,
       "eqName": "Plasma Knives",
-      "description": "Friendly HEARTHKYN SALVAGER operatives have the following melee weapon. Note that the FIELD MEDIC operative already has this weapon but with better stats; in that instance, use the better version.\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Plasma Knife|3|4+|3/5|\n|**Weapon Rules**|\n|Lethal 5+|",
-      "effects": "ADDWEP:Plasma Knife|M|3|4+|3/5|Lethal 5+"
+      "description": "Friendly HEARTHKYN SALVAGER operatives have the following melee weapon. Note that the FIELD MEDIC operative already has this weapon but with better stats; in that instance, use the better version.\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Plasma Knife|3|4+|3/5|\n|**Weapon Rules**|\n|Lethal 5+|"
     },
     {
       "eqId": "VOT-HKS-CR",
       "killteamId": "VOT-HKS",
       "seq": 2,
       "eqName": "Climbing Rigs",
-      "description": "Whenever a friendly HEARTHKYN SALVAGER operative is climbing, treat the vertical distance as 1\" less (to a minimum of 2\").\nNote this has no effect when using ladder equipment terrain, which treats the vertical distance as 1\" (but would have an effect if the operative then continued climbing another terrain feature).",
-      "effects": ""
+      "description": "Whenever a friendly HEARTHKYN SALVAGER operative is climbing, treat the vertical distance as 1\" less (to a minimum of 2\").\nNote this has no effect when using ladder equipment terrain, which treats the vertical distance as 1\" (but would have an effect if the operative then continued climbing another terrain feature)."
     },
     {
       "eqId": "VOT-HKS-ET",
       "killteamId": "VOT-HKS",
       "seq": 3,
       "eqName": "Excavation Tools",
-      "description": "Friendly HEARTHKYN SALVAGER operatives can perform the Pick Up Marker action for 1 less AP, and don't have to control the marker to do so (taking precedence over that action's conditions - they only need to contest the marker).",
-      "effects": ""
+      "description": "Friendly HEARTHKYN SALVAGER operatives can perform the Pick Up Marker action for 1 less AP, and don't have to control the marker to do so (taking precedence over that action's conditions - they only need to contest the marker)."
     },
     {
       "eqId": "VOT-HKS-WOC",
       "killteamId": "VOT-HKS",
       "seq": 4,
       "eqName": "Writ Of Claim",
-      "description": "Once per battle, if friendly HEARTHKYN SALVAGER operatives contest two or more objective markers, after rolling off to decide initiative, you can re-roll your dice.",
-      "effects": ""
+      "description": "Once per battle, if friendly HEARTHKYN SALVAGER operatives contest two or more objective markers, after rolling off to decide initiative, you can re-roll your dice."
     }
   ],
   "teamAbilities": [

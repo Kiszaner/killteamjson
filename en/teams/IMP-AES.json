@@ -82,32 +82,28 @@
       "killteamId": "IMP-AES",
       "seq": 1,
       "eqName": "Manacles",
-      "description": "Whenever an enemy operative would perform the Fall Back action while within control range of a friendly EXACTION SQUAD operative, if no other enemy operatives are within that friendly operative's control range,\nyou can use this rule.\nIf you do, roll two D6, or one D6 if that enemy operative has a higher Wounds stat than that friendly operative.\nIf any result is a 4+, that enemy operative cannot perform that action during that activation or counteraction (no AP are spent on it).",
-      "effects": ""
+      "description": "Whenever an enemy operative would perform the Fall Back action while within control range of a friendly EXACTION SQUAD operative, if no other enemy operatives are within that friendly operative's control range,\nyou can use this rule.\nIf you do, roll two D6, or one D6 if that enemy operative has a higher Wounds stat than that friendly operative.\nIf any result is a 4+, that enemy operative cannot perform that action during that activation or counteraction (no AP are spent on it)."
     },
     {
       "eqId": "IMP-AES-SPL",
       "killteamId": "IMP-AES",
       "seq": 2,
       "eqName": "Strobing Phosphor-Lumen",
-      "description": "Whenever an enemy operative is shooting against, fighting against or retaliating against a friendly EXACTION SQUAD operative within 2\" of it, your opponent cannot re-roll their attack dice results of 1.",
-      "effects": ""
+      "description": "Whenever an enemy operative is shooting against, fighting against or retaliating against a friendly EXACTION SQUAD operative within 2\" of it, your opponent cannot re-roll their attack dice results of 1."
     },
     {
       "eqId": "IMP-AES-SIS",
       "killteamId": "IMP-AES",
       "seq": 3,
       "eqName": "Special-Issue Shells",
-      "description": "Up to twice per turning point, when a friendly EXACTION SQUAD operative is performing the Shoot action and you select a combat shotgun, executioner shotgun, scoped shotpistol or shotpistol, you can use this rule.\nIf you do, select one of the following weapon rules for that weapon to have until the end of that action:\n\n- Saturate.\n- Piercing 1, but only if the target has a Save stat of 3+ or better.\n- Torrent 1\", but you cannot select more than one secondary target.\n",
-      "effects": ""
+      "description": "Up to twice per turning point, when a friendly EXACTION SQUAD operative is performing the Shoot action and you select a combat shotgun, executioner shotgun, scoped shotpistol or shotpistol, you can use this rule.\nIf you do, select one of the following weapon rules for that weapon to have until the end of that action:\n\n- Saturate.\n- Piercing 1, but only if the target has a Save stat of 3+ or better.\n- Torrent 1\", but you cannot select more than one secondary target.\n"
     },
     {
       "eqId": "IMP-AES-RMV",
       "killteamId": "IMP-AES",
       "seq": 4,
       "eqName": "Reinforced Mirror-Visor",
-      "description": "You can ignore any changes to the APL stats of friendly EXACTION SQUAD operatives, and they aren't affected by enemy operatives' Shock weapon rule.",
-      "effects": ""
+      "description": "You can ignore any changes to the APL stats of friendly EXACTION SQUAD operatives, and they aren't affected by enemy operatives' Shock weapon rule."
     }
   ],
   "teamAbilities": [

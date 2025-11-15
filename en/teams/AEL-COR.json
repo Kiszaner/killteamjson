@@ -82,32 +82,28 @@
       "killteamId": "AEL-COR",
       "seq": 1,
       "eqName": "Diuturnal Mantles",
-      "description": "Whenever an operative is shooting a friendly CORSAIR VOIDSCARRED operative, if the ranged weapon in that sequence has the Blast or Torrent weapon rule, you can re-roll one of your defence dice.\nIn addition, friendly CORSAIR VOIDSCARRED operatives are not affected by the X\" Devastating X weapon rule (i.e, Devastating with a distance) unless they are the target during that sequence.",
-      "effects": ""
+      "description": "Whenever an operative is shooting a friendly CORSAIR VOIDSCARRED operative, if the ranged weapon in that sequence has the Blast or Torrent weapon rule, you can re-roll one of your defence dice.\nIn addition, friendly CORSAIR VOIDSCARRED operatives are not affected by the X\" Devastating X weapon rule (i.e, Devastating with a distance) unless they are the target during that sequence."
     },
     {
       "eqId": "AEL-COR-MF",
       "killteamId": "AEL-COR",
       "seq": 2,
       "eqName": "Mistfield",
-      "description": "Once per Turning point, when an operative is shooting a friendly CORSAIR VOIDSCARRED operative more than 3\" from it, at the start of the Roll Defence Dice step, you can use this rule.\nIf you do, worsen the X of the piercing weapon rule by 1 (If any) until the end of that sequence. Note that Piercing 1 would therefore be ignored.",
-      "effects": ""
+      "description": "Once per Turning point, when an operative is shooting a friendly CORSAIR VOIDSCARRED operative more than 3\" from it, at the start of the Roll Defence Dice step, you can use this rule.\nIf you do, worsen the X of the piercing weapon rule by 1 (If any) until the end of that sequence. Note that Piercing 1 would therefore be ignored."
     },
     {
       "eqId": "AEL-COR-ROG",
       "killteamId": "AEL-COR",
       "seq": 3,
       "eqName": "Runes Of Guidance",
-      "description": "Once per turning point, whenever a friendly CORSAIR VOIDSCARRED WAY SEEKER or CORSAIR VOIDSCARRED SOUL WEAVER operative is performing a PSYCHIC unique action (excluding Warp Fold),\nyou can use this rule. If you do, until the end of that action, add 3\" to its distance requirement. Note this has no effect on PSYCHIC weapons (e.g, the Devastating distance requirement of Lightning Strike).",
-      "effects": ""
+      "description": "Once per turning point, whenever a friendly CORSAIR VOIDSCARRED WAY SEEKER or CORSAIR VOIDSCARRED SOUL WEAVER operative is performing a PSYCHIC unique action (excluding Warp Fold),\nyou can use this rule. If you do, until the end of that action, add 3\" to its distance requirement. Note this has no effect on PSYCHIC weapons (e.g, the Devastating distance requirement of Lightning Strike)."
     },
     {
       "eqId": "AEL-COR-SC",
       "killteamId": "AEL-COR",
       "seq": 4,
       "eqName": "Star Charts",
-      "description": "**STRATEGIC GAMBIT**  \n\nRoll 1D3, if the result is higher than the number of current turning point, you gain 1CP and cannot use this STRATEGIC GAMBIT for the rest of the battle.",
-      "effects": ""
+      "description": "**STRATEGIC GAMBIT**  \n\nRoll 1D3, if the result is higher than the number of current turning point, you gain 1CP and cannot use this STRATEGIC GAMBIT for the rest of the battle."
     }
   ],
   "teamAbilities": [

@@ -82,32 +82,28 @@
       "killteamId": "TYR-WB",
       "seq": 1,
       "eqName": "Blasting Charges",
-      "description": "Once per turning point, a friendly WYRMBLADE NEOPHYTE operative can use the following ranged weapon:\n \n|**Name**|**Atk**|**Hit**|**Dmg**|\n|-----|:-----:|:-----:|:-----:|\n|Blasting Charge|4|4+|3/5|\n|**Weapon Rules**|\n|Range 4\", Blast 1\", Saturate|\n",
-      "effects": "ADDWEP:Blasting Charge|R|4|4+|3/5|"
+      "description": "Once per turning point, a friendly WYRMBLADE NEOPHYTE operative can use the following ranged weapon:\n \n|**Name**|**Atk**|**Hit**|**Dmg**|\n|-----|:-----:|:-----:|:-----:|\n|Blasting Charge|4|4+|3/5|\n|**Weapon Rules**|\n|Range 4\", Blast 1\", Saturate|\n"
     },
     {
       "eqId": "TYR-WB-CK",
       "killteamId": "TYR-WB",
       "seq": 2,
       "eqName": "Cult Knives",
-      "description": "Friendly WYRMBLADE NEOPHYTE operatives have the following melee weapon:\n \n|**Name**|**Atk**|**Hit**|**Dmg**|\n|-----|:-----:|:-----:|:-----:|\n|Cult Knife|3|4+|3/4|\n",
-      "effects": "ADDWEP:Cult Knife|M|3|4+|3/4|"
+      "description": "Friendly WYRMBLADE NEOPHYTE operatives have the following melee weapon:\n \n|**Name**|**Atk**|**Hit**|**Dmg**|\n|-----|:-----:|:-----:|:-----:|\n|Cult Knife|3|4+|3/4|\n"
     },
     {
       "eqId": "TYR-WB-XT",
       "killteamId": "TYR-WB",
       "seq": 3,
       "eqName": "Explosive Traps",
-      "description": "This equipment allows you to select two mines (see universal equipment).\nYou cannot also select that equipment as normal (i.e. to give you three), and friendly WYRMBLADE operatives are ignored for your mines' effects (i.e. they cannot trigger or take damage from them).\nThis takes precedence over the normal mines rules.",
-      "effects": ""
+      "description": "This equipment allows you to select two mines (see universal equipment).\nYou cannot also select that equipment as normal (i.e. to give you three), and friendly WYRMBLADE operatives are ignored for your mines' effects (i.e. they cannot trigger or take damage from them).\nThis takes precedence over the normal mines rules."
     },
     {
       "eqId": "TYR-WB-SL",
       "killteamId": "TYR-WB",
       "seq": 4,
       "eqName": "Spotlights",
-      "description": "Whenever a friendly WYRMBLADE operative is shooting, the target cannot be obscured if it is visible to and within 6\" of a friendly WYRMBLADE NEOPHYTE operative that is not within control range of enemy operatives.",
-      "effects": ""
+      "description": "Whenever a friendly WYRMBLADE operative is shooting, the target cannot be obscured if it is visible to and within 6\" of a friendly WYRMBLADE NEOPHYTE operative that is not within control range of enemy operatives."
     }
   ],
   "teamAbilities": [

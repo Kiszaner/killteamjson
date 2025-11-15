@@ -82,32 +82,28 @@
       "killteamId": "IMP-INB",
       "seq": 1,
       "eqName": "Rebreathers",
-      "description": "You can ignore any changes to the APL stats of friendly IMPERIAL NAVY BREACHER operatives, and they aren't affected by enemy operatives' Shock weapon rule.",
-      "effects": ""
+      "description": "You can ignore any changes to the APL stats of friendly IMPERIAL NAVY BREACHER operatives, and they aren't affected by enemy operatives' Shock weapon rule."
     },
     {
       "eqId": "IMP-INB-SL",
       "killteamId": "IMP-INB",
       "seq": 2,
       "eqName": "Slugs",
-      "description": "Up to three times per turning point, whenever a friendly IMPERIAL NAVY BREACHER operative is performing the Shoot action and you select a navis shotgun (long range), you can use this rule.\nIf you do, until the end of that action, improve the Hit stat of that weapon by 1 and add 1 to both of its Dmg stats.",
-      "effects": ""
+      "description": "Up to three times per turning point, whenever a friendly IMPERIAL NAVY BREACHER operative is performing the Shoot action and you select a navis shotgun (long range), you can use this rule.\nIf you do, until the end of that action, improve the Hit stat of that weapon by 1 and add 1 to both of its Dmg stats."
     },
     {
       "eqId": "IMP-INB-CS",
       "killteamId": "IMP-INB",
       "seq": 3,
       "eqName": "Combat Stimms",
-      "description": "You can ignore any changes to the Move stat of friendly IMPERIAL NAVY BREACHER operatives from being injured.",
-      "effects": "NOINJMOV"
+      "description": "You can ignore any changes to the Move stat of friendly IMPERIAL NAVY BREACHER operatives from being injured."
     },
     {
       "eqId": "IMP-INB-SORD",
       "killteamId": "IMP-INB",
       "seq": 4,
       "eqName": "System Override Device",
-      "description": "Once per turning point, one friendly IMPERIAL NAVY BREACHER operative can perform the Operate Hatch action for 1 less AP.",
-      "effects": ""
+      "description": "Once per turning point, one friendly IMPERIAL NAVY BREACHER operative can perform the Operate Hatch action for 1 less AP."
     }
   ],
   "teamAbilities": [

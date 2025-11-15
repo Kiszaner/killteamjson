@@ -82,32 +82,28 @@
       "killteamId": "CHAOS-GORE",
       "seq": 1,
       "eqName": "Gory Totem",
-      "description": "Before the battle, you can set up one of your Gory Totem markers wholly within your territory and more than 2\" from other markers (excluding your Bloody Cadaver marker).\nWhenever an enemy operative within 3\" of your Gory Totem marker is shooting, fighting or retaliating, your opponent cannot re-roll their attack dice.",
-      "effects": ""
+      "description": "Before the battle, you can set up one of your Gory Totem markers wholly within your territory and more than 2\" from other markers (excluding your Bloody Cadaver marker).\nWhenever an enemy operative within 3\" of your Gory Totem marker is shooting, fighting or retaliating, your opponent cannot re-roll their attack dice."
     },
     {
       "eqId": "CHAOS-GORE-BC",
       "killteamId": "CHAOS-GORE",
       "seq": 2,
       "eqName": "Bloody Cadaver",
-      "description": "Before the battle, you can set up one of your Bloody Cadaver markers wholly within your territory and more than 2\" from other markers (excluding your Gory Totem marker).\nFriendly GOREMONGER operatives can perform the Pick Up Marker action on that marker. In the Ready step of each Strategy phase, you can increase the GORE TANK of one friendly GOREMONGER operative that controls that marker, unless that friendly operative is within control range of an enemy operative.",
-      "effects": ""
+      "description": "Before the battle, you can set up one of your Bloody Cadaver markers wholly within your territory and more than 2\" from other markers (excluding your Gory Totem marker).\nFriendly GOREMONGER operatives can perform the Pick Up Marker action on that marker. In the Ready step of each Strategy phase, you can increase the GORE TANK of one friendly GOREMONGER operative that controls that marker, unless that friendly operative is within control range of an enemy operative."
     },
     {
       "eqId": "CHAOS-GORE-CS",
       "killteamId": "CHAOS-GORE",
       "seq": 3,
       "eqName": "Chaos Sigil",
-      "description": "Once per turning point, when an operative is shooting a friendly GOREMONGER operative, at the start of the Roll Defence Dice step, you can use this rule. If you do, worsen the x of the Piercing weapon rule by 1 (if any) until the end of that sequence. Note that Piercing 1 would therefore be ignored.",
-      "effects": ""
+      "description": "Once per turning point, when an operative is shooting a friendly GOREMONGER operative, at the start of the Roll Defence Dice step, you can use this rule. If you do, worsen the x of the Piercing weapon rule by 1 (if any) until the end of that sequence. Note that Piercing 1 would therefore be ignored."
     },
     {
       "eqId": "CHAOS-GORE-WC",
       "killteamId": "CHAOS-GORE",
       "seq": 4,
       "eqName": "Wrist Chains",
-      "description": "Once per turning point, when a friendly GOREMONGER operative performs the Shoot action and you're selecting a ranged weapon, you can use this rule.\nIf you do, until the end of that action, the following melee weapons are treated as ranged weapons with the Range 2\" weapon rule: chainblade, chainglaive, great chainaxe (ignore its Brutal weapon rule), pickrippers.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly GOREMONGER operative performs the Shoot action and you're selecting a ranged weapon, you can use this rule.\nIf you do, until the end of that action, the following melee weapons are treated as ranged weapons with the Range 2\" weapon rule: chainblade, chainglaive, great chainaxe (ignore its Brutal weapon rule), pickrippers."
     }
   ],
   "teamAbilities": [

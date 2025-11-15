@@ -82,32 +82,28 @@
       "killteamId": "NEC-CAN",
       "seq": 1,
       "eqName": "Matrix Manipulator",
-      "description": "Once per battle, during a friendly CANOPTEK CIRCLE operative's activation or counteraction, you can use this rule. If you do, until the end of that activation/counteraction, a friendly CANOPTEK CIRCLE GEOMANCER operative is treated as your fourth OBELISK NODE marker.",
-      "effects": ""
+      "description": "Once per battle, during a friendly CANOPTEK CIRCLE operative's activation or counteraction, you can use this rule. If you do, until the end of that activation/counteraction, a friendly CANOPTEK CIRCLE GEOMANCER operative is treated as your fourth OBELISK NODE marker."
     },
     {
       "eqId": "NEC-CAN-AON",
       "killteamId": "NEC-CAN",
       "seq": 2,
       "eqName": "Awakened Obelisk Nodes",
-      "description": "After revealing this equipment option, roll one D3. You can use the Animate Obelisk Nodes firefight ploy for 0CP a number of times during the battle equal to the result.",
-      "effects": ""
+      "description": "After revealing this equipment option, roll one D3. You can use the Animate Obelisk Nodes firefight ploy for 0CP a number of times during the battle equal to the result."
     },
     {
       "eqId": "NEC-CAN-SDC",
       "killteamId": "NEC-CAN",
       "seq": 3,
       "eqName": "Nanoscarab Caskets",
-      "description": "Whenever a friendly CANOPTEK CIRCLE operative is activated, it regains up to D3 lost wounds.",
-      "effects": ""
+      "description": "Whenever a friendly CANOPTEK CIRCLE operative is activated, it regains up to D3 lost wounds."
     },
     {
       "eqId": "NEC-CAN-PS",
       "killteamId": "NEC-CAN",
       "seq": 4,
       "eqName": "Phase Shifter",
-      "description": "Once per turning point, when an operative is shooting a friendly CANOPTEK CIRCLE GEOMANCER operative, at the start of the Roll Defence Dice step, you can use this rule.\nIf you do, worsen the x of the Piercing weapon rule by 1 (if any) until the end of that sequence. Note that Piercing 1 would therefore be ignored.",
-      "effects": ""
+      "description": "Once per turning point, when an operative is shooting a friendly CANOPTEK CIRCLE GEOMANCER operative, at the start of the Roll Defence Dice step, you can use this rule.\nIf you do, worsen the x of the Piercing weapon rule by 1 (if any) until the end of that sequence. Note that Piercing 1 would therefore be ignored."
     }
   ],
   "teamAbilities": [

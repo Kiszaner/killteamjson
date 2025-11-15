@@ -82,32 +82,28 @@
       "killteamId": "TYR-BBRO",
       "seq": 1,
       "eqName": "Covert Disguises",
-      "description": "After revealing this equipment option, roll 1D3.\nAs a STRATEGIC GAMBIT in the first turning point, a number of friendly BROOD BROTHER BROODGUARD operatives equal to the result that are wholly within your drop zone can immediately perform a free\nReposition action, but must end that move wholly within 3\" of your drop zone.",
-      "effects": ""
+      "description": "After revealing this equipment option, roll 1D3.\nAs a STRATEGIC GAMBIT in the first turning point, a number of friendly BROOD BROTHER BROODGUARD operatives equal to the result that are wholly within your drop zone can immediately perform a free\nReposition action, but must end that move wholly within 3\" of your drop zone."
     },
     {
       "eqId": "TYR-BBRO-CK",
       "killteamId": "TYR-BBRO",
       "seq": 2,
       "eqName": "Cult Knives",
-      "description": "Friendly BROOD BROTHER BROODGUARD operatives have the following melee weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Cult Knife|3|4+|3/4|\n",
-      "effects": "ADDWEP:Cult Knife|M|3|4+|3/4|"
+      "description": "Friendly BROOD BROTHER BROODGUARD operatives have the following melee weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Cult Knife|3|4+|3/4|\n"
     },
     {
       "eqId": "TYR-BBRO-CT",
       "killteamId": "TYR-BBRO",
       "seq": 3,
       "eqName": "Cult Talisman",
-      "description": "Once per turning point, when an operative is shooting a friendly BROOD BROTHER operative (Excluding Patriarch), in the roll defence dice step, you can retain one of your normal successes as a critical success instead.",
-      "effects": ""
+      "description": "Once per turning point, when an operative is shooting a friendly BROOD BROTHER operative (Excluding Patriarch), in the roll defence dice step, you can retain one of your normal successes as a critical success instead."
     },
     {
       "eqId": "TYR-BBRO-LO",
       "killteamId": "TYR-BBRO",
       "seq": 4,
       "eqName": "Lookout",
-      "description": "STRATEGIC GAMBIT: Select one enemy operative visible to a friendly BROOD BROTHER operative to gain one of your Crossfire tokens.",
-      "effects": ""
+      "description": "STRATEGIC GAMBIT: Select one enemy operative visible to a friendly BROOD BROTHER operative to gain one of your Crossfire tokens."
     }
   ],
   "teamAbilities": [

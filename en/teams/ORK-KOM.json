@@ -82,32 +82,28 @@
       "killteamId": "ORK-KOM",
       "seq": 1,
       "eqName": "Choppas",
-      "description": "Friendly KOMMANDO operatives (excluding BOMB SQUIG and GROT) have the following melee weapon. Note that some operatives already have this weapon but with better stats, in that instance, use the better version.\n \n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Choppa|3|3+|4/5|",
-      "effects": "ADDWEP:Choppa|M|3|3+|4/5|"
+      "description": "Friendly KOMMANDO operatives (excluding BOMB SQUIG and GROT) have the following melee weapon. Note that some operatives already have this weapon but with better stats, in that instance, use the better version.\n \n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Choppa|3|3+|4/5|"
     },
     {
       "eqId": "ORK-KOM-CS",
       "killteamId": "ORK-KOM",
       "seq": 2,
       "eqName": "Collapsible Stocks",
-      "description": "Remove the Range weapon rule from the following ranged weapons that friendly KOMMANDO operatives have:\r \r- Shokka Pistol\r - Slugga\r ",
-      "effects": ""
+      "description": "Remove the Range weapon rule from the following ranged weapons that friendly KOMMANDO operatives have:\r \r- Shokka Pistol\r - Slugga\r "
     },
     {
       "eqId": "ORK-KOM-DYN",
       "killteamId": "ORK-KOM",
       "seq": 3,
       "eqName": "Dynamite",
-      "description": "Once per battle, a friendly KOMMANDO operative (excluding BOMB SQUIG and GROT) can use the following Ranged Weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Dynamite|5|4+|4/5|\n|**Weapon Rules**|\n|Range 4\", Blast 1\", Heavy (RepositionOnly), Saturate|\n\n",
-      "effects": "ADDWEP:Dynamite|R|5|4+|4/5|Range 4\", Blast 1\", Saturate, Limited, Heavy (RepositionOnly)"
+      "description": "Once per battle, a friendly KOMMANDO operative (excluding BOMB SQUIG and GROT) can use the following Ranged Weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Dynamite|5|4+|4/5|\n|**Weapon Rules**|\n|Range 4\", Blast 1\", Heavy (RepositionOnly), Saturate|\n\n"
     },
     {
       "eqId": "ORK-KOM-HRP",
       "killteamId": "ORK-KOM",
       "seq": 4,
       "eqName": "Harpoon",
-      "description": "Once per turning point, a friendly KOMMANDO operative (excluding BOMB SQUIG and GROT) can use the following Ranged Weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Harpoon|4|4+|4/5|\n|**Weapon Rules**|\n|Range 8\", Lethal 5+, Stun|",
-      "effects": "ADDWEP:Harpoon|R|4|4+|4/5|Range 8\", Lethal 5+, Stun"
+      "description": "Once per turning point, a friendly KOMMANDO operative (excluding BOMB SQUIG and GROT) can use the following Ranged Weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Harpoon|4|4+|4/5|\n|**Weapon Rules**|\n|Range 8\", Lethal 5+, Stun|"
     }
   ],
   "opTypes": [

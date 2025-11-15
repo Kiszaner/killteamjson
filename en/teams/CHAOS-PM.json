@@ -82,32 +82,28 @@
       "killteamId": "CHAOS-PM",
       "seq": 1,
       "eqName": "Plague Bells",
-      "description": "You can ignore any changes to the stats of friendly PLAGUE MARINE operatives from being injured (including their weapons' stats).",
-      "effects": "NOINJ"
+      "description": "You can ignore any changes to the stats of friendly PLAGUE MARINE operatives from being injured (including their weapons' stats)."
     },
     {
       "eqId": "CHAOS-PM-BG",
       "killteamId": "CHAOS-PM",
       "seq": 2,
       "eqName": "Blight Grenades",
-      "description": "Friendly PLAGUE MARINE operatives have the following ranged weapon (you cannot select it for use more than twice during the battle):\n \n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Blight Grenade|4|4+|2/4|\n|**Weapon Rules**|\n|Range 6\", Blast 2\", Saturate, Severe, *Poison|",
-      "effects": "ADDWEP:Blight Grenade|R|4|4+|2/4|Range 6\", Blast 2\", Saturate, Severe, *Poison"
+      "description": "Friendly PLAGUE MARINE operatives have the following ranged weapon (you cannot select it for use more than twice during the battle):\n \n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Blight Grenade|4|4+|2/4|\n|**Weapon Rules**|\n|Range 6\", Blast 2\", Saturate, Severe, *Poison|"
     },
     {
       "eqId": "CHAOS-PM-PR",
       "killteamId": "CHAOS-PM",
       "seq": 3,
       "eqName": "Plague Rounds",
-      "description": "Friendly PLAGUE MARINE operatives' boltguns and bolt pistols have the Poison and Severe weapon rules.",
-      "effects": "wepid:BG,BP|WR:*Poison, Severe"
+      "description": "Friendly PLAGUE MARINE operatives' boltguns and bolt pistols have the Poison and Severe weapon rules."
     },
     {
       "eqId": "CHAOS-PM-PV",
       "killteamId": "CHAOS-PM",
       "seq": 4,
       "eqName": "Poison Vents",
-      "description": "Whenever an enemy operative that has one of your Poison tokens is activated within 3\" of a friendly PLAGUE MARINE operative, inflict D3 damage on it (instead of the normal 1).",
-      "effects": ""
+      "description": "Whenever an enemy operative that has one of your Poison tokens is activated within 3\" of a friendly PLAGUE MARINE operative, inflict D3 damage on it (instead of the normal 1)."
     }
   ],
   "teamAbilities": [

@@ -82,32 +82,28 @@
       "killteamId": "AEL-HOTA",
       "seq": 1,
       "eqName": "Chain Snare",
-      "description": "Whenever an enemy operative would perform the Fall Back action while within control range of a friendly HAND OF THE ARCHON operative, if no other enemy operatives are within that friendly operative's control range,\nyou can use this rule.\nIf you do, roll two D6, or one D6 if that enemy operative has a higher Wounds stat than that friendly operative.\nIf any result is a 4+, that enemy operative cannot perform that action during that activation or counteraction (no AP are spent on it).",
-      "effects": ""
+      "description": "Whenever an enemy operative would perform the Fall Back action while within control range of a friendly HAND OF THE ARCHON operative, if no other enemy operatives are within that friendly operative's control range,\nyou can use this rule.\nIf you do, roll two D6, or one D6 if that enemy operative has a higher Wounds stat than that friendly operative.\nIf any result is a 4+, that enemy operative cannot perform that action during that activation or counteraction (no AP are spent on it)."
     },
     {
       "eqId": "AEL-HOTA-WB",
       "killteamId": "AEL-HOTA",
       "seq": 2,
       "eqName": "Wicked Blades",
-      "description": "Add 1 to the Atk stat of friendly HAND OF THE ARCHON operatives' array of blades.",
-      "effects": "wepid:AOB|ATK:+1"
+      "description": "Add 1 to the Atk stat of friendly HAND OF THE ARCHON operatives' array of blades."
     },
     {
       "eqId": "AEL-HOTA-TC",
       "killteamId": "AEL-HOTA",
       "seq": 3,
       "eqName": "Toxic Coating",
-      "description": "Up to twice per turning point, whenever a friendly HAND OF THE ARCHON operative is fighting or retaliating and you're selecting a melee weapon, you can use this rule.\nIf you do, until the end of that sequence, that operative's melee weapon has the Lethal 5+ weapon rule.",
-      "effects": ""
+      "description": "Up to twice per turning point, whenever a friendly HAND OF THE ARCHON operative is fighting or retaliating and you're selecting a melee weapon, you can use this rule.\nIf you do, until the end of that sequence, that operative's melee weapon has the Lethal 5+ weapon rule."
     },
     {
       "eqId": "AEL-HOTA-RP",
       "killteamId": "AEL-HOTA",
       "seq": 4,
       "eqName": "Refined Poison",
-      "description": "Up to twice per turning point, whenever a friendly HAND OF THE ARCHON operative is performing the Shoot action and you select a shardcarbine, splinter cannon, splinter pistol, splinter rifle or stinger pistol,\nyou can use this rule. If you do, until the end of that action, add 1 to the Normal Dmg stat of that weapon.",
-      "effects": ""
+      "description": "Up to twice per turning point, whenever a friendly HAND OF THE ARCHON operative is performing the Shoot action and you select a shardcarbine, splinter cannon, splinter pistol, splinter rifle or stinger pistol,\nyou can use this rule. If you do, until the end of that action, add 1 to the Normal Dmg stat of that weapon."
     }
   ],
   "teamAbilities": [

@@ -82,32 +82,28 @@
       "killteamId": "IMP-TEMPAQ",
       "seq": 1,
       "eqName": "Tempestus Dagger",
-      "description": "Friendly Tempestus Aquilon operatives (excluding SERVO-SENTRY) have the following Melee weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Tempestus Dagger|3|4+|3/4|\n",
-      "effects": "ADDWEP:Tempestus Dagger|M|3|4+|3/4|"
+      "description": "Friendly Tempestus Aquilon operatives (excluding SERVO-SENTRY) have the following Melee weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Tempestus Dagger|3|4+|3/4|\n"
     },
     {
       "eqId": "IMP-TEMPAQ-CS",
       "killteamId": "IMP-TEMPAQ",
       "seq": 2,
       "eqName": "Combat Stimms",
-      "description": "You can ignore any changes to the Move stat of friendly TEMPESTUS AQUILON operatives from being injured.",
-      "effects": "NOINJMOV"
+      "description": "You can ignore any changes to the Move stat of friendly TEMPESTUS AQUILON operatives from being injured."
     },
     {
       "eqId": "IMP-TEMPAQ-DA",
       "killteamId": "IMP-TEMPAQ",
       "seq": 3,
       "eqName": "Drop Augury",
-      "description": "Once during the battle, when a friendly TEMPESTUS AQUILON operative that is set up above is activated, before expending or landing that operative, you can move one of your Drop markers again.\r However, it cannot be moved closer to your opponent's drop zone.",
-      "effects": ""
+      "description": "Once during the battle, when a friendly TEMPESTUS AQUILON operative that is set up above is activated, before expending or landing that operative, you can move one of your Drop markers again.\r However, it cannot be moved closer to your opponent's drop zone."
     },
     {
       "eqId": "IMP-TEMPAQ-ROS",
       "killteamId": "IMP-TEMPAQ",
       "seq": 4,
       "eqName": "Remote Overseer",
-      "description": "Once during the battle, when rolling off to decide initiative, you can re-roll your D6.",
-      "effects": ""
+      "description": "Once during the battle, when rolling off to decide initiative, you can re-roll your D6."
     }
   ],
   "teamAbilities": [

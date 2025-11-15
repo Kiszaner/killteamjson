@@ -82,32 +82,28 @@
       "killteamId": "ORK-WK",
       "seq": 1,
       "eqName": "Drill Rokkits",
-      "description": "Once per Turning Point, whenever a friendly WRECKA KREW operative is performing the Shoot action and you select a Rokkit Launcha or 'Eavy Rokkit Launcha, you can use this rule.\nIf you do, until the end of that action, that weapon loses the Blast weapon rule but has the Piercing 1 weapon rule.",
-      "effects": ""
+      "description": "Once per Turning Point, whenever a friendly WRECKA KREW operative is performing the Shoot action and you select a Rokkit Launcha or 'Eavy Rokkit Launcha, you can use this rule.\nIf you do, until the end of that action, that weapon loses the Blast weapon rule but has the Piercing 1 weapon rule."
     },
     {
       "eqId": "ORK-WK-XA",
       "killteamId": "ORK-WK",
       "seq": 2,
       "eqName": "Extra Armour",
-      "description": "Subtract 1\" from the Move stat of friendly WRECKA KREW operatives improve their Save stat by 1. This excludes BOMB SQUIG operatives and isn't cumulative with the Protective rule of a Portable Barricade from universal equipment.",
-      "effects": "M|-1"
+      "description": "Subtract 1\" from the Move stat of friendly WRECKA KREW operatives improve their Save stat by 1. This excludes BOMB SQUIG operatives and isn't cumulative with the Protective rule of a Portable Barricade from universal equipment."
     },
     {
       "eqId": "ORK-WK-EO",
       "killteamId": "ORK-WK",
       "seq": 3,
       "eqName": "Engine Oil",
-      "description": "Once per Turning Point, whenever a friendly WRECKA KREW operative (excluding BOMB SQUIG) is activated, you can use this rule.\nIf you do, until the end of that activation, you can ignore any changes to that operative's stats from being injured (including its weapons' stats).",
-      "effects": ""
+      "description": "Once per Turning Point, whenever a friendly WRECKA KREW operative (excluding BOMB SQUIG) is activated, you can use this rule.\nIf you do, until the end of that activation, you can ignore any changes to that operative's stats from being injured (including its weapons' stats)."
     },
     {
       "eqId": "ORK-WK-GL",
       "killteamId": "ORK-WK",
       "seq": 4,
       "eqName": "Glyphs",
-      "description": "When this item of equipment is selected, also select the Waaagh! or Destruction strategy ploy.\nThe first time you would use that ploy during the battle, it costs 0CP; whenever you would use it thereafter, it costs 0CP if you have any Wrecka points.",
-      "effects": ""
+      "description": "When this item of equipment is selected, also select the Waaagh! or Destruction strategy ploy.\nThe first time you would use that ploy during the battle, it costs 0CP; whenever you would use it thereafter, it costs 0CP if you have any Wrecka points."
     }
   ],
   "teamAbilities": [

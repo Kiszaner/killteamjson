@@ -82,32 +82,28 @@
       "killteamId": "TAU-VESP",
       "seq": 1,
       "eqName": "Neurostimulant",
-      "description": "In the Ready step of each Strategy phase, when determining how many Communion points to gain, you can roll two D3 and select one D3 to use.",
-      "effects": ""
+      "description": "In the Ready step of each Strategy phase, when determining how many Communion points to gain, you can roll two D3 and select one D3 to use."
     },
     {
       "eqId": "TAU-VESP-AGS",
       "killteamId": "TAU-VESP",
       "seq": 2,
       "eqName": "Aggression Stimulant",
-      "description": "Whenever a friendly VESPID STINGWING operative (excluding OVERSIGHT DRONE) is fighting, its melee weapons have the Ceaseless weapon rule.",
-      "effects": ""
+      "description": "Whenever a friendly VESPID STINGWING operative (excluding OVERSIGHT DRONE) is fighting, its melee weapons have the Ceaseless weapon rule."
     },
     {
       "eqId": "TAU-VESP-AS",
       "killteamId": "TAU-VESP",
       "seq": 2,
       "eqName": "Accelerant Stimulant",
-      "description": "Whenever a friendly VESPID STINGWING operative (excluding OVERSIGHT DRONE) performs the Charge or Dash action, it can move an additional 1\". If it uses FLY for this action, you can set it back up 1\" further away.",
-      "effects": ""
+      "description": "Whenever a friendly VESPID STINGWING operative (excluding OVERSIGHT DRONE) performs the Charge or Dash action, it can move an additional 1\". If it uses FLY for this action, you can set it back up 1\" further away."
     },
     {
       "eqId": "TAU-VESP-CS",
       "killteamId": "TAU-VESP",
       "seq": 2,
       "eqName": "Convergence Stimulant",
-      "description": "Once per Turning Point, a friendly VESPID STINGWING operative can perform the Pick Up Marker or a mission action without spending a Communion point.",
-      "effects": ""
+      "description": "Once per Turning Point, a friendly VESPID STINGWING operative can perform the Pick Up Marker or a mission action without spending a Communion point."
     }
   ],
   "teamAbilities": [

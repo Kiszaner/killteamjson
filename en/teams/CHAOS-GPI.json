@@ -82,32 +82,28 @@
       "killteamId": "CHAOS-GPI",
       "seq": 1,
       "eqName": "Mutoid Vermin",
-      "description": "After revealing this equipment option, add two GELLERPOX INFECTED MUTOID VERMIN operatives to your kill team for the battle.",
-      "effects": ""
+      "description": "After revealing this equipment option, add two GELLERPOX INFECTED MUTOID VERMIN operatives to your kill team for the battle."
     },
     {
       "eqId": "CHAOS-GPI-PS",
       "killteamId": "CHAOS-GPI",
       "seq": 2,
       "eqName": "Polluted Stockpile",
-      "description": "After revealing this equipment option, roll 2D6: on a 7+, remove one of your opponent's selected equipment options; otherwise, that player removes one of their own selected equipment options.\nThey cannot select that equipment again during the game sequence (e.g. in the Scouting step of Approved Ops). You cannot select this equipment option after the Select Operatives step.",
-      "effects": ""
+      "description": "After revealing this equipment option, roll 2D6: on a 7+, remove one of your opponent's selected equipment options; otherwise, that player removes one of their own selected equipment options.\nThey cannot select that equipment again during the game sequence (e.g. in the Scouting step of Approved Ops). You cannot select this equipment option after the Select Operatives step."
     },
     {
       "eqId": "CHAOS-GPI-MS",
       "killteamId": "CHAOS-GPI",
       "seq": 3,
       "eqName": "Mutated Symptoms",
-      "description": "Once per battle, when you activate a friendly GELLERPOX INFECTED operative, you can select one additional TECHNO-CURSE for that operative to gain until the end of the turning point (it must be different from your existing TECHNO-CURSE). Note that if a rule refers to an enemy operative being affected by your selected TECHNO-CURSE rule (e.g. VULGRAR THIRCE-CURSED operative''s Spread The Glorious Gifts rule), it is affected by your additional TECHNO-CURSE rule too.",
-      "effects": ""
+      "description": "Once per battle, when you activate a friendly GELLERPOX INFECTED operative, you can select one additional TECHNO-CURSE for that operative to gain until the end of the turning point (it must be different from your existing TECHNO-CURSE). Note that if a rule refers to an enemy operative being affected by your selected TECHNO-CURSE rule (e.g. VULGRAR THIRCE-CURSED operative''s Spread The Glorious Gifts rule), it is affected by your additional TECHNO-CURSE rule too."
     },
     {
       "eqId": "CHAOS-GPI-PB",
       "killteamId": "CHAOS-GPI",
       "seq": 4,
       "eqName": "Plague Bellows",
-      "description": "Whenever an operative is shooting a friendly GELLERPOX INFECTED NIGHTMARE HULK operative that's more than 6\" from it, you can retain one of your defence dice results of 3 as a normal success instead of discarding it.",
-      "effects": ""
+      "description": "Whenever an operative is shooting a friendly GELLERPOX INFECTED NIGHTMARE HULK operative that's more than 6\" from it, you can retain one of your defence dice results of 3 as a normal success instead of discarding it."
     }
   ],
   "teamAbilities": [

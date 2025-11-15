@@ -82,32 +82,28 @@
       "killteamId": "IMP-BC",
       "seq": 1,
       "eqName": "Covert Guises",
-      "description": "After revealing this equipment option, roll one D3. As a STRATEGIC GAMBIT in the first turning point, a number of friendly BATTLECLADE operatives equal to the result that are wholly within your drop zone can immediately perform a free Reposition action, but must end that move wholly within 3\" of your drop zone.\nYour TECHNOARCHEOLOGIST operative cannot perform more than one Reposition action in the Strategy phase of the first turning point (i.e. as a result of the Seeker of Divine Arcana rule as well).",
-      "effects": ""
+      "description": "After revealing this equipment option, roll one D3. As a STRATEGIC GAMBIT in the first turning point, a number of friendly BATTLECLADE operatives equal to the result that are wholly within your drop zone can immediately perform a free Reposition action, but must end that move wholly within 3\" of your drop zone.\nYour TECHNOARCHEOLOGIST operative cannot perform more than one Reposition action in the Strategy phase of the first turning point (i.e. as a result of the Seeker of Divine Arcana rule as well)."
     },
     {
       "eqId": "IMP-BC-EC",
       "killteamId": "IMP-BC",
       "seq": 2,
       "eqName": "Electromantic Capacitors",
-      "description": "Friendly BATTLECLADE operatives' melee weapons have the Shock weapon rule. Whenever a ready friendly BATTLECLADE operative is retaliating, its melee weapons also have the Severe weapon rule.",
-      "effects": ""
+      "description": "Friendly BATTLECLADE operatives' melee weapons have the Shock weapon rule. Whenever a ready friendly BATTLECLADE operative is retaliating, its melee weapons also have the Severe weapon rule."
     },
     {
       "eqId": "IMP-BC-CA",
       "killteamId": "IMP-BC",
       "seq": 3,
       "eqName": "Concealed Apparatus",
-      "description": "STRATEGIC GAMBIT in the second turning point.  \n\nYou can swap the locations of any number of friendly BATTLECLADE SERVITOR operatives with each other (excluding GUN SERVITOR), and you can swap the locations of friendly BATTLECLADE GUN SERVITOR operatives with each other (remove them from the killzone and set them back up again).\nYou cannot swap any operatives that have done any of the following during the battle:\n\n- Used any weapons on their datacard.\n- Performed any actions on their datacard.\n- Used the Mechanosuture Array rule(see TECHNOMEDIC).\n",
-      "effects": ""
+      "description": "STRATEGIC GAMBIT in the second turning point.  \n\nYou can swap the locations of any number of friendly BATTLECLADE SERVITOR operatives with each other (excluding GUN SERVITOR), and you can swap the locations of friendly BATTLECLADE GUN SERVITOR operatives with each other (remove them from the killzone and set them back up again).\nYou cannot swap any operatives that have done any of the following during the battle:\n\n- Used any weapons on their datacard.\n- Performed any actions on their datacard.\n- Used the Mechanosuture Array rule(see TECHNOMEDIC).\n"
     },
     {
       "eqId": "IMP-BC-NCRC",
       "killteamId": "IMP-BC",
       "seq": 4,
       "eqName": "Neurocyclic Reserve Cells",
-      "description": "After revealing this equipment option, roll one D3. A number of times during the battle equal to the result, whenever you TRANSFER POWER, you can use this rule. If you do, don't subtract 1 from the operative's APL stat, but it cannot perform Shoot or Fight actions during that activation (this takes precedence over the normal Noospheric Network rules).",
-      "effects": ""
+      "description": "After revealing this equipment option, roll one D3. A number of times during the battle equal to the result, whenever you TRANSFER POWER, you can use this rule. If you do, don't subtract 1 from the operative's APL stat, but it cannot perform Shoot or Fight actions during that activation (this takes precedence over the normal Noospheric Network rules)."
     }
   ],
   "teamAbilities": [

@@ -82,32 +82,28 @@
       "killteamId": "CHAOS-LEG",
       "seq": 51,
       "eqName": "Warded Armour",
-      "description": "**STRATEGIC GAMBIT** Select one friendly LEGIONARY operative. Until the Ready step of the next Strategy phase, change that operative's Save stat to 2+.",
-      "effects": ""
+      "description": "**STRATEGIC GAMBIT** Select one friendly LEGIONARY operative. Until the Ready step of the next Strategy phase, change that operative's Save stat to 2+."
     },
     {
       "eqId": "CHAOS-LEG-MB",
       "killteamId": "CHAOS-LEG",
       "seq": 52,
       "eqName": "Malefic Blades",
-      "description": "Friendly LEGIONARY operatives have the following melee weapon for the battle:\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Malefic Blade|5|3+|3/4|\n",
-      "effects": "ADDWEP:Malefic Blade|M|5|3+|3/4|"
+      "description": "Friendly LEGIONARY operatives have the following melee weapon for the battle:\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Malefic Blade|5|3+|3/4|\n"
     },
     {
       "eqId": "CHAOS-LEG-TR",
       "killteamId": "CHAOS-LEG",
       "seq": 53,
       "eqName": "Tainted Rounds",
-      "description": "Once per turning point, when a friendly LEGIONARY operative is performing the Shoot action and you select a bolt pistol or boltgun, you can use this rule.\nIf you do, until the end of that action, that weapon has the Rending weapon rule.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly LEGIONARY operative is performing the Shoot action and you select a bolt pistol or boltgun, you can use this rule.\nIf you do, until the end of that action, that weapon has the Rending weapon rule."
     },
     {
       "eqId": "CHAOS-LEG-CT",
       "killteamId": "CHAOS-LEG",
       "seq": 54,
       "eqName": "Chaos Talismans",
-      "description": "**STRATEGIC GAMBIT**\nSelect one Marks of Chaos keyword.\nOnce during each of their activations, when a friendly LEGIONARY operative that has that keyword is shooting, fighting or retaliating, if you roll two or more fails,\nyou can inflict D3 damage on that friendly operative to discard one of them and retain the other as a normal success instead.\nNote that if it is the Shoot action and that damage incapacitates that friendly operative, the action does not end (continue the sequence with your successful attack dice).",
-      "effects": ""
+      "description": "**STRATEGIC GAMBIT**\nSelect one Marks of Chaos keyword.\nOnce during each of their activations, when a friendly LEGIONARY operative that has that keyword is shooting, fighting or retaliating, if you roll two or more fails,\nyou can inflict D3 damage on that friendly operative to discard one of them and retain the other as a normal success instead.\nNote that if it is the Shoot action and that damage incapacitates that friendly operative, the action does not end (continue the sequence with your successful attack dice)."
     }
   ],
   "teamAbilities": [

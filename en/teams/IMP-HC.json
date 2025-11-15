@@ -82,32 +82,28 @@
       "killteamId": "IMP-HC",
       "seq": 1,
       "eqName": "Rad Bombardment",
-      "description": "Once per battle STRATEGIC GAMBIT in any turning point after the first. Select one objective marker or your opponent's drop zone.\nRoll one D6 separately for each enemy operative within control range of that selected objective marker or within that drop zone, and subtract 1 if any part of that enemy operative's base is underneath Vantage terrain:  \n\non a 4+, subtract 1 from that operative's APL stat until the end of its next activation;  \n\non a 6, also inflict D3 damage on it (roll separately for each).",
-      "effects": ""
+      "description": "Once per battle STRATEGIC GAMBIT in any turning point after the first. Select one objective marker or your opponent's drop zone.\nRoll one D6 separately for each enemy operative within control range of that selected objective marker or within that drop zone, and subtract 1 if any part of that enemy operative's base is underneath Vantage terrain:  \n\non a 4+, subtract 1 from that operative's APL stat until the end of its next activation;  \n\non a 6, also inflict D3 damage on it (roll separately for each)."
     },
     {
       "eqId": "IMP-HC-RS",
       "killteamId": "IMP-HC",
       "seq": 2,
       "eqName": "Redundancy Systems",
-      "description": "Once per turning point, when a friendly HUNTER CLADE operative is activated, if it's not within control range of enemy operatives, you can use this rule.\nIf you do, that friendly operative regains up to D3+2 lost wounds.",
-      "effects": ""
+      "description": "Once per turning point, when a friendly HUNTER CLADE operative is activated, if it's not within control range of enemy operatives, you can use this rule.\nIf you do, that friendly operative regains up to D3+2 lost wounds."
     },
     {
       "eqId": "IMP-HC-RF",
       "killteamId": "IMP-HC",
       "seq": 3,
       "eqName": "Refractor Field",
-      "description": "Once per turning point, when an operative is shooting a friendly HUNTER CLADE operative, at the start of the Roll Defence Dice step, you can use this rule.\nIf you do, worsen the x of the Piercing weapon rule by 1 (if any) until the end of that sequence. Note that Piercing 1 would therefore be ignored.",
-      "effects": ""
+      "description": "Once per turning point, when an operative is shooting a friendly HUNTER CLADE operative, at the start of the Roll Defence Dice step, you can use this rule.\nIf you do, worsen the x of the Piercing weapon rule by 1 (if any) until the end of that sequence. Note that Piercing 1 would therefore be ignored."
     },
     {
       "eqId": "IMP-HC-EML",
       "killteamId": "IMP-HC",
       "seq": 4,
       "eqName": "Extremis Mind-Link",
-      "description": "Once per battle, you can use the Control Edict firefight ploy for 0CP, but instead of activating the selected friendly operatives in succession, activate them at the same time.\nComplete their activations action by action in any order.",
-      "effects": ""
+      "description": "Once per battle, you can use the Control Edict firefight ploy for 0CP, but instead of activating the selected friendly operatives in succession, activate them at the same time.\nComplete their activations action by action in any order."
     }
   ],
   "teamAbilities": [
