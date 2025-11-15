@@ -1257,5 +1257,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-IMP-PHO-CUSTOM",
+      "name": "Personalizada",
+      "description": "Al final del paso de Elegir agentes, si este agente es elegido para el despliegue, elige hasta dos de las siguientes reglas de armas para que las tenga esta arma durante la batalla: Críticos de Penetración 1, Desgarradora, Equilibrada, Letal 5+, Saturación.",
+      "team": "IMP-PHO"
+    }
   ]
 }

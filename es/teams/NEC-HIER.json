@@ -1092,5 +1092,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-NEC-HIER-MAGNIFY",
+      "name": "Ampliar",
+      "description": "Siempre que este agente realice una acción de Disparar con esta arma, si hay otro APRENTECNÓLOGO CÍRCULO DE HIEROTECNÓLOGOS o CRIPTECNÓLOGO CÍRCULO DE HIEROTECNÓLOGOS amigo con una orden de trabarse y visible para este agente, puedes usar esta regla. si lo haces, trata a ese agente como el agente activo a efectos de determinar un blanco válido, cobertura y ofuscación. Si lo haces, esta arma tiene la regla de armas Incesante hasta el final de esa acción.",
+      "team": "NEC-HIER"
+    }
   ]
 }

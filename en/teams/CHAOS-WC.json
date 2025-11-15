@@ -1373,5 +1373,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-CHAOS-WC-MINDBURN",
+      "name": "Mindburn",
+      "description": " In the Resolve Attack Dice step, if you inflict damage with any critical successes, the operative this weapon is being used against gains one of your Mindburn tokens (if it does not already have one)\nuntil the end of its next activation, until it's incapacitated or until a friendly operative uses this weapon again (whichever comes first).\nWhenever an operative has one of your Mindburn tokens, worsen the Hit stat of its weapons by 1 (this is not cumulative with being injured).",
+      "team": "CHAOS-WC"
+    }
   ]
 }

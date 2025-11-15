@@ -672,5 +672,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-AEL-MND-SOULSTRIKE",
+      "name": "Rompealmas",
+      "description": "Los dados de defensa exitosos se determinan de manera diferente. Cada resultado que sea igual o menor que el atributo de LPA del objetivo es un éxito y se retiene. Cada resultado que sea mayor que el atributo de LPA del objetivo es un fallo y se descarta. Cada resultado de 1 es siempre un éxito crítico. Los otros éxitos son éxitos normales. Cada resultado de 6 es siempre un fallo.",
+      "team": "AEL-MND"
+    }
   ]
 }

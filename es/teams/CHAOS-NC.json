@@ -1116,5 +1116,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-CHAOS-NC-TERRORCHEM",
+      "name": "Terrotoxinas",
+      "description": "En el paso de Resolver Dados de Ataque, si infliges daño con algún impacto crítico, el agente al que se está atacando con esta arma gana una de tus fichas de terrotoxinas (si no tiene una ya).",
+      "team": "CHAOS-NC"
+    }
   ]
 }

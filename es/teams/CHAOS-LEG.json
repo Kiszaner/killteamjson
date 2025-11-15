@@ -1427,5 +1427,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-CHAOS-LEG-SIPHON",
+      "name": "Drenaje Vital",
+      "description": "Cuando elijas esta arma, puedes usar esta regla. Si lo haces, al inicio del paso de Resolver Dados de Ataque, puedes selecciona un agente amigo LEGIONARIO visible y a 6\" de este agente. Por cada dado de ataque que resuelvas durante ese paso que inflija daño, ese agente amigo recupera 1 herida perdida, o 1D3 heridas perdidas si fue un éxito crítico. No puedes usar esta regla de arma más de una vez por punto de inflexión.",
+      "team": "CHAOS-LEG"
+    }
   ]
 }

@@ -764,5 +764,19 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-ORK-WK-PULSA",
+      "name": "Indukzión",
+      "description": "No selecciones un blanco válido. En su lugar, sitúa tu marcador de Indukzión visible para este agente, o en terreno aventajado de un elemento de terreno visible para este agente. Ese marcador gana 1 punto de Indukzión (usa las fichas de puntos de Indukzión); luego tira los dados de ataque: el marcador gana 1 punto de Indukzión adicional por cada éxito (hasta un máximo de 3 puntos adicionales). Inflige 1D3 de daño por separado a cada agente completamente a x\" o menos de ese marcador, donde x equivale a los puntos de Indukzión de ese marcador. Después la acción finaliza.",
+      "team": "ORK-WK"
+    },
+    {
+      "id": "WR-ORK-WK-SMASH",
+      "name": "Destrozar",
+      "description": "Cuando golpees, puedes mover en línea recta al agente enemigo hasta 1\". Si lo haces, debe terminar el movimiento más lejos de este agente y en un lugar donde pueda situarse. A continuación, mueve a este agente en línea recta hasta 1\", pero debe terminar ese movimiento en la zona de control del agente enemigo (si no es posible, no puedes moverlo)",
+      "team": "ORK-WK"
+    }
   ]
 }

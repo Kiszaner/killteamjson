@@ -994,5 +994,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-IMP-TEMPAQ-SALVO",
+      "name": "Salva",
+      "description": "Elige hasta dos blancos válidos diferentes que no estén en la zona de control de agentes amigos. Dispara con esta arma contra ellos dos en el orden que quieras (resuelve cada secuencia por separado).",
+      "team": "IMP-TEMPAQ"
+    }
   ]
 }

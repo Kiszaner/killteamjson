@@ -1037,5 +1037,25 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-AEL-HOTA-FLAY",
+      "name": "Flay",
+      "description": "Whenever this operative is using this weapon, the first time you strike with a critical success during that sequence, you can select one friendly HAND OF THE ARCHON operative within 6\" of it to gain one of your Pain tokens.",
+      "team": "AEL-HOTA"
+    },
+    {
+      "id": "WR-AEL-HOTA-STINGER",
+      "name": "Stinger",
+      "description": "Whenever an enemy operative is incapacitated by this weapon, before it's removed from the killzone, inflict D3 damage on each other operative visible to and within 2\" of it.\nEach operative subsequently incapacitated as a result of this weapon rule will cause this to happen again.",
+      "team": "AEL-HOTA"
+    },
+    {
+      "id": "WR-AEL-HOTA-TANGLE",
+      "name": "Tangle",
+      "description": "Whenever this operative is fighting or retaliating with this weapon, each of your blocks can be allocated to block two unresolved successes (instead of one).",
+      "team": "AEL-HOTA"
+    }
   ]
 }

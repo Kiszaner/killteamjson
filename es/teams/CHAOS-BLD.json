@@ -1422,5 +1422,25 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-CHAOS-BLD-BLOOD",
+      "name": "Ofrenda de Sangre",
+      "description": "Siempre que este agente esté luchando o contraatacando con esta arma, la primera vez que logres un éxito crítico durante esa secuencia, obtienes una ficha Ungido.",
+      "team": "CHAOS-BLD"
+    },
+    {
+      "id": "WR-CHAOS-BLD-SHIELD",
+      "name": "Escudo",
+      "description": "Siempre que este operativo esté luchando o tomando represalias con esta arma, cada uno de tus bloqueos puede asignarse para bloquear dos éxitos no resueltos (en lugar de uno).",
+      "team": "CHAOS-BLD"
+    },
+    {
+      "id": "WR-CHAOS-BLD-STALK",
+      "name": "Acecho",
+      "description": "Siempre que este agente esté luchando o contraatacando con esta arma, si hay terreno Ligero o Pesado dentro de su rango de control, esta arma tiene la regla de arma Letal 5+.",
+      "team": "CHAOS-BLD"
+    }
   ]
 }

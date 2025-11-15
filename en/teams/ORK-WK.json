@@ -760,5 +760,19 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-ORK-WK-PULSA",
+      "name": "Pulsa",
+      "description": "Do not select a valid target. Instead, place your Pulsa marker Visible to this operative, or on Vantage terrain of a terrain feature Visible to this operative.\nThat marker gains 1 Pulsa point, then roll attack dice: \nIt gains 1 additional Pulsa point for each success (to a maximum of 3 additional points). Separately inflict 1D3 damage on each operative wholly within x\" of that marker, where x is that marker's Pulsa points.\nThen the action ends.",
+      "team": "ORK-WK"
+    },
+    {
+      "id": "WR-ORK-WK-SMASH",
+      "name": "Smash",
+      "description": "Whenever you strike, you can move the enemy operative in a straight line increment of up to 1\".\nIf you do, it must finish the move further away from this operative and in a location it can be placed.\nThen move this operative in a straight line increment of up to 1\", but it must end that move within that enemy operative's control range (if either is not possible, you cannot move them).",
+      "team": "ORK-WK"
+    }
   ]
 }

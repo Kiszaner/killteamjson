@@ -1109,5 +1109,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-ORK-KOM-EXPLOSIVE",
+      "name": "Explosivo",
+      "description": "Este agente puede realizar la acción de Disparar con esta arma mientras esté dentro de la zona de control de un agente enemigo. No selecciones un blanco válido. En su lugar, este agente es siempre el objetivo principal y no puede estar en cobertura ni oculto.",
+      "team": "ORK-KOM"
+    }
   ]
 }

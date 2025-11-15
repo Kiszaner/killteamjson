@@ -1559,5 +1559,19 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-VOT-HKS-BEAM",
+      "name": "Beam",
+      "description": "Whenever this operative is shooting with this weapon, each retained critical success immediately inflicts D3 damage on each other operative along one (and only one) beam line (roll separately for each operative),\nbut the target isn't affected. An operative is along a beam line if a targeting line can be drawn from this operative to its base, and that line crosses the base of the original target but doesn't cross Heavy terrain.",
+      "team": "VOT-HKS"
+    },
+    {
+      "id": "WR-VOT-HKS-FORCE",
+      "name": "Force Impact",
+      "description": "Whenever this operative is fighting with this weapon, if it has performed the Charge action during the activation, this weapon has the Brutal weapon rule.",
+      "team": "VOT-HKS"
+    }
   ]
 }

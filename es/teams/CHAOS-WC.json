@@ -1377,5 +1377,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-CHAOS-WC-MINDBURN",
+      "name": "Quemar mente",
+      "description": "En el paso de Resolver dados de ataque, si infliges daño con algún éxito crítico, el agente contra el que se usa esta arma gana una de tus fichas de Quemar mente (si no tiene una ya) hasta el final de su siguiente activación, hasta que resulte incapacitado o hasta que un agente amigo use de nuevo esta arma (lo que ocurra antes). Mientras un agente tenga una de tus fichas de Quemar mente, empeora en 1 el atributo Impactar de sus armas (esto no se acumula con estar lesionado).",
+      "team": "CHAOS-WC"
+    }
   ]
 }

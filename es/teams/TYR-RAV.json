@@ -685,5 +685,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-TYR-RAV-CRUSH",
+      "name": "Machacar",
+      "description": "Siempre que golpees, desempata con tu oponente y suma 1 al resultado si este agente contra el que se usa esta arma tiene un atributo Heridas de 9 o menos. Si ganas, inflige tanto daño adicional a ese agente como la diferencia entre los resultados (hasta un máximo de 3 daños adicionales).",
+      "team": "TYR-RAV"
+    }
   ]
 }

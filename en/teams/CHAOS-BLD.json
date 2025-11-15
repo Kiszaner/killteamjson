@@ -1418,5 +1418,25 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-CHAOS-BLD-BLOOD",
+      "name": "Blood Offering",
+      "description": "Whenever this operative is fighting or retaliating with\nthis weapon, the first time you strike with a critical success during\nthat sequence, you gain one Blooded token.",
+      "team": "CHAOS-BLD"
+    },
+    {
+      "id": "WR-CHAOS-BLD-SHIELD",
+      "name": "Shield",
+      "description": "Whenever this operative is fighting or retaliating with this weapon, each of your blocks can be allocated to block two unresolved successes (Instead of one).",
+      "team": "CHAOS-BLD"
+    },
+    {
+      "id": "WR-CHAOS-BLD-STALK",
+      "name": "Stalk",
+      "description": "Whenever this operative is fighting or retaliating with this weapon, if light or heavy terrain is within its control range, this weapon has the Lethal 5+ rule.",
+      "team": "CHAOS-BLD"
+    }
   ]
 }

@@ -900,5 +900,25 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-CHAOS-GPI-ENGINEERED",
+      "name": "Engineered",
+      "description": "At the end of the Select Operatives step, if this operative is selected for deployment, select up to two of the following improvements or weapon rules for this weapon to have for the battle:  \n\nAdd 1 to the Normal Dmg stat, add 1 to the Critical Dmg stat, Balanced, Brutal, Lethal 5+, Rending.",
+      "team": "CHAOS-GPI"
+    },
+    {
+      "id": "WR-CHAOS-GPI-FEAST",
+      "name": "Feast",
+      "description": "Whenever this operative is using this weapon against a wounded operative, add 1 to the Atk stat of this weapon and it has the Lethal 5+ weapon rule.",
+      "team": "CHAOS-GPI"
+    },
+    {
+      "id": "WR-CHAOS-GPI-SWIPE",
+      "name": "Swipe",
+      "description": "Whenever this operative performs the Fight action and you select this weapon profile, if it is not incapacitated, it can immediately perform a free Fight action afterwards,\nbut you must select this weapon profile and it can only fight against each enemy operative within its control range once per activation or counteraction using this weapon profile.\nThis takes precedence over action restrictions, and you can continue to perform free Fight actions until this operative is incapacitated or has fought against every enemy operative within its control range.",
+      "team": "CHAOS-GPI"
+    }
   ]
 }

@@ -1563,5 +1563,19 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-VOT-HKS-BEAM",
+      "name": "Haz",
+      "description": "Cuando este agente dispare con esta arma, cada éxito crítico guardado inflige inmediatamente 1D3 daños a cada otro agente que se encuentre a lo largo de una (y solo una) línea de haz (tira por separado por cada agente), pero el blanco no resulta afectado. Un agente se encuentra a lo largo de una línea de haz si se puede trazar una línea desde este agente hasta la peana de dicho agente, y esa línea atraviesa la peana del blanco original pero no atraviesa terreno Pesado.",
+      "team": "VOT-HKS"
+    },
+    {
+      "id": "WR-VOT-HKS-FORCE",
+      "name": "Impacto Brutal",
+      "description": "Cuando este agente combata con esta arma, si ha realizado la acción de Cargar durante la activación, esta arma tiene la regla de armas Brutal",
+      "team": "VOT-HKS"
+    }
   ]
 }

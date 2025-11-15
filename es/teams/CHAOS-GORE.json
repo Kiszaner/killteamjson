@@ -692,5 +692,25 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-CHAOS-GORE-DRAG",
+      "name": "Arrastre",
+      "description": "Cuando este agente dispare con esta arma, al inicio del paso de Resolver dados de ataque (antes de infligir daño), puedes mover al blanco hasta X\". X es tu número total de dados de ataque no bloqueados exitosos, multiplicado por 2. El blanco debe ser movido a una localización en la que pueda ser colocado tan cerca de este agente como sea posible, determinada por las X\" que decidas usar. El movimiento debe hacerse en uno o más incrementos en línea recta, y cada incremento se redondeará siempre al alza hasta la pulgada más cercana. Cuando el blanco se deje caer durante dicho movimiento, ignora la distancia vertical.",
+      "team": "CHAOS-GORE"
+    },
+    {
+      "id": "WR-CHAOS-GORE-PREY",
+      "name": "Acosar",
+      "description": "Cuando este agente dispare con esta arma, durante el paso de Resolver dados de ataque, tras haber resuelto la regla de armas Arrastrar (si has elegido hacerlo), puedes descartar cualquiera de tus dados de ataque no bloqueados. En otras palabras, puedes elegir no infligir daño con cualesquiera de ellos.",
+      "team": "CHAOS-GORE"
+    },
+    {
+      "id": "WR-CHAOS-GORE-RITUAL",
+      "name": "Ritual",
+      "description": "Cuando este agente utilice esta arma, la primera vez durante esa secuencia que inflijas daño a un agente en su zona de control, puedes incrementar el DEPÓSITO SANGRIENTO de este agente. Ten en cuenta que esto es acumulativo con las reglas normales para incrementar su DEPÓSITO SANGRIENTO (es decir, si incapacita a un agente en su zona de control).",
+      "team": "CHAOS-GORE"
+    }
   ]
 }

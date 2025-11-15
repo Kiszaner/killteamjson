@@ -1154,5 +1154,25 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-IMP-SANC-BLAZE",
+      "name": "Blaze",
+      "description": "If you inflict damage with any critical successes, the operative this weapon is being used against gains one of your Blaze tokens (if it doesn't already have one).\r Whenever an operative that has one of your Blaze tokens is activated, inflict D3 damage on it. Then that operative's controlling player selects one of the following:\r \r - Roll one D6: on a 3+, remove that token.\r - Subtract 1 from the operative's APL stat until the end of that activation to remove that token.\r ",
+      "team": "IMP-SANC"
+    },
+    {
+      "id": "WR-IMP-SANC-TWIN",
+      "name": "Twin Torrent",
+      "description": "Select up to two valid targets. Shoot with this weapon against both of them in an order of your choice (roll each sequence separately).",
+      "team": "IMP-SANC"
+    },
+    {
+      "id": "WR-IMP-SANC-WREATHED",
+      "name": "Wreathed",
+      "description": "This operative can perform the Shoot action with this weapon while within control range of an enemy operative.\nDon't select a valid target. Instead, this operative is always the primary target, but only shoot against secondary targets and they cannot be in cover or obscured (in other words, determine Blast from this operative, but this operative isn't affected).",
+      "team": "IMP-SANC"
+    }
   ]
 }

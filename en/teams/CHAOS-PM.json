@@ -788,5 +788,19 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-CHAOS-PM-POISON",
+      "name": "Poison",
+      "description": "In the Resolve Attack Dice step, if you inflict damage with any successes, the operative this weapon is being used against (excluding friendly PLAGUE MARINE operatives) gains one of your Poison tokens (if it does not already have one).\r Whenever an operative that has one of your Poison tokens is activated, inflict 1 damage on it.",
+      "team": "CHAOS-PM"
+    },
+    {
+      "id": "WR-CHAOS-PM-TOXIC",
+      "name": "Toxic",
+      "description": "Whenever this operative is using this weapon against an enemy operative that has one of your Poison tokens, add 1 to both Dmg stats of this weapon.",
+      "team": "CHAOS-PM"
+    }
   ]
 }

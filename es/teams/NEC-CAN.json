@@ -680,5 +680,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-NEC-CAN-DIMENSIONAL",
+      "name": "Destierro dimensional",
+      "description": "Después de que este agente haya usado esta arma, si has infligido daño o has guardado algún éxito crítico, si el blanco no ha quedado incapacitado, tira 2D6: si el resultado es mayor que las heridas restantes del blanco, el blanco queda incapacitado. (teniendo preferencia sobre las reglas que impiden la incapacitación, por ejemplo, ¡Médico!, FELLGOR RAVAGER, Frenesí) y tu oponente no puede colocar un marcador de Reanimación (CÍRCULO HIEROTECO ) para ese operativo, si procede.",
+      "team": "NEC-CAN"
+    }
   ]
 }

@@ -990,5 +990,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-IMP-TEMPAQ-SALVO",
+      "name": "Salvo",
+      "description": "Select up to two valid targets. Shoot this weapon against both of them in an order of your choice (roll each sequence separately).",
+      "team": "IMP-TEMPAQ"
+    }
   ]
 }

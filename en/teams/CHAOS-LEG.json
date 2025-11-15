@@ -1423,5 +1423,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-CHAOS-LEG-SIPHON",
+      "name": "Siphon Life",
+      "description": "When you select this weapon, you can use this rule. If you do, at the start of the Resolve Attack Dice step, select one friendly LEGIONARY operative visible to and within 6\" of this operative.\r For each attack die you resolve during that step that inflicts damage, that friendly operative regains 1 lost wound, or D3 lost wounds if it was a critical success. You cannot use this weapon rule more than once per Turning Point.",
+      "team": "CHAOS-LEG"
+    }
   ]
 }

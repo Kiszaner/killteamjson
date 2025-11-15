@@ -1112,5 +1112,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-CHAOS-NC-TERRORCHEM",
+      "name": "Terrorchem",
+      "description": "In the Resolve Attack Dice step, if you inflict damage with any Critical successes, the operative this weapon is being used against gains one of your Terrorchem tokens (if it does not already have one).",
+      "team": "CHAOS-NC"
+    }
   ]
 }

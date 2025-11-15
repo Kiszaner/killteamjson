@@ -1105,5 +1105,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-ORK-KOM-EXPLOSIVE",
+      "name": "Explosive",
+      "description": "This operative can perform the shoot action with this weapon while within control range of an enemy operative.\nDo not select a valid target, instead this operative is always the primary target and cannot be in cover or obscured.",
+      "team": "ORK-KOM"
+    }
   ]
 }

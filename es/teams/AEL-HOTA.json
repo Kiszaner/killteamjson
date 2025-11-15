@@ -1041,5 +1041,25 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-AEL-HOTA-FLAY",
+      "name": "Desollar",
+      "description": "Siempre que este agente usa esta arma, la primera vez que golpees con un éxito crítico durante esa secuencia, puedes elegir un agente MANO DEL ARCONTE amigo a 6\" o menos de él para que obtenga una de tus fichas de Dolor.",
+      "team": "AEL-HOTA"
+    },
+    {
+      "id": "WR-AEL-HOTA-STINGER",
+      "name": "Aguijón",
+      "description": "Cuando un agente enemigo queda incapacitado por esta arma, antes de retirarlo de la zona de aniquilación, inflige 1D3 daños a cada otro agente a 2\" o menos ese agente enemigo y visible para él. Cada agente que quede subsiguientemente incapacitado debido a esta regla de armas provocará que esto vuelva a suceder.",
+      "team": "AEL-HOTA"
+    },
+    {
+      "id": "WR-AEL-HOTA-TANGLE",
+      "name": "Enredar",
+      "description": "Cuando este agente combate o contraataca con esta arma, cada uno de tus bloqueos puede asignarse para bloquear dos éxitos sin resolver (en lugar de uno).",
+      "team": "AEL-HOTA"
+    }
   ]
 }

@@ -1253,5 +1253,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-IMP-PHO-CUSTOM",
+      "name": "Custom",
+      "description": "At the end of the Select Operatives step, if this operative is selected for deployment, select up to two of the following weapon rules for this weapon to have for the battle:\n\n- Balanced\n- Lethal 5+\n- Piercing Crits 1\n- Rending\n- Saturate\n",
+      "team": "IMP-PHO"
+    }
   ]
 }

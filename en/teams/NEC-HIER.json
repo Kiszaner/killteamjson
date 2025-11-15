@@ -1088,5 +1088,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-NEC-HIER-MAGNIFY",
+      "name": "Magnify",
+      "description": "Whenever this operative is performing the Shoot action with this weapon, if the target is visible to this operative, and another friendly HIEROTEK CIRCLE APPRENTEK or HIEROTEK CIRCLE CRYPTEK operative has an Engage order and is visible to this operative,\nyou can treat that operative as the active operative for the purposes of determining a valid target, that Shoot action's conditions, cover and obscured.\nIf you do, this weapon has the Ceaseless weapon rule until the end of that action.",
+      "team": "NEC-HIER"
+    }
   ]
 }

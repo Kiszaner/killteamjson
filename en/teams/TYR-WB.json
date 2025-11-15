@@ -1274,5 +1274,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-TYR-WB-HYPERSENSE",
+      "name": "Hypersense",
+      "description": "Whenever this operative is shooting with this weapon profile, enemy operatives cannot be obscured.",
+      "team": "TYR-WB"
+    }
   ]
 }

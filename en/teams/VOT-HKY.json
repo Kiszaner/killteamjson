@@ -923,5 +923,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-VOT-HKY-BIPOD",
+      "name": "Bipod",
+      "description": "Whenever this operative is shooting with this weapon, if it has not moved during the activation, or if it is a counteraction, this weapon has the Ceaseless weapon rule. Note this operative is not restricted from moving after shooting.",
+      "team": "VOT-HKY"
+    }
   ]
 }

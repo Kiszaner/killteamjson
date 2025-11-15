@@ -1159,5 +1159,25 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-IMP-NOV-ANTI-PSYKER",
+      "name": "AntiPSÍQUICO",
+      "description": "Cuando esta arma se use contra un agente que tiene la clave PSÍQUICO, suma 1 a ambos atributos Daño de esta arma y además tiene la regla de arma Letal 5+.",
+      "team": "IMP-NOV"
+    },
+    {
+      "id": "WR-IMP-NOV-RIPOSTE",
+      "name": "Parada y contraataque",
+      "description": "Siempre que bloquees con un éxito crítico, puedes también infligir al agente enemigo en esa secuencia tantos daños como el atributo Daño crítico del arma.",
+      "team": "IMP-NOV"
+    },
+    {
+      "id": "WR-IMP-NOV-ZEALOUS",
+      "name": "Furia Fanática",
+      "description": "Cuando esta agente combate con esta arma, tiene la regla de armas Incesante.",
+      "team": "IMP-NOV"
+    }
   ]
 }

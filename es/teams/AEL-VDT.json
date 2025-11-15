@@ -800,5 +800,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-AEL-VDT-HUMBLING",
+      "name": "Crueldad humillante",
+      "description": "Si el blanco de esta arma no resulta incapacitado pero alguno de tus dados de ataque inflige daño, el blanco obtiene una de tus fichas de Crueldad humillante (si no tiene una ya). Mientras un enemigo tenga una de tus fichas de Crueldad humillante, empeora en 1 el atributo Impactar de sus armas y resta 2\" a su atributo Movimiento. Esto no se acumula con estar lesionado. Al final de la siguiente activación de ese agente enemigo, retira su ficha de Crueldad humillante.",
+      "team": "AEL-VDT"
+    }
   ]
 }

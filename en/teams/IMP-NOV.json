@@ -1155,5 +1155,25 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-IMP-NOV-ANTI-PSYKER",
+      "name": "Anti Psyker",
+      "description": "Whenever this weapon is being used against an operative that has the PSYKER keyword, add 1 to both Dmg stats of this weapon and it has the Lethal 5+ weapon rule.",
+      "team": "IMP-NOV"
+    },
+    {
+      "id": "WR-IMP-NOV-RIPOSTE",
+      "name": "Riposte",
+      "description": "Whenever you block with a critical success, you can also inflict damage equal to the weapon's Critical Dmg stat on the enemy operative in that sequence.",
+      "team": "IMP-NOV"
+    },
+    {
+      "id": "WR-IMP-NOV-ZEALOUS",
+      "name": "Zealous Rage",
+      "description": "Whenever this operative is fighting with this weapon, it has the Ceaseless weapon rule.",
+      "team": "IMP-NOV"
+    }
   ]
 }

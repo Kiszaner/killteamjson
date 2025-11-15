@@ -1376,5 +1376,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-IMP-DKK-DETONATE",
+      "name": "Detonar",
+      "description": "No elijas un blanco válido. En su lugar, dispara contra cada agente a 2\" o menos de tu marcador de Explosivos, salvo que haya terreno Pesado completamente interpuesto entre ese agente y ese marcador. Ninguno de esos agentes está a cubierto u ofuscado. Tira cada secuencia por separado en el orden que elijas. No puedes elegir esta arma si tu marcador de Explosivos no está en la zona de aniquilación. Al final de la acción, retira tu marcador de Explosivos de la ella.",
+      "team": "IMP-DKK"
+    }
   ]
 }

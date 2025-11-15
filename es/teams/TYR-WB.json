@@ -1278,5 +1278,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-TYR-WB-HYPERSENSE",
+      "name": "Hipersentido",
+      "description": "Cuando este agente dispara con este perfil de arma, los agentes enemigos no pueden estar ofuscados.",
+      "team": "TYR-WB"
+    }
   ]
 }

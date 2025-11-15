@@ -1304,5 +1304,19 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-IMP-AES-CONCEALED",
+      "name": "Concealed Position",
+      "description": "This operative can only use this weapon the first time it is performing the Shoot action during the battle.",
+      "team": "IMP-AES"
+    },
+    {
+      "id": "WR-IMP-AES-REPRESS",
+      "name": "Repress",
+      "description": "Whenever this operative is using this weapon:\n\n- Each of your blocks can be allocated to block two unresolved successes (instead of one).\n- If this operative is retaliating, you resolve the first attack dice (i.e. defender instead of attacker).\n",
+      "team": "IMP-AES"
+    }
   ]
 }

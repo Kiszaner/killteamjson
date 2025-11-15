@@ -1308,5 +1308,19 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-IMP-AES-CONCEALED",
+      "name": "Posición oculta",
+      "description": "Este agente solo puede usar esta arma la primera vez que realiza una acción de Disparar durante la batalla.",
+      "team": "IMP-AES"
+    },
+    {
+      "id": "WR-IMP-AES-REPRESS",
+      "name": "Represor",
+      "description": " Cuando este agente use esta arma:\n\n- CCada uno de tus bloqueos puede asignarse a bloquear dos éxitos no resueltos (en lugar de uno).\n- Si este agente está contratacando, resuelve el primer dado de ataque (es decir, el defensor en lugar del atacante).\n",
+      "team": "IMP-AES"
+    }
   ]
 }

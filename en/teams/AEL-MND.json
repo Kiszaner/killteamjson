@@ -668,5 +668,13 @@
         }
       ]
     }
+  ],
+  "weapon_rules": [
+    {
+      "id": "WR-AEL-MND-SOULSTRIKE",
+      "name": "Soulstrike",
+      "description": "Successful defence dice are determined differently. Each result that is equal to or less than the target's APL stat is a success and is retained.\nEach result that is higher than the target's APL stat is a fail and is discarded.\nEach result of a 1 is always a critical success. Each other success is a normal success. Each result of 6 is always a fail.",
+      "team": "AEL-MND"
+    }
   ]
 }
