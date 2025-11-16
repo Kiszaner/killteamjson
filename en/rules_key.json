@@ -255,17 +255,47 @@
       "name": "Order",
       "aliases": [],
       "category": "key_principle",
-      "text": "Engage: The operative can perform actions as normal and can counteract.\n\nConceal: The operative cannot perform Shoot and Charge actions, and it cannot\ncounteract. However, it’s not a valid target while it’s in cover.\n\nOperatives are given a Conceal order when they are set up before the battle. You can change an\noperative’s order whenever it’s activated.\n\nOrder tokens have two sides. The lighter side shows an operative is ready (it can be activated in the\nFirefight phase) and the darker side shows an operative is expended (it has been activated in the\nFirefight phase).",
+      "text": "An order is a state that an operative can have. It can be Conceal or Engage. Operatives are given a Conceal order when they are set up before the battle. You can change an operative’s order whenever it’s activated. Order tokens have two sides. The lighter side shows an operative is ready (it can be activated in the Firefight phase) and the darker side shows an operative is expended (it has been activated in the Firefight phase).",
       "examples": [],
       "tags": [
-        "state",
         "stealth",
-        "activation"
+        "activation",
+        "tokens"
       ],
       "references": [
-        "valid-target",
+        "order-conceal",
+        "order-engage"
+      ]
+    },
+    {
+      "id": "order-conceal",
+      "name": "Conceal",
+      "aliases": [],
+      "category": "key_principle",
+      "text": "The operative cannot perform Shoot and Charge actions, and it cannot\ncounteract. However, it’s not a valid target while it’s in cover.",
+      "examples": [],
+      "tags": [
+        "stealth",
+        "cover"
+      ],
+      "references": [
         "cover",
-        "operatives"
+        "valid-target",
+        "order"
+      ]
+    },
+    {
+      "id": "order-engage",
+      "name": "Engage",
+      "aliases": [],
+      "category": "key_principle",
+      "text": "The operative can perform actions as normal and can counteract.",
+      "examples": [],
+      "tags": [
+        "engagement"
+      ],
+      "references": [
+        "order"
       ]
     },
     {
