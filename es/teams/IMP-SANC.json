@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-SANC",
   "version": "October '25",
+  "classified": true,
+  "season": "Volkus",
   "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_sanctifiers-kqblpr59bo-aoqltet5bi.pdf",
   "killteamName": "Sanctifiers",
   "description": "As the Great Gun reloads and its hallowed ammunition is transported across Hive Fissilicus, great processions of pilgrims and preachers accompany these holy relics to their final assembly points. They are far from a peaceful congregation, and any who seek to disrupt the great Day of Firing will find themselves lit by the flames and faith wielded by the Sanctifiers.",

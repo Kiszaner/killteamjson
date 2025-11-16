@@ -2,6 +2,8 @@
   "factionId": "CHAOS",
   "killteamId": "CHAOS-GORE",
   "version": "October '25",
+  "classified": true,
+  "season": "Volkus",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_goremongers-q91adtper6-gkkkxyw3tb.pdf",
   "killteamName": "Goremongers",
   "description": "Goremongers are among the most lucid and reliable of Khorne's troops, pumping a constant flow of combat stimms mixed with drops of their masters' blood into their systems while still retaining a modicum of cunning and level-headedness. The first thing they do is to cut off their own legs and graft on a new mechanical pair that brings them closer to the ideal physical form, armed with blood letting chainweapons and ritual daggers..",

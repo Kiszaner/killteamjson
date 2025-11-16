@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-HC",
   "version": "July '25",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_hunter_clade-lskv24wuji-e3mudbrre9.pdf",
   "killteamName": "Hunter Clade",
   "description": "To the techno-zealots of the Adeptus Mechanicus, the galaxy is a complex mechanism, its workings the creation of\ntheir Machine God. They see the acquisition of knowledge as holy work, and task their cybernetically altered servants\nwith carrying it out, no matter the cost.",

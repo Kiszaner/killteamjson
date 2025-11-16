@@ -2,6 +2,8 @@
   "factionId": "CHAOS",
   "killteamId": "CHAOS-LEG",
   "version": "October '25",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_legionaries-e5hsbsasn6-l5akyfyeyu.pdf",
   "killteamName": "Legionaries",
   "description": "Legionary kill teams are bitter veterans who possess centuries of combat experience. Some are little more than\nravening killers who desire only to reave, slaughter and despoil. Others are devoted worshippers of the Dark Gods,\nseeking to conduct fell rituals in the hope of pleasing their infernal patrons and attaining greater power.",

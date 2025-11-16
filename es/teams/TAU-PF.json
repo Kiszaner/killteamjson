@@ -2,6 +2,8 @@
   "factionId": "TAU",
   "killteamId": "TAU-PF",
   "version": "July '25",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_pathfinders-gf6lgyt6w3-t70izsfkmt.pdf",
   "killteamName": "Pathfinders",
   "description": "Specialist reconnaissance infantry, T'au Pathfinders range far ahead of their allies. Pathfinder kill teams are capable\nof operating independently of the main T'au force, and are equipped for almost any situation. Their advanced wargear\nand potent weaponry enable them to disrupt communications, perform acts of sabotage and destroy targets.",

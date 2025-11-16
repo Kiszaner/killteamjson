@@ -2,6 +2,8 @@
   "factionId": "CHAOS",
   "killteamId": "CHAOS-PM",
   "version": "July '25",
+  "classified": true,
+  "season": "Volkus",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_plague_marines-aq5mhbmkrk-yuzqskgscs.pdf",
   "killteamName": "Plague Marines",
   "description": "Corrupted sons of Mortarion, Plague Marines are suffused and bloated with rot and disease. Though compact and slow moving, Plague Marines are horrifyingly resilient, trudging relentlessly towards their objectives while spreading contagion in their wake.",

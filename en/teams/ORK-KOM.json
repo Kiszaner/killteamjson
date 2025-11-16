@@ -2,6 +2,8 @@
   "factionId": "ORK",
   "killteamId": "ORK-KOM",
   "version": "October '25",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_kommandos-u3kzqkdrdq-qsgcyhj4pc.pdf",
   "killteamName": "Kommandos",
   "description": "A Kommando is an Ork Boy specialist who prefers to rely on \"kunning trikz\" instead of fighting his opponents head-on like most other Greenskins.\n  \n  \n\nKommandoz serve as the Orks' infiltrators and saboteurs, and are masters of the arts of stealth, ambush, unconventional tactics and striking at the opponent from a totally unexpected quarter. ",

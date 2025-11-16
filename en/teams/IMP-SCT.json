@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-SCT",
   "version": "October '25",
+  "classified": true,
+  "season": "BHETA-DECIMA",
   "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_scout_squad-e8hfnecv2k-17reba063p.pdf",
   "killteamName": "Scout Squad",
   "description": "Scouts are the new recruits of a Space Marine chapter who have advanced far enough in the early stages of their training and biological transformation to take part in battle with the rest of the Chapter.\n  \n  \n\nMore lightly armed and armoured than full Battle brothers, their role is to range ahead of the main Space Marine force, preparing the way for the main advance by infiltrating enemy lines, sabotaging and gathering intelligence - causing as much chaos and disruption as possible.",

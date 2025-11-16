@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-AOD",
   "version": "October '25",
+  "classified": true,
+  "season": "Volkus",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_angels_of_death-izke7kijsn-r2qyap8d7a.pdf",
   "killteamName": "Angels Of Death",
   "description": "Genetically modified transhuman warriors, Space Marines are amongst Humanity's most elite fighting forces.\nAngels of Death kill teams are composed of elite specialists trained in myriad forms of combat, who are capable of overcoming almost any foe.",

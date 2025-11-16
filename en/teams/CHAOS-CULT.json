@@ -2,6 +2,8 @@
   "factionId": "CHAOS",
   "killteamId": "CHAOS-CULT",
   "version": "July '25",
+  "classified": true,
+  "season": "BHETA-DECIMA",
   "file": "https://assets.warhammer-community.com/eng_jul25_kt_teamrules_chaos_cult-2i74jwysks-qqdbyewoso.pdf",
   "killteamName": "Chaos Cult",
   "description": "Wherever bitterness and discontent fester, so does the worship of the Dark Gods take hold. Zealous bands of cultists throng to the banners of malefic powers. The most monstrous of these zealots are warped beyond recognition, sprouting chitinous claws, leathery wings and all manner of mutations with which to slaughter their enemies.",

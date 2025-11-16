@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-AOD",
   "version": "October '25",
+  "classified": true,
+  "season": "Volkus",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_angels_of_death-izke7kijsn-r2qyap8d7a.pdf",
   "killteamName": "Ángeles de la muerte",
   "description": "Los marines espaciales, guerreros transhumanos modificados genéticamente, se encuentran entre las fuerzas de combate más selectas de la humanidad.\nLos equipos de exterminio Ángeles de la Muerte están compuestos por especialistas de élite entrenados en innumerables formas de combate, capaces de vencer a casi cualquier enemigo.",

@@ -2,6 +2,8 @@
   "factionId": "AEL",
   "killteamId": "AEL-VDT",
   "version": "October '25",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kty_teamrules_void-dancer_troupe-p2t5lqusto-ddpnpllhnq.pdf",
   "killteamName": "Void-Dancer Troupe",
   "description": "Even amongst the agile Aeldari, the Harlequins of the Void-dancer Troupes display an almost preternatural level of dexterity and skill. Performance and war merge in their actions, precisely directed to shape the fate of their race.",

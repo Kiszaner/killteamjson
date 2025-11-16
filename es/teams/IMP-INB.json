@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-INB",
   "version": "July '25",
+  "classified": true,
+  "season": "Gallowdark",
   "file": "https://assets.warhammer-community.com/eng_jul25_kt_teamrules_imperial_navy_breachers-fe9o3l2nhv-whpv6kllcr.pdf",
   "killteamName": "Imperial Navy Breachers",
   "description": "Counted amongst the complement of many Navis Imperialis vessels, Navy Breachers are elite Voidsmen who are outfitted, trained and endlessly drilled in boarding actions and void-based combat. Wielding a wide array of cutting gear, boarding shields and close-range weapons, they are well-suited to deadly combat in close confines.",

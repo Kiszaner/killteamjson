@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-BC",
   "version": "August '25",
+  "classified": true,
+  "season": "Volkus",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_battleclade-aeapdfcbyd-ryxszqx3xb.pdf",
   "killteamName": "Battleclade",
   "description": "*\"Let nothing dissuade your quest for knowledge. Let none slow your pursuit and acquisition of holy technology. Let none stand between you and the procurement of that which is rightfully the machine god's due.\"*  \n- Thusdorius Knoch, Invictus Acquisitor",

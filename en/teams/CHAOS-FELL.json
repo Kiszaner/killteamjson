@@ -2,6 +2,8 @@
   "factionId": "CHAOS",
   "killteamId": "CHAOS-FELL",
   "version": "October '25",
+  "classified": true,
+  "season": "Gallowdark",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_fellgor_ravagers-yfjgxodpqm-ap39gdzuas.pdf",
   "killteamName": "Fellgor Ravagers",
   "description": "Of all the mutant Beastmen in thrall to the Dark Gods, Fellgor Ravagers believe themselves the greatest and most powerful.\nThey stalk space hulks, underhives and warp-tainted ruins, using their keen senses to track unsuspecting prey through the darkness before striking and butchering their foes with savage glee.",

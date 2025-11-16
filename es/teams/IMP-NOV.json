@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-NOV",
   "version": "July '25",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_novitiates-hamlyduj0r-xbib8bjpqw.pdf",
   "killteamName": "Novitiates",
   "description": "New inductees into the ranks of the Adepta Sororitas, Sisters Novitiate who display great zeal and determination are\noften deployed together in kill teams to hunt down apostates or root out heretics. In performing such duties, they may one day rise to become full Sisters, spreading the Emperor's light ever further.",

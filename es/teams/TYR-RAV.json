@@ -2,6 +2,8 @@
   "factionId": "TYR",
   "killteamId": "TYR-RAV",
   "version": "October '25",
+  "classified": true,
+  "season": "Volkus",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_raveners-xxitloe7cr-ek2wvejuci.pdf",
   "killteamName": "Raveners",
   "description": "Ravener kill teams are hyperadapted to such an extent that they are able to overcome all manner of a prey species' defences. Driven by alien synaptic imperatives, Raveners burrow with horrific speed to strike at prey from vulnerable angles, before using razor-sharp talons, chitinous claws and virulent biotoxins to enact the Hive Mind's will.",

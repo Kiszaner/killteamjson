@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-ESS",
   "version": "1.2",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_elucidian_starstriders-gnqnu5qxog-frsppd8ctt.pdf",
   "killteamName": "Elucidian Starstriders",
   "description": "Elucia Vhane is a scion of a noble mercantile dynasty. Leaving behind her family's operations in the galactic north, Vhane led her Elucidian Starstriders to the Eastern Fringe. Alongside her esoteric crew, the bold Rogue Trader seeks to eclipse the rich history of her ancestors with her own rise to glory - or die trying.",

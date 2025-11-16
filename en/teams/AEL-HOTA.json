@@ -2,6 +2,8 @@
   "factionId": "AEL",
   "killteamId": "AEL-HOTA",
   "version": "October '25",
+  "classified": true,
+  "season": "Gallowdark",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_hand_of_the_archon-zmsq14qmmy-z4ekml4ysz.pdf",
   "killteamName": "Hand Of The Archon",
   "description": "The Archons of the Drukhari Kabals are forever plotting to expand their sprawling criminal empires. Should their\nschemes require a subtle touch, they may turn to Hand of the Archon kill teams. These bands of assassins, thieves,\ntorturers and worse wield an array of esoteric and macabre weapons to aid them in their diabolical missions.",

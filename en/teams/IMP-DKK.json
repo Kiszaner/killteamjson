@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-DKK",
   "version": "1.2",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_death_korps-cxs24twanf-b6n2jvrgdd.pdf",
   "killteamName": "Death Korps",
   "description": "Grim, fatalistic and utterly uncompromising, the Death Korps of Krieg are famed for their endurance and ability to do\nbattle in the most horrific conditions. Death Korps kill teams are made up of veteran specialists who have seen more fighting that many Astra Militarum soldiers will experience in their entire lifetime.",

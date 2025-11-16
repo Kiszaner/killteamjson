@@ -2,6 +2,8 @@
   "factionId": "TAU",
   "killteamId": "TAU-FSKB",
   "version": "June '25",
+  "classified": true,
+  "season": "Gallowdark",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_farstalker_kinband-c0p0a01n39-1gxzkcsgjy.pdf",
   "killteamName": "Farstalker Kinband",
   "description": "Farstalker Kinbands operate as scouts for the Kroot species. They range far and wide throughout the galaxy, seeking new and valuable genetic material to return to their Shapers. Farstalker Kinbands contain expert trackers, hunters and guerrilla fighters who are capable of matching far more technologically advanced foes.",

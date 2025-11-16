@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-PHO",
   "version": "July '25",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_jul25_kt_teamrules_phobos_strike_team-b6ucsxeqii-zz4xcyoa3s.pdf",
   "killteamName": "Phobos Strike Team",
   "description": "Masters of stealth and subterfuge, Phobos Strike Teams consist of Space Marine Infiltrators, Incursors and Reivers.\nPossessed of transhuman strength and equipped with a range of explosives, communications equipment and precise weaponry, they are capable of outmanoeuvring and overwhelming enemy forces many times their own size.",
