@@ -33,7 +33,7 @@
       "ployType": "S",
       "seq": 1,
       "ployName": "Combat Doctrine",
-      "description": "Select one COMBAT DOCTRINE from those presented below. Whenever a friendly ANGEL OF DEATH operative is x, its weapons have the Balanced weapon rule. X is the COMBAT DOCTRINE you selected.  \n\n\n- **Devastator Doctrine:** Shooting an operative more than 6\" from it.\n- **Tactical Doctrine:** Shooting an operative within 6\" of it.\n- **Assault Doctrine:** Fighting or retaliating.\n\n**Balanced:** Can re-roll one Attack die."
+      "description": "Select one COMBAT DOCTRINE from those presented below. Whenever a friendly ANGEL OF DEATH operative is x, its weapons have the Balanced weapon rule. X is the COMBAT DOCTRINE you selected.  \n\n\n- **Devastator Doctrine:** Shooting an operative more than 6\" from it.\n- **Tactical Doctrine:** Shooting an operative within 6\" of it.\n- **Assault Doctrine:** Fighting or retaliating."
     },
     {
       "ployId": "IMP-AOD-S-IND",
