@@ -89,7 +89,23 @@
       "killteamId": "CHAOS-LEG",
       "seq": 52,
       "eqName": "Malefic Blades",
-      "description": "Friendly LEGIONARY operatives have the following melee weapon for the battle:\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Malefic Blade|5|3+|3/4|\n"
+      "description": "Friendly LEGIONARY operatives have the following melee weapon for the battle:",
+      "weapons": [
+        {
+          "wepId": "CHAOS-LEG-MB-MALEFIC-BLADE",
+          "wepName": "Malefic Blade",
+          "wepType": "M",
+          "profiles": [
+            {
+              "profileName": "",
+              "ATK": "5",
+              "HIT": "3+",
+              "DMG": "3/4",
+              "WR": []
+            }
+          ]
+        }
+      ]
     },
     {
       "eqId": "CHAOS-LEG-TR",

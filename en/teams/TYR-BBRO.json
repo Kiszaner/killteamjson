@@ -89,7 +89,23 @@
       "killteamId": "TYR-BBRO",
       "seq": 2,
       "eqName": "Cult Knives",
-      "description": "Friendly BROOD BROTHER BROODGUARD operatives have the following melee weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Cult Knife|3|4+|3/4|\n"
+      "description": "Friendly BROOD BROTHER BROODGUARD operatives have the following melee weapon:",
+      "weapons": [
+        {
+          "wepId": "TYR-BBRO-CK-CULT-KNIFE",
+          "wepName": "Cult Knife",
+          "wepType": "M",
+          "profiles": [
+            {
+              "profileName": "",
+              "ATK": "3",
+              "HIT": "4+",
+              "DMG": "3/4",
+              "WR": []
+            }
+          ]
+        }
+      ]
     },
     {
       "eqId": "TYR-BBRO-CT",

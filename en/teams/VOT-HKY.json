@@ -96,7 +96,33 @@
       "killteamId": "VOT-HKY",
       "seq": 3,
       "eqName": "Plasma Knives",
-      "description": "Friendly HERNKYN YAEGIR operatives have the following melee weapon. Note that some operatives already have this weapon but with better stats; in that instance use the better version, and that weapon has the Balanced weapon rule for the battle..\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|----|:-----:|:-----:|:-----:|\n|Plasma Knife|3|4+|3/5|\n|**Weapon Rules**|\n|Lethal 5+|"
+      "description": "Friendly HERNKYN YAEGIR operatives have the following melee weapon. Note that some operatives already have this weapon but with better stats; in that instance use the better version, and that weapon has the Balanced weapon rule for the battle..",
+      "weapons": [
+        {
+          "wepId": "VOT-HKY-PK-PLASMA-KNIFE",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Plasma Knife",
+          "wepType": "M",
+          "profiles": [
+            {
+              "wepprofileId": "VOT-HKY-PK-PLASMA-KNIFE-0",
+              "wepId": "VOT-HKY-PK-PLASMA-KNIFE",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "3",
+              "HIT": "4+",
+              "DMG": "3/5",
+              "WR": [
+                {
+                  "id": "WR-UNIV-LETHAL",
+                  "number": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "eqId": "VOT-HKY-SBS",

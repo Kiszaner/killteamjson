@@ -103,7 +103,23 @@
       "killteamId": "IMP-KAS",
       "seq": 4,
       "eqName": "Combat Daggers",
-      "description": "Friendly KASRKIN operatives have the following melee weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Combat Dagger|3|4+|3/4|\n"
+      "description": "Friendly KASRKIN operatives have the following melee weapon:",
+      "weapons": [
+        {
+          "wepId": "IMP-KAS-CD-COMBAT-DAGGER",
+          "wepName": "Combat Dagger",
+          "wepType": "M",
+          "profiles": [
+            {
+              "profileName": "",
+              "ATK": "3",
+              "HIT": "4+",
+              "DMG": "3/4",
+              "WR": []
+            }
+          ]
+        }
+      ]
     }
   ],
   "teamAbilities": [

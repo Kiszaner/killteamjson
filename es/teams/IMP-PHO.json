@@ -98,7 +98,28 @@
       "killteamId": "IMP-PHO",
       "seq": 3,
       "eqName": "Combat Blades",
-      "description": "Friendly PHOBOS STRIKE TEAM operatives have the following melee weapon:\n \n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Combat Blade|5|3+|3/4|",
+      "description": "Friendly PHOBOS STRIKE TEAM operatives have the following melee weapon:",
+      "weapons": [
+        {
+          "wepId": "IMP-PHO-CB-COMBAT-BLADE",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Combat Blade",
+          "wepType": "M",
+          "profiles": [
+            {
+              "wepprofileId": "IMP-PHO-CB-COMBAT-BLADE-0",
+              "wepId": "IMP-PHO-CB-COMBAT-BLADE",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "5",
+              "HIT": "3+",
+              "DMG": "3/4",
+              "WR": []
+            }
+          ]
+        }
+      ],
       "effects": "ADDWEP:Combat Blade|M|5|3+|3/4|"
     },
     {

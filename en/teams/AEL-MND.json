@@ -82,7 +82,34 @@
       "killteamId": "AEL-MND",
       "seq": 1,
       "eqName": "Bone Darts",
-      "description": "Once per turning point, a friendly MANDRAKE operative can use the following ranged weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Bone Dart|4|3+|2/4|\n|**Weapon Rules**|\n|Range 6\", Rending, Silent|\n"
+      "description": "Once per turning point, a friendly MANDRAKE operative can use the following ranged weapon:",
+      "weapons": [
+        {
+          "wepId": "AEL-MND-BD-BONE-DART",
+          "wepName": "Bone Dart",
+          "wepType": "R",
+          "profiles": [
+            {
+              "profileName": "",
+              "ATK": "4",
+              "HIT": "3+",
+              "DMG": "2/4",
+              "WR": [
+                {
+                  "id": "WR-UNIV-RANGE",
+                  "number": 6
+                },
+                {
+                  "id": "WR-UNIV-RENDING"
+                },
+                {
+                  "id": "WR-UNIV-SILENT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "eqId": "AEL-MND-CS",

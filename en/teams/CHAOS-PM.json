@@ -89,7 +89,41 @@
       "killteamId": "CHAOS-PM",
       "seq": 2,
       "eqName": "Blight Grenades",
-      "description": "Friendly PLAGUE MARINE operatives have the following ranged weapon (you cannot select it for use more than twice during the battle):\n \n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Blight Grenade|4|4+|2/4|\n|**Weapon Rules**|\n|Range 6\", Blast 2\", Saturate, Severe, *Poison|"
+      "description": "Friendly PLAGUE MARINE operatives have the following ranged weapon (you cannot select it for use more than twice during the battle):",
+      "weapons": [
+        {
+          "wepId": "CHAOS-PM-BG-BLIGHT-GRENADE",
+          "wepName": "Blight Grenade",
+          "wepType": "R",
+          "profiles": [
+            {
+              "profileName": "",
+              "ATK": "4",
+              "HIT": "4+",
+              "DMG": "2/4",
+              "WR": [
+                {
+                  "id": "WR-UNIV-RANGE",
+                  "number": 6
+                },
+                {
+                  "id": "WR-UNIV-BLAST",
+                  "number": 2
+                },
+                {
+                  "id": "WR-UNIV-SATURATE"
+                },
+                {
+                  "id": "WR-UNIV-SEVERE"
+                },
+                {
+                  "id": "WR-CHAOS-PM-POISON"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "eqId": "CHAOS-PM-PR",

@@ -89,7 +89,23 @@
       "killteamId": "IMP-SCT",
       "seq": 2,
       "eqName": "Combat Blades",
-      "description": "Friendly SCOUT SQUAD operatives have the following melee weapon. Note that some operatives already have this weapon but with better stats; in that instance, use the better version.\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|Combat Blade|3|3+|4/5|"
+      "description": "Friendly SCOUT SQUAD operatives have the following melee weapon. Note that some operatives already have this weapon but with better stats; in that instance, use the better version.",
+      "weapons": [
+        {
+          "wepId": "IMP-SCT-CBAK-COMBAT-BLADE",
+          "wepName": "Combat Blade",
+          "wepType": "M",
+          "profiles": [
+            {
+              "profileName": "",
+              "ATK": "3",
+              "HIT": "3+",
+              "DMG": "4/5",
+              "WR": []
+            }
+          ]
+        }
+      ]
     },
     {
       "eqId": "IMP-SCT-HWBP",

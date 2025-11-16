@@ -82,7 +82,33 @@
       "killteamId": "VOT-HKS",
       "seq": 1,
       "eqName": "Plasma Knives",
-      "description": "Friendly HEARTHKYN SALVAGER operatives have the following melee weapon. Note that the FIELD MEDIC operative already has this weapon but with better stats; in that instance, use the better version.\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Plasma Knife|3|4+|3/5|\n|**Weapon Rules**|\n|Lethal 5+|"
+      "description": "Friendly HEARTHKYN SALVAGER operatives have the following melee weapon. Note that the FIELD MEDIC operative already has this weapon but with better stats; in that instance, use the better version.",
+      "weapons": [
+        {
+          "wepId": "VOT-HKS-PK-PLASMA-KNIFE",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Plasma Knife",
+          "wepType": "M",
+          "profiles": [
+            {
+              "wepprofileId": "VOT-HKS-PK-PLASMA-KNIFE-0",
+              "wepId": "VOT-HKS-PK-PLASMA-KNIFE",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "3",
+              "HIT": "4+",
+              "DMG": "3/5",
+              "WR": [
+                {
+                  "id": "WR-UNIV-LETHAL",
+                  "number": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "eqId": "VOT-HKS-CR",

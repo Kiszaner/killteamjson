@@ -82,7 +82,28 @@
       "killteamId": "IMP-TEMPAQ",
       "seq": 1,
       "eqName": "Tempestus Dagger",
-      "description": "Friendly Tempestus Aquilon operatives (excluding SERVO-SENTRY) have the following Melee weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Tempestus Dagger|3|4+|3/4|\n",
+      "description": "Friendly Tempestus Aquilon operatives (excluding SERVO-SENTRY) have the following Melee weapon:",
+      "weapons": [
+        {
+          "wepId": "IMP-TEMPAQ-TD-TEMPESTUS-DAGGER",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Tempestus Dagger",
+          "wepType": "M",
+          "profiles": [
+            {
+              "wepprofileId": "IMP-TEMPAQ-TD-TEMPESTUS-DAGGER-0",
+              "wepId": "IMP-TEMPAQ-TD-TEMPESTUS-DAGGER",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "3",
+              "HIT": "4+",
+              "DMG": "3/4",
+              "WR": []
+            }
+          ]
+        }
+      ],
       "effects": "ADDWEP:Tempestus Dagger|M|3|4+|3/4|"
     },
     {

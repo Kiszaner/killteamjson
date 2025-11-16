@@ -98,7 +98,28 @@
       "killteamId": "IMP-DKK",
       "seq": 3,
       "eqName": "Hand Axes",
-      "description": "Friendly DEATH KORPS operatives have the following melee weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Hand Axe|3|4+|3/4|\n",
+      "description": "Friendly DEATH KORPS operatives have the following melee weapon:",
+      "weapons": [
+        {
+          "wepId": "IMP-DKK-HA-HAND-AXE",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Hand Axe",
+          "wepType": "M",
+          "profiles": [
+            {
+              "wepprofileId": "IMP-DKK-HA-HAND-AXE-0",
+              "wepId": "IMP-DKK-HA-HAND-AXE",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "3",
+              "HIT": "4+",
+              "DMG": "3/4",
+              "WR": []
+            }
+          ]
+        }
+      ],
       "effects": "ADDWEP:Hand Axe|M|3|4+|3/4|"
     },
     {
