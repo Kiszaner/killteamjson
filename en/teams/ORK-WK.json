@@ -2,6 +2,8 @@
   "factionId": "ORK",
   "killteamId": "ORK-WK",
   "version": "October '25",
+  "classified": true,
+  "season": "Volkus",
   "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_wrecka_krew-pyqbpxzdfq-q1rfbxc4zb.pdf",
   "killteamName": "Wrecka Krew",
   "description": "Wrecka Crews are infamous Ork Kill Team Units, that love to commit explosive combat during their murderous rampages.\r They are considered the best of their species and are larger and stronger than the typical Ork. Wrecka Crews also make use of weapons that create explosions and the thought of this empowers them to become Tanked Up and ready to fight. These attributes and their use of 'eavy Armour, makes the Wrecka Crews incredibly durable and deadly in battle.",

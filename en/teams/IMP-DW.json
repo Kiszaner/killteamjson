@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-DW",
   "version": "October '25",
+  "classified": true,
+  "season": "Tomb world",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_deathwatch-n9uexmycj0-mnutiohz2j.pdf",
   "killteamName": "Deathwatch",
   "description": "Deathwatch kill teams combat the xenos foes of the Imperium with adaptive expertise and specialist weaponry.  \n\nThey wield some of Humanity's most highly advanced weapons alongside more esoteric equipment. Besides their superhuman strength and speed, the Deathwatch bring to the battlefield their hatred of the xenos in all its forms.",

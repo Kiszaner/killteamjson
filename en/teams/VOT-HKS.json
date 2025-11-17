@@ -2,6 +2,8 @@
   "factionId": "VOT",
   "killteamId": "VOT-HKS",
   "version": "October '25",
+  "classified": true,
+  "season": "Gallowdark",
   "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_hearthkyn_salvagers-374wulr1qu-qxumqy5c3a.pdf",
   "killteamName": "Hearthkyn Salvagers",
   "description": "Highly adept warriors and explorers of wrecked voidships and abandoned space stations, Hearthkyn Salvagers are tasked with identifying valuable material and marking it for later retrieval.\nHeavily armed and utterly resolute, Hearthkyn Salvager kill teams seize and defend such claims with the steadfast determination typical of the Kin.",
@@ -82,7 +84,33 @@
       "killteamId": "VOT-HKS",
       "seq": 1,
       "eqName": "Plasma Knives",
-      "description": "Friendly HEARTHKYN SALVAGER operatives have the following melee weapon. Note that the FIELD MEDIC operative already has this weapon but with better stats; in that instance, use the better version.\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Plasma Knife|3|4+|3/5|\n|**Weapon Rules**|\n|Lethal 5+|"
+      "description": "Friendly HEARTHKYN SALVAGER operatives have the following melee weapon. Note that the FIELD MEDIC operative already has this weapon but with better stats; in that instance, use the better version.",
+      "weapons": [
+        {
+          "wepId": "VOT-HKS-PK-PLASMA-KNIFE",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Plasma Knife",
+          "wepType": "M",
+          "profiles": [
+            {
+              "wepprofileId": "VOT-HKS-PK-PLASMA-KNIFE-0",
+              "wepId": "VOT-HKS-PK-PLASMA-KNIFE",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "3",
+              "HIT": "4+",
+              "DMG": "3/5",
+              "WR": [
+                {
+                  "id": "WR-UNIV-LETHAL",
+                  "number": 5
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "eqId": "VOT-HKS-CR",

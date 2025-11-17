@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-PHO",
   "version": "July '25",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_jul25_kt_teamrules_phobos_strike_team-b6ucsxeqii-zz4xcyoa3s.pdf",
   "killteamName": "Phobos Strike Team",
   "description": "Masters of stealth and subterfuge, Phobos Strike Teams consist of Space Marine Infiltrators, Incursors and Reivers.\nPossessed of transhuman strength and equipped with a range of explosives, communications equipment and precise weaponry, they are capable of outmanoeuvring and overwhelming enemy forces many times their own size.",
@@ -96,7 +98,28 @@
       "killteamId": "IMP-PHO",
       "seq": 3,
       "eqName": "Combat Blades",
-      "description": "Friendly PHOBOS STRIKE TEAM operatives have the following melee weapon:\n \n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Combat Blade|5|3+|3/4|"
+      "description": "Friendly PHOBOS STRIKE TEAM operatives have the following melee weapon:",
+      "weapons": [
+        {
+          "wepId": "IMP-PHO-CB-COMBAT-BLADE",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Combat Blade",
+          "wepType": "M",
+          "profiles": [
+            {
+              "wepprofileId": "IMP-PHO-CB-COMBAT-BLADE-0",
+              "wepId": "IMP-PHO-CB-COMBAT-BLADE",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "5",
+              "HIT": "3+",
+              "DMG": "3/4",
+              "WR": []
+            }
+          ]
+        }
+      ]
     },
     {
       "eqId": "IMP-PHO-SIA",

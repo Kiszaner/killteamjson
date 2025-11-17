@@ -2,6 +2,8 @@
   "factionId": "AEL",
   "killteamId": "AEL-BOK",
   "version": "October '25",
+  "classified": true,
+  "season": "BHETA-DECIMA",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_blades_of_khaine-00befzjlym-fspjkrusdr.pdf",
   "killteamName": "Blades Of Khaine",
   "description": "Athletic, graceful and utterly lethal, the Aeldari warriors that comprise Blades of Khaine kill teams come together to undertake missions of utmost importance on behalf of their craftworlds. They are dispatched to sever specific strands of fate, ensuring that terrible events they have foreseen never come to pass.",

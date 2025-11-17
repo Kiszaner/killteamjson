@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-DKK",
   "version": "1.2",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_death_korps-cxs24twanf-b6n2jvrgdd.pdf",
   "killteamName": "Death Korps",
   "description": "Grim, fatalistic and utterly uncompromising, the Death Korps of Krieg are famed for their endurance and ability to do\nbattle in the most horrific conditions. Death Korps kill teams are made up of veteran specialists who have seen more fighting that many Astra Militarum soldiers will experience in their entire lifetime.",
@@ -96,7 +98,28 @@
       "killteamId": "IMP-DKK",
       "seq": 3,
       "eqName": "Hand Axes",
-      "description": "Friendly DEATH KORPS operatives have the following melee weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Hand Axe|3|4+|3/4|\n"
+      "description": "Friendly DEATH KORPS operatives have the following melee weapon:",
+      "weapons": [
+        {
+          "wepId": "IMP-DKK-HA-HAND-AXE",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Hand Axe",
+          "wepType": "M",
+          "profiles": [
+            {
+              "wepprofileId": "IMP-DKK-HA-HAND-AXE-0",
+              "wepId": "IMP-DKK-HA-HAND-AXE",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "3",
+              "HIT": "4+",
+              "DMG": "3/4",
+              "WR": []
+            }
+          ]
+        }
+      ]
     },
     {
       "eqId": "IMP-DKK-GB",

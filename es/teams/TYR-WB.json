@@ -2,6 +2,8 @@
   "factionId": "TYR",
   "killteamId": "TYR-WB",
   "version": "1.0",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_wyrmblade-ewxxxogagv-mk51xr1be9.pdf",
   "killteamName": "Wyrmblade",
   "description": "Genestealer Cults are insidious broods of Human-xenos hybrids that spread unnoticed on Imperial worlds, sometimes for generations. They infiltrate the Imperium's social, industrial and military fabric, and their elite Wyrmblade kill teams squirm undetected into perfect ambush sites.",

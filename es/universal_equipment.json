@@ -20,7 +20,6 @@
       "seq": 602,
       "eqName": "Alambre de Púas",
       "description": "El alambre de púas es terreno Expuesto y Obstructor. Antes de la batalla, puedes desplegarlo completamente dentro de tu territorio, en el suelo de la zona de aniquilación y a más de 2\" de todos los demás elementos de terreno de equipo, puntos de acceso y terreno accesible.  \n\r Obstructor: Cuando un agente vaya a pasar a través de este elemento de terreno estando a 1\" o menos del mismo, trata la distancia como si fuera 1\" más de lo que es.",
-      "effects": "",
       "amount": 1
     },
     {
@@ -29,7 +28,6 @@
       "seq": 603,
       "eqName": "Aparato de Comunicaciones",
       "description": "Antes de la batalla, puedes desplegar uno de tus marcadores de aparato de comunicaciones completamente dentro de tu territorio. Mientras un agente amigo controle este marcador, suma 3\" a los requisitos de distancia de sus reglas APOYO que se refieran a agentes amigos (p.ej., \"elige a un agente amigo a 6\" o menos\" sería \"a 9\" o menos\" en su lugar). Ten en cuenta que no puedes beneficiarte de los marcadores de aparato de comunicaciones de tu oponente.",
-      "effects": "",
       "amount": 1
     },
     {
@@ -38,7 +36,6 @@
       "seq": 604,
       "eqName": "Minas",
       "description": "Antes de la batalla, puedes desplegar hasta uno de tus marcadores de mina completamente dentro de tu territorio y a más de 2\" de otros marcadores, puntos de acceso y terreno accesible. La primera vez que ese marcador quede dentro de la zona de control de un agente, retira el marcador e inflige 1D3+3 puntos de daño al agente.",
-      "effects": "",
       "amount": 1
     },
     {
@@ -47,7 +44,6 @@
       "seq": 605,
       "eqName": "Barricadas Ligeras",
       "description": "Las barricadas ligeras son terreno Ligero, excepto los pies, que son insignificantes y terreno expuesto. Antes de la batalla, puedes desplegar cualquier número de ellas completamente dentro de tu territorio, en el suelo de la zona de aniquilación y a más de 2\" de todos los demás elementos de terreno de equipo, puntos de acceso y terreno accesible.",
-      "effects": "",
       "amount": 2
     },
     {
@@ -56,7 +52,6 @@
       "seq": 606,
       "eqName": "Barricada Pesada",
       "description": "Una barricada pesada es terreno Pesado. Antes de la batalla, puedes desplegarla completamente a 4\" o menos de tu zona de descenso, en el suelo de la zona de aniquilación y a más de 2” de otros elementos de terreno de equipo, puntos de acceso y terreno accesible.",
-      "effects": "",
       "amount": 1
     },
     {
@@ -65,7 +60,6 @@
       "seq": 607,
       "eqName": "Escaleras",
       "description": "Las escaleras son terreno Expuesto. Antes de la batalla, puedes desplegar cualquier número de ellas de la siguiente forma:\r \r - Completamente dentro de tu territorio.\r - En vertical contra terreno que tenga una altura de al menos 2\".\r - A más de 2\" de otros elementos de terreno de equipo.\r - A más de 1\" de puertas y puntos de acceso.\r \r Además, un agente puede o bien mover a través de escaleras como si no estuvieran ahí (pero no puede terminar el Movimiento sobre ellas), o trepar por ellas. Una vez por acción, cuando un agente trepe por este elemento de terreno, trata la distancia vertical como 1\". Ten en cuenta que si un agente sigue a continuación trepando por otro elemento de terreno durante esa acción (incluyendo otra escalera), esa distancia se determina de manera normal.",
-      "effects": "",
       "amount": 2
     },
     {
@@ -74,7 +68,6 @@
       "seq": 608,
       "eqName": "Barricada Portátil",
       "description": "Una barricada portátil es terreno Ligero, Protector y Portátil.\r Antes de la batalla, puedes desplegarla completamente dentro de tu territorio, en el suelo de la zona de aniquilación y a más de 2\" de todos los demás elementos de terreno de equipo, puntos de acceso o terreno accesible.\n  \n\n**Protector:** Mientras un agente se encuentre a cubierto tras este elemento de terreno, mejora en 1 su atributo Salvación (hasta un máximo de 2+). \n\n**Portátil:**  Este elemento de terreno solo otorga cobertura mientras un agente se encuentre conectado a él y si el escudo está interpuesto (ignora sus pies).\n Los agentes conectados a su parte interior pueden realizar la siguiente acción unica durante la batalla.",
-      "effects": "",
       "amount": 1,
       "actions": [
         "ACTION-UE-MOVE-WITH-BARRICADE"
@@ -86,7 +79,6 @@
       "seq": 609,
       "eqName": "Granadas Especiales",
       "description": "Cuando elijas este equipo, selecciona dos granadas especiales (2 de humo, 2 aturdidoras, o 1 de humo y 1 aturdidora).\n Cada selección es una acción única que pueden realizar tus agentes, pero tu comando solo podrá realizar esa acción durante la batalla un número total de veces igual a tu selección.",
-      "effects": "",
       "amount": 2,
       "actions": [
         "ACTION-UE-SMOKE-GRENADE",
@@ -98,9 +90,69 @@
       "killteamId": null,
       "seq": 610,
       "eqName": "Granadas Explosivas",
-      "description": "Cuando elijas este equipo, selecciona dos granadas explosivas (2 frag, 2 perforantes, o 1 frag y 1 perforante). Cada selección es una arma distinta que pueden usar tus agentes, pero tu comando solo podrá usar esa arma durante la batalla un número total de veces igual a tu selección.\n\n|**NOMBRE**|**A**|**IMP**|**DAÑO**|\n|-----|:-----:|:-----:|:-----:|\n|Granada Frag|4|4+|2/4|\n|**REGLAS DE ARMA**|\n|Alcance 6\", Área 2\", Saturación|\r \r |**NOMBRE**|**A**|**IMP**|**DAÑO**|\r |-----|:-----:|:-----:|:-----:|\r |Granada Perforante|4|4+|4/5|\r |**REGLAS DE ARMA**|\r |Alcance 6\", Penetración 1,  Saturación|",
-      "effects": "ADDWEP:Granada Frag|R|4|4+|2/4|Alcance 6\", Área 2\", Saturación",
-      "amount": 2
+      "description": "Cuando elijas este equipo, selecciona dos granadas explosivas (2 frag, 2 perforantes, o 1 frag y 1 perforante). Cada selección es una arma distinta que pueden usar tus agentes, pero tu comando solo podrá usar esa arma durante la batalla un número total de veces igual a tu selección.",
+      "amount": 2,
+      "weapons": [
+        {
+          "wepId": "UNIVERSAL-UE-XG-FRAG",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Granada Frag",
+          "wepType": "R",
+          "profiles": [
+            {
+              "wepprofileId": "UNIVERSAL-UE-XG-FRAG-0",
+              "wepId": "UNIVERSAL-UE-XG-FRAG",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "4",
+              "HIT": "4+",
+              "DMG": "2/4",
+              "WR": [
+                {
+                  "id": "WR-UNIV-RANGE",
+                  "number": 6
+                },
+                {
+                  "id": "WR-UNIV-BLAST",
+                  "number": 2
+                },
+                {
+                  "id": "WR-UNIV-SATURATE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wepId": "UNIVERSAL-UE-XG-KRAK",
+          "opTypeId": null,
+          "seq": 1,
+          "wepName": "Granada Krak",
+          "wepType": "R",
+          "profiles": [
+            {
+              "wepprofileId": "UNIVERSAL-UE-XG-KRAK-0",
+              "wepId": "UNIVERSAL-UE-XG-KRAK",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "4",
+              "HIT": "4+",
+              "DMG": "4/5",
+              "WR": [
+                {
+                  "id": "WR-UNIV-RANGE",
+                  "number": 6
+                },
+                {
+                  "id": "WR-UNIV-PIERCING",
+                  "number": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "actions": [

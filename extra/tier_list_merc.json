@@ -1,0 +1,62 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-11-15",
+  "source": "Community Meta Analysis",
+  "title": "Kill Team Mercenarios Tier List",
+  "tiers": {
+    "S": [
+      "NEC-CAN",
+      "IMP-DW"
+    ],
+    "A+": [
+      "CHAOS-FELL",
+      "AEL-MND",
+      "TYR-BBRO",
+      "AEL-BOK",
+      "IMP-TEMPAQ",
+      "TYR-RAV",
+      "CHAOS-GORE",
+      "CHAOS-CULT"
+    ],
+    "A": [
+      "ORK-WK",
+      "TAU-VESP",
+      "IMP-INQ",
+      "VOT-HKS",
+      "NEC-HIER",
+      "CHAOS-NC",
+      "IMP-INB",
+      "IMP-AES"
+    ],
+    "B": [
+      "IMP-AOD",
+      "CHAOS-PM",
+      "IMP-SCT",
+      "IMP-RAT",
+      "TAU-FSKB",
+      "IMP-KAS",
+      "IMP-SANC"
+    ],
+    "C": [
+      "VOT-HKY",
+      "IMP-BC"
+    ],
+    "D": [
+      "CHAOS-BLD",
+      "AEL-COR",
+      "IMP-DKK",
+      "IMP-ESS",
+      "IMP-HC",
+      "CHAOS-LEG",
+      "ORK-KOM",
+      "CHAOS-GPI",
+      "TAU-PF",
+      "CHAOS-WC",
+      "TYR-WB",
+      "AEL-HOTA",
+      "IMP-NOV",
+      "IMP-PHO",
+      "AEL-VDT"
+    ]
+  }
+}

@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-TEMPAQ",
   "version": "June '25",
+  "classified": true,
+  "season": "Volkus",
   "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_tempestus_aquilons-4ekfmt7wwp-r7mk6vjh9r.pdf",
   "killteamName": "Tempestus Aquilons",
   "description": "\"It doesn't matter who or what the enemy are. If they stand between us and following our orders, they'll die for it.\"  \n\n*--Tempestus Aquilon Therka Drayv, prior to the Ossinium Drop*",
@@ -82,7 +84,28 @@
       "killteamId": "IMP-TEMPAQ",
       "seq": 1,
       "eqName": "Tempestus Dagger",
-      "description": "Friendly Tempestus Aquilon operatives (excluding SERVO-SENTRY) have the following Melee weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Tempestus Dagger|3|4+|3/4|\n"
+      "description": "Friendly Tempestus Aquilon operatives (excluding SERVO-SENTRY) have the following Melee weapon:",
+      "weapons": [
+        {
+          "wepId": "IMP-TEMPAQ-TD-TEMPESTUS-DAGGER",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Tempestus Dagger",
+          "wepType": "M",
+          "profiles": [
+            {
+              "wepprofileId": "IMP-TEMPAQ-TD-TEMPESTUS-DAGGER-0",
+              "wepId": "IMP-TEMPAQ-TD-TEMPESTUS-DAGGER",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "3",
+              "HIT": "4+",
+              "DMG": "3/4",
+              "WR": []
+            }
+          ]
+        }
+      ]
     },
     {
       "eqId": "IMP-TEMPAQ-CS",

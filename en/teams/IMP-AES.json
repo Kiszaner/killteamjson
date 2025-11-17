@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-AES",
   "version": "October '25",
+  "classified": true,
+  "season": "Gallowdark",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_exaction_squad-o0ltgcp7ds-dawhxuzywy.pdf",
   "killteamName": "Exaction Squad",
   "description": "It is the responsibility of the Adeptus Arbites to enforce Imperial law. Exaction Squads are formed from the most\nhighly skilled and experienced Arbitrators. They are tasked with hunting down and securing the most heinous of\ncriminals, returning them alive to face the full extent of the Emperor's justice.",

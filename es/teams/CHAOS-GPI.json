@@ -2,6 +2,8 @@
   "factionId": "CHAOS",
   "killteamId": "CHAOS-GPI",
   "version": "October '25",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_gellerpox_infected-nhhm7c7xlv-vkglix92eh.pdf",
   "killteamName": "Gellerpox Infected",
   "description": "Corrupted by a gruesome techno-organic affliction, the Gellerpox Infected are nightmarish meldings of flesh,\nmachinery and rampant disease. Most of these hideous beings began as loyal servants of the God-Emperor. Those\norigins are long gone, however, wiped away by supernatural sickness and a compulsion to spread their infection\nacross the stars.",

@@ -2,6 +2,8 @@
   "factionId": "ORK",
   "killteamId": "ORK-KOM",
   "version": "October '25",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_kommandos-u3kzqkdrdq-qsgcyhj4pc.pdf",
   "killteamName": "Kommandos",
   "description": "A Kommando is an Ork Boy specialist who prefers to rely on \"kunning trikz\" instead of fighting his opponents head-on like most other Greenskins.\n  \n  \n\nKommandoz serve as the Orks' infiltrators and saboteurs, and are masters of the arts of stealth, ambush, unconventional tactics and striking at the opponent from a totally unexpected quarter. ",
@@ -82,7 +84,28 @@
       "killteamId": "ORK-KOM",
       "seq": 1,
       "eqName": "Choppas",
-      "description": "Friendly KOMMANDO operatives (excluding BOMB SQUIG and GROT) have the following melee weapon. Note that some operatives already have this weapon but with better stats, in that instance, use the better version.\n \n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Choppa|3|3+|4/5|"
+      "description": "Friendly KOMMANDO operatives (excluding BOMB SQUIG and GROT) have the following melee weapon. Note that some operatives already have this weapon but with better stats, in that instance, use the better version.",
+      "weapons": [
+        {
+          "wepId": "ORK-KOM-CHP-CHOPPA",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Choppa",
+          "wepType": "M",
+          "profiles": [
+            {
+              "wepprofileId": "ORK-KOM-CHP-CHOPPA-0",
+              "wepId": "ORK-KOM-CHP-CHOPPA",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "3",
+              "HIT": "3+",
+              "DMG": "4/5",
+              "WR": []
+            }
+          ]
+        }
+      ]
     },
     {
       "eqId": "ORK-KOM-CS",
@@ -96,14 +119,84 @@
       "killteamId": "ORK-KOM",
       "seq": 3,
       "eqName": "Dynamite",
-      "description": "Once per battle, a friendly KOMMANDO operative (excluding BOMB SQUIG and GROT) can use the following Ranged Weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Dynamite|5|4+|4/5|\n|**Weapon Rules**|\n|Range 4\", Blast 1\", Heavy (RepositionOnly), Saturate|\n\n"
+      "description": "Once per battle, a friendly KOMMANDO operative (excluding BOMB SQUIG and GROT) can use the following Ranged Weapon:",
+      "weapons": [
+        {
+          "wepId": "ORK-KOM-DYN-DYNAMITE",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Dynamite",
+          "wepType": "R",
+          "profiles": [
+            {
+              "wepprofileId": "ORK-KOM-DYN-DYNAMITE-0",
+              "wepId": "ORK-KOM-DYN-DYNAMITE",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "5",
+              "HIT": "4+",
+              "DMG": "4/5",
+              "WR": [
+                {
+                  "id": "WR-UNIV-RANGE",
+                  "number": 4
+                },
+                {
+                  "id": "WR-UNIV-BLAST",
+                  "number": 1
+                },
+                {
+                  "id": "WR-UNIV-HEAVY",
+                  "details": "Reposition"
+                },
+                {
+                  "id": "WR-UNIV-SATURATE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "eqId": "ORK-KOM-HRP",
       "killteamId": "ORK-KOM",
       "seq": 4,
       "eqName": "Harpoon",
-      "description": "Once per turning point, a friendly KOMMANDO operative (excluding BOMB SQUIG and GROT) can use the following Ranged Weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Harpoon|4|4+|4/5|\n|**Weapon Rules**|\n|Range 8\", Lethal 5+, Stun|"
+      "description": "Once per turning point, a friendly KOMMANDO operative (excluding BOMB SQUIG and GROT) can use the following Ranged Weapon:",
+      "weapons": [
+        {
+          "wepId": "ORK-KOM-HRP-HARPOON",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Harpoon",
+          "wepType": "R",
+          "profiles": [
+            {
+              "wepprofileId": "ORK-KOM-HRP-HARPOON-0",
+              "wepId": "ORK-KOM-HRP-HARPOON",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "4",
+              "HIT": "4+",
+              "DMG": "4/5",
+              "WR": [
+                {
+                  "id": "WR-UNIV-RANGE",
+                  "number": 8
+                },
+                {
+                  "id": "WR-UNIV-LETHAL",
+                  "number": 5
+                },
+                {
+                  "id": "WR-UNIV-STUN"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "opTypes": [

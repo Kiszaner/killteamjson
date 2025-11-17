@@ -2,6 +2,8 @@
   "factionId": "NEC",
   "killteamId": "NEC-HIER",
   "version": "October '25",
+  "classified": true,
+  "season": "Gallowdark",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_hierotek_circle-20joapaot2-izu3oqudxn.pdf",
   "killteamName": "Hierotek Circle",
   "description": "Led by ambitious and devious Crypteks, Hierotek Circles employ Necron soldiery and unique Canoptek constructs\nto further the rise of their own dynasties. They achieve this by learning of their lords' enemies and undermining the\npower of these rivals through artifice, sabotage, theft and murder.",

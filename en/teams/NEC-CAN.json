@@ -2,6 +2,8 @@
   "factionId": "NEC",
   "killteamId": "NEC-CAN",
   "version": "October '25",
+  "classified": true,
+  "season": "Tomb world",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_canoptek_circle-phfovhebev-eutxfo8ln9.pdf",
   "killteamName": "Canoptek Circle",
   "description": "Canoptek Circle kill teams comprise sinister alien constructs in thrall to their Cryptek master. The emotionless and unliving Canoptek constructs overcome obstacles to a Cryptek's ambitions, whether rock and metal or the bodies of the living, while their master accesses nodes of power and data to charge the constructs' ancient abilities further.",

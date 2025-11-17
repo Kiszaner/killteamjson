@@ -2,6 +2,8 @@
   "factionId": "CHAOS",
   "killteamId": "CHAOS-WC",
   "version": "October '25",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_warpcoven-tlhahocect-tlnqbowcfv.pdf",
   "killteamName": "Warpcoven",
   "description": "Many are the dark and terrible secrets of the galaxy, and the Thousand Sons seek to learn them all. Gathering\nrelentless Rubricae and degenerate mutants, Warpcoven kill teams employ sorcery and savagery alike as they sweep\naside those who stand in their way.",

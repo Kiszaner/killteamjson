@@ -2,6 +2,8 @@
   "factionId": "VOT",
   "killteamId": "VOT-HKS",
   "version": "October '25",
+  "classified": true,
+  "season": "Gallowdark",
   "file": "https://assets.warhammer-community.com/eng_29-10_kt_teamrules_hearthkyn_salvagers-374wulr1qu-qxumqy5c3a.pdf",
   "killteamName": "Hearthkyn Salvagers",
   "description": "Highly adept warriors and explorers of wrecked voidships and abandoned space stations, Hearthkyn Salvagers are tasked with identifying valuable material and marking it for later retrieval.\nHeavily armed and utterly resolute, Hearthkyn Salvager kill teams seize and defend such claims with the steadfast determination typical of the Kin.",

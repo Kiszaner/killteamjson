@@ -89,8 +89,69 @@
       "killteamId": null,
       "seq": 610,
       "eqName": "Explosive Grenades",
-      "description": "When you select this equipment, select two explosive grenades (2 frag, 2 krak, or 1 frag and 1 krak).\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Frag Grenade|4|4+|2/4|\n|**Weapon Rules**|\n|Rng 6\", Blast 2\", Saturate|\r \r |**Name**|**ATK**|**HIT**|**DMG**|\r |-----|:-----:|:-----:|:-----:|\r |Krak Grenade|4|4+|4/5|\r |**Weapon Rules**|\r |Rng 6\", Piercing 1, Saturate|",
-      "amount": 2
+      "description": "When you select this equipment, select two explosive grenades (2 frag, 2 krak, or 1 frag and 1 krak).",
+      "amount": 2,
+      "weapons": [
+        {
+          "wepId": "UNIVERSAL-UE-XG-FRAG",
+          "opTypeId": null,
+          "seq": 0,
+          "wepName": "Frag Grenade",
+          "wepType": "R",
+          "profiles": [
+            {
+              "wepprofileId": "UNIVERSAL-UE-XG-FRAG-0",
+              "wepId": "UNIVERSAL-UE-XG-FRAG",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "4",
+              "HIT": "4+",
+              "DMG": "2/4",
+              "WR": [
+                {
+                  "id": "WR-UNIV-RANGE",
+                  "number": 6
+                },
+                {
+                  "id": "WR-UNIV-BLAST",
+                  "number": 2
+                },
+                {
+                  "id": "WR-UNIV-SATURATE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "wepId": "UNIVERSAL-UE-XG-KRAK",
+          "opTypeId": null,
+          "seq": 1,
+          "wepName": "Krak Grenade",
+          "wepType": "R",
+          "profiles": [
+            {
+              "wepprofileId": "UNIVERSAL-UE-XG-KRAK-0",
+              "wepId": "UNIVERSAL-UE-XG-KRAK",
+              "seq": 0,
+              "profileName": "",
+              "ATK": "4",
+              "HIT": "4+",
+              "DMG": "4/5",
+              "WR": [
+                {
+                  "id": "WR-UNIV-RANGE",
+                  "number": 6
+                },
+                {
+                  "id": "WR-UNIV-PIERCING",
+                  "number": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "actions": [

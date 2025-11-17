@@ -2,6 +2,8 @@
   "factionId": "CHAOS",
   "killteamId": "CHAOS-BLD",
   "version": "October '25",
+  "classified": false,
+  "season": "Octarius",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_blooded-b7jk4yhsul-muduqqloxg.pdf",
   "killteamName": "Blooded",
   "description": "Many Astra Militarum troops have turned to Chaos over the centuries, including entire regiments of the Astra Militarum's Imperial Army predecessors that followed the Warmaster Horus into battle against the Imperium during the Horus Heresy.\n  \n  \n\nThese Traitors represent the primary mortal troops available to the forces of Chaos, now known as the \"Traitoris Militarum\" in High Gothic to the defenders of the Imperium. Even ten millennia later, Chaos Lords are known to attract these followers of Chaos into their warbands and personal armies, which vary greatly in both size and strength.",

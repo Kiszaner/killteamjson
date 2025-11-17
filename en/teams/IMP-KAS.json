@@ -2,6 +2,8 @@
   "factionId": "IMP",
   "killteamId": "IMP-KAS",
   "version": "October '25",
+  "classified": true,
+  "season": "Gallowdark",
   "file": "https://assets.warhammer-community.com/eng_29-10_kill_team_team_rules_kasrkin-hep6iyh4sy-j205ckyh8o.pdf",
   "killteamName": "Kasrkin",
   "description": "Amongst Cadia's most elite warriors, the Kasrkin are trained from birth in the art of war.\nClad in carapace armour and bearing a wide range of specialist wargear, they are the special forces of the Cadian regiments, tasked with completing nigh impossible missions in the defence and furtherance of the Imperial cause.",
@@ -103,7 +105,23 @@
       "killteamId": "IMP-KAS",
       "seq": 4,
       "eqName": "Combat Daggers",
-      "description": "Friendly KASRKIN operatives have the following melee weapon:\n\n|**Name**|**ATK**|**HIT**|**DMG**|\n|-----|:-----:|:-----:|:-----:|\n|Combat Dagger|3|4+|3/4|\n"
+      "description": "Friendly KASRKIN operatives have the following melee weapon:",
+      "weapons": [
+        {
+          "wepId": "IMP-KAS-CD-COMBAT-DAGGER",
+          "wepName": "Combat Dagger",
+          "wepType": "M",
+          "profiles": [
+            {
+              "profileName": "",
+              "ATK": "3",
+              "HIT": "4+",
+              "DMG": "3/4",
+              "WR": []
+            }
+          ]
+        }
+      ]
     }
   ],
   "teamAbilities": [
