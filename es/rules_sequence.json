@@ -49,7 +49,7 @@
       {
         "id": 5,
         "icon": "🏆",
-        "name": "End the Battle",
+        "name": "Fin de la Batalla",
         "description": [
           "La batalla termina tras haber completado cuatro puntos de inflexión. Si un jugador no tiene agentes en la zona de aniquilación pero la batalla no ha terminado, el otro jugador completa los turnos restantes hasta el final.çf",
           "Al final de la batalla, todos los jugadores revelan sus operaciones primarias de manera simultánea. Obtienen PV adicionales igual a la mitad de lo que puntuaron con esa operación (redondeando al alza).",
