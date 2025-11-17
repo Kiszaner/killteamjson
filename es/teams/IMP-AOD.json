@@ -1032,7 +1032,7 @@
           "abilityId": "IMP-AOD-GRN-A-GRN",
           "opTypeId": "IMP-AOD-GRN",
           "abilityName": "Granadero",
-          "description": "Este agente puede usar granadas frag y perforantes (ver equipo universal).\nHacer esto no cuenta de cara a los usos limitados que tengas (es decir, si también seleccionas esas granadas como equipo para otros agentes).\nCuando lo hace, mejora en 1 el atributo Impactar de esa arma."
+          "description": "Este agente puede usar granadas frag y krak (ver equipo universal).\nHacer esto no cuenta de cara a los usos limitados que tengas (es decir, si también seleccionas esas granadas como equipo para otros agentes).\nCuando lo hace, mejora en 1 el atributo Impactar de esa arma."
         }
       ]
     },
