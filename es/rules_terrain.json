@@ -43,10 +43,10 @@
     },
     {
       "id": "drop",
-      "name": "Drop",
+      "name": "Dejarse caer",
       "aliases": [],
       "category": "terrain_rule",
-      "text": "Operatives drop down when they move off terrain or after they’ve jumped. Ignore 2” of vertical distance\nthat they drop during each action. This means a vertical drop of 2” or less is ignored. If they drop\nmultiple times during an action, only 2” total is ignored, not 2” from each drop.",
+      "text": "Los agentes se dejan caer cuando se mueven fuera de un terreno o tras saltar. Ignora 2\" de la distancia vertical\npor la que se caigan en cada acción. Por tanto, una caída vertical de 2\" o menos se ignora. Si cae\nvarias veces durante una acción, solo se ignoran 2\" en total, no 2\" por cada caída.",
       "examples": [
         "The operative moves across 2” until it’s fully off the ledge, then drops down for 2” (a 4” distance, but the\nfirst 2” is ignored). The operative could also jump off the terrain, moving 4” from one edge before it\ndrops down."
       ],
@@ -63,10 +63,10 @@
     },
     {
       "id": "jump",
-      "name": "Jump",
+      "name": "Saltar",
       "aliases": [],
       "category": "terrain_rule",
-      "text": "Operatives can jump from Vantage terrain higher than 2” from the killzone floor when they move off it.\nYou can move them up to 4” horizontally from the edge when they jump, done like any other move\nexcept in one straight-line increment. The operative must then drop or climb from there. When jumping\nfrom a terrain feature, if there is a rampart at the edge you would jump from, you must climb it first\nbefore doing so, but still jump from the level of the Vantage terrain. When jumping to a terrain feature,\nyou can ignore its height difference of 1” or less, including its rampart (if any). However, when jumping\nfrom a terrain feature, if it has a rampart, you must climb it first.\n\nJumping means agents can move across gaps up to 4\" wide and over things that are below them.",
+      "text": "Los agentes pueden saltar del terreno Aventajado que esté a 2\" o más por encima del suelo de la zona de aniquilación cuando mueven fuera del mismo.\nPuedes moverlos hasta 4\" desde el borde en horizontal cuando saltan, como si fuera cualquier otro movimiento,\npero debe ser un solo incremento en línea recta. Luego el agente debe dejarse caer o trepar desde ahí. Al saltar\ndesde un elemento de terreno, si tiene almena en el borde desde el que quieres saltar, debes treparla primero\npero aún así saltas desde el nivel del terreno Aventajado. Al saltar hacia un elemento de terreno,\npuedes ignorar una diferencia de altura de 1\" o menos, incluidas almenas o barandillas.\n\nSaltar significa que los agentes pueden moverse a través de huecos de hasta 4\" de ancho, y por encima de cosas que estén por debajo de ellos.",
       "examples": [],
       "actions": [],
       "tags": [
@@ -83,10 +83,10 @@
     },
     {
       "id": "terrain-feature",
-      "name": "Terrain Feature",
+      "name": "Característica del terreno",
       "aliases": [],
       "category": "terrain_rule",
-      "text": "A terrain feature is composed of different parts, each of which is a type of terrain (one part can be more\nthan one type). If you are using a terrain feature from a specific killzone, the type of each part of that\nterrain feature will be specified. If you are using a terrain feature from a killzone of your own creation,\nyou must specify the type of each part of that terrain feature before the battle. The most common types\nof terrain are below, but some killzones have their own types.",
+      "text": "Una zona de eliminacion se compone de diferentes partes, cada una de las cuales es un tipo de terreno (una parte puede ser más de un tipo). Si utilizas una característica del terreno de una zona de eliminacion específica, se especificará el tipo de cada parte de esa característica del terreno. Si utilizas una característica del terreno de una zona de eliminacion de tu propia creación, debes especificar el tipo de cada parte de esa característica del terreno antes de la batalla. A continuación se indican los tipos de terreno más comunes, pero algunas zonas de combate tienen sus propios tipos",
       "examples": [],
       "actions": [],
       "tags": [
