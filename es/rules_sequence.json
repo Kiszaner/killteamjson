@@ -27,7 +27,7 @@
       {
         "id": 3,
         "icon": "🔥",
-        "name": "Set Up Operatives",
+        "name": "Desplegar Agentes",
         "description": [
           "Empezando por el jugador con la iniciativa, los jugadores se alternan para desplegar una pieza de equipo que se despliegue antes de la batalla (p. ej. escaleras). Esto se hace pieza de equipo a pieza de equipo, no opción a opción.",
           "Empezando por el jugador con la iniciativa, los jugadores se alternan para desplegar un tercio (redondeado al alza) de su comando. Cuando un jugador despliega un agente, lo debe hacer completamente en su zona de descenso y le debe dar una orden de ocultarse."
