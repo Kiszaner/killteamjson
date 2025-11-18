@@ -106,10 +106,10 @@
     },
     {
       "id": "heavy",
-      "name": "Heavy",
+      "name": "Pesado",
       "aliases": [],
       "category": "terrain_rule",
-      "text": "Larger terrain is Heavy. It can obscure operatives.\n\nIt’s good to have a mixture of Light and Heavy terrain in your killzone, as some other rules interact with\neach type differently.",
+      "text": "El terreno grande es Pesado. Puede ofuscar agentes.\n\nEs bueno tener una mezcla de terreno Ligero y Pesado en tu zona de aniquilación, pues algunas reglas interactúan con \ncada tipo de forma distinta.",
       "examples": [],
       "actions": [],
       "tags": [
@@ -124,10 +124,10 @@
     },
     {
       "id": "light",
-      "name": "Light",
+      "name": "Ligero",
       "aliases": [],
       "category": "terrain_rule",
-      "text": "Smaller terrain is Light. It doesn’t have any additional rules, but other rules interact with it differently\n(e.g., Vantage terrain here).",
+      "text": "El terreno pequeño es Ligero. No tiene reglas adicionales propias, pero otras reglas interactúan con él mismo de forma distinta\n(p. ej., terreno Aventajado de la pág. 60).",
       "examples": [
         "Light terrain.",
         "Light terrain."
