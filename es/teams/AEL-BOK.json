@@ -20,64 +20,64 @@
       "killteamId": "AEL-BOK",
       "ployType": "S",
       "seq": 1,
-      "ployName": "Dance Of Death",
-      "description": "Select two friendly BLADES OF KHAINE operatives visible to and within 6\" of each other. Remove them both from the killzone and set them back up in each other's previous locations (in other words, swap their positions)."
+      "ployName": "Danza de la Muerte",
+      "description": "Selecciona dos agentes FILOS DE KHAINE amigos visibles y a 6\" entre sí. Retíralos de la zona de combate y colócalos en la ubicación que ocupaba el otro (es decir, intercambian posiciones)."
     },
     {
       "ployId": "AEL-BOK-S-FW",
       "killteamId": "AEL-BOK",
       "ployType": "S",
       "seq": 1,
-      "ployName": "Forewarned",
-      "description": "Whenever an operative is shooting a ready friendly BLADES OF KHAINE operative, you can re-roll any of your defence dice results of one result (e.g. results of 2)."
+      "ployName": "Advertidos",
+      "description": "Hasta el final del Punto de Inflexión, cada vez que se realice un ataque a distancia contra un agente FILOS DE KHAINE amigo preparado, puedes repetir cualquier resultado de tus dados de defensa que sea 1 resultado (por ejemplo, resultados de 2)."
     },
     {
       "ployId": "AEL-BOK-S-KV",
       "killteamId": "AEL-BOK",
       "ployType": "S",
       "seq": 1,
-      "ployName": "Khaine's Vengeance",
-      "description": "Whenever a friendly BLADES OF KHAINE operative is shooting an expended enemy operative, that friendly operative's ranged weapons have the Ceaseless weapon rule.  \n**Ceaseless:** Can re-roll any or all results of one value (e.g. all results of 2)"
+      "ployName": "Venganza De Khaine",
+      "description": "Hasta el final del Punto de Inflexión, cada vez que un agente FILOS DE KHAINE amigo dispare a un agente enemigo agotado, las armas a distancia de ese agente amigo ganan la regla especial Incesante."
     },
     {
       "ployId": "AEL-BOK-S-RP",
       "killteamId": "AEL-BOK",
       "ployType": "S",
       "seq": 1,
-      "ployName": "Ruthless Poise",
-      "description": "Whenever a friendly BLADES OF KHAINE operative is fighting a ready enemy operative, that friendly operative's melee weapons have the Ceaseless weapon rule.  \n**Ceaseless:** Can re-roll any or all results of one value (e.g. all results of 2)"
+      "ployName": "Aplomo Implacable",
+      "description": "Cada vez que un agente FILOS DE KHAINE amigo combata contra un agente enemigo que esté preparado, las armas cuerpo a cuerpo de ese agente amigo ganan la regla especial Incesante."
     },
     {
       "ployId": "AEL-BOK-T-BW",
       "killteamId": "AEL-BOK",
       "ployType": "T",
       "seq": 1,
-      "ployName": "Bladewind",
-      "description": "Use this firefight ploy during a friendly BLADES OF KHAINE operative's activation. During that activation, that operative can perform two Fight actions."
+      "ployName": "Viento Afilado",
+      "description": "Usa este ardid táctico durante la activación de un agente FILOS DE KHAINE amigo. Hasta el final de su activación, ese agente puede realizar dos acciones de Combatir."
     },
     {
       "ployId": "AEL-BOK-T-CON",
       "killteamId": "AEL-BOK",
       "ployType": "T",
       "seq": 1,
-      "ployName": "Contempt",
-      "description": "Use this firefight ploy when a friendly BLADES OF KHAINE operative is retaliating or an enemy operative is shooting it, after your opponent rolls their attack dice, but before re- rolls.\nUntil the end of the sequence, your opponent cannot re-roll their attack dice (if your opponent declared the use of any firefight ploys during that sequence that would allow them to re-roll,\nthat ploy is cancelled and the CP spent on it is refunded)."
+      "ployName": "Desprecio",
+      "description": "Usa este ardid de tiroteo cuando un agente FILOS DE KHAINE amigo contraataque o un agente enemigo dispara contra él, después de que tu oponente tire sus dados de ataque, pero antes de repetir tiradas. Hasta el final de la secuencia, tu oponente no puede repetir sus dados de ataque (si tu oponente ha declarado el uso de algún ardid de tiroteo durante esa secuencia que le permitiría repetir tiradas, ese ardid se cancela y los PM gastados en él se recuperan)."
     },
     {
       "ployId": "AEL-BOK-T-FL",
       "killteamId": "AEL-BOK",
       "ployType": "T",
       "seq": 1,
-      "ployName": "Fading Light",
-      "description": "Use this firefight ploy during a friendly BLADES OF KHAINE operative's activation, before or after it performs an action. During that activation, that operative can perform the Fall Back action for 1 less AP."
+      "ployName": "Luz Que Se Apaga",
+      "description": "Usa este ardid táctico cuando un agente FILOS DE KHAINE amigo es activado, durante su activación antes o despues de hacer una acción. Hasta el final de su activación, ese agente puede realizar la acción de Retroceder por un punto de acción menos (hasta un mínimo de 0PA)."
     },
     {
       "ployId": "AEL-BOK-T-SF",
       "killteamId": "AEL-BOK",
       "ployType": "T",
       "seq": 1,
-      "ployName": "Starfall",
-      "description": "Use this firefight ploy during a friendly BLADES OF KHAINE operative's activation. During that activation, that operative can perform two Shoot actions."
+      "ployName": "Caída De Estrella",
+      "description": "Usa este ardid táctico durante la activación de un agente FILOS DE KHAINE amigo. Hasta el final de su activación, ese agente puede realizar dos acciones de Disparar."
     }
   ],
   "equipments": [

@@ -69,7 +69,7 @@
       "ployType": "T",
       "seq": 1,
       "ployName": "Fading Light",
-      "description": "Use this firefight ploy during a friendly BLADES OF KHAINE operative's activation, before or after it performs an action. During that activation, that operative can perform the Fall Back action for 1 less AP."
+      "description": "Use this Tactical Ploy during a friendly BLADES OF KHAINES operative is activatedoperative's activation, before or after it performs an action. Until the end of its activation, that operative can perform the Fall Back action for one less action point (to a minimum of 0AP)."
     },
     {
       "ployId": "AEL-BOK-T-SF",
