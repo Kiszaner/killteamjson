@@ -130,6 +130,11 @@
       "abilityId": "AEL-BOK-TA-ASTE-SS",
       "abilityName": "Striking Scorpion Aspect Technique",
       "description": "**Patient Stalk, Sudden Blow**  \n\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative that has a Conceal order performs the Reposition action.\nDuring that action, that operative can move within control range of enemy operatives (it cannot end the move there),\nand you can inflict D3+2 damage on one enemy operative it moved within control range of after it has moved.\n  \n  \n\n**Strike and Fade**  \n\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative incapacitates an enemy operative during the Fight action, and is no longer within 3\" of enemy operatives.\nChange that friendly operative's order to Conceal and it can immediately perform a free Dash action, even if it has performed an action that prevents it from performing the Dash action.\n  \n  \n\n**Scorpion's Eye**  \n\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative is performing the Shoot action and you select a shuriken pistol. Until the end of that action, that weapon has the Seek Light weapon rule.\n  \n  \n\n**Merciless Strikes**  \n\nUse this ASPECT TECHNIQUE when a friendly STRIKING SCORPION operative is fighting, the first time you strike with a critical success during that sequence. Until the end of that sequence, that operative's melee weapon has the Shock weapon rule.\n  \n  \n\n**One with the Gloom**  \n\nUse this ASPECT TECHNIQUE during a friendly STRIKING SCORPION operative's activation. Until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Seek, Vantage terrain) except being within 2\"."
+    },
+    {
+      "abilityId": "AEL-BOK-TA-AT",
+      "abilityName": "Archetypes",
+      "description": "Seek & Destroy, or the associated archetype of the most common Aspect Keyword in your kill team (if two keywords are equally most common, you can choose on of those keywords). Aspect keywords and their asociated archetypes are as follows:\n- DIRE AVENGER: **Security**\n- HOWLING BANSHEE: **Recon**\n- STRIKING SCORPION: **Infiltration**"
     }
   ],
   "opTypes": [
