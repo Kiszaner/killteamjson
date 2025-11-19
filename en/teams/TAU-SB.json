@@ -6,8 +6,8 @@
     "season": "Tomb world",
     "file": "https://assets.warhammer-community.com/eng_19-11_kt_xv26_stealth_battlesuits_online_rules-2gx8bipr8t-gqace3bmcf.pdf",
     "killteamName": "XV26 Stealth Battlesuits",
-    "description": "Kill teams of XV26 Stealth Battlesuits provide the T’au Empire with experts in innovative tactics considered unconventional – at best – by Fire caste academies. They use infiltration to identify and eliminate key targets, penetrate hostile regions to conduct aggressive reconnaissance, and launch ambushes from within the enemy’s own midst.",
-    "composition": "An XV26 STEALTH BATTLESUIT Killteam is composed of:\n- 1 XV26 STEALTH BATTLESUIT SHAS’VRE operative\n- 1 XV26 STEALTH BATTLESUIT MV75 MARKER DRONE operative\n- 1 XV26 STEALTH BATTLESUIT MV15 GUN DRONE operative\n- 4 XV26 STEALTH BATTLESUIT operatives selected from the following list:\n  - DESIGNATOR\n  - INFILTRATOR\n  - LIBERATOR\n  - LODESTAR\n  - NEUTRALISER\n\nOther than INFILTRATOR operatives, your kill team can only include each operative on this list once. Your kill team can only include up to two fusion blasters.",
+    "description": "Kill teams of XV26 Stealth Battlesuits provide the T'au Empire with experts in innovative tactics considered unconventional - at best - by Fire caste academies. They use infiltration to identify and eliminate key targets, penetrate hostile regions to conduct aggressive reconnaissance, and launch ambushes from within the enemy's own midst.",
+    "composition": "An XV26 STEALTH BATTLESUIT Killteam is composed of:\n- 1 XV26 STEALTH BATTLESUIT SHAS'VRE operative\n- 1 XV26 STEALTH BATTLESUIT MV75 MARKER DRONE operative\n- 1 XV26 STEALTH BATTLESUIT MV15 GUN DRONE operative\n- 4 XV26 STEALTH BATTLESUIT operatives selected from the following list:\n  - DESIGNATOR\n  - INFILTRATOR\n  - LIBERATOR\n  - LODESTAR\n  - NEUTRALISER\n\nOther than INFILTRATOR operatives, your kill team can only include each operative on this list once. Your kill team can only include up to two fusion blasters.",
     "archetypes": [
         "Infiltration",
         "Recon"
@@ -19,7 +19,7 @@
             "ployType": "S",
             "seq": 1,
             "ployName": "Patient Hunters",
-            "description": "Whenever a friendly XV26 STEALTH BATTLESUIT operative is shooting against or fighting against an expended enemy operative, that friendly operative’s weapons have the Balanced weapon rule and its ranged weapons have the Saturate weapon rule."
+            "description": "Whenever a friendly XV26 STEALTH BATTLESUIT operative is shooting against or fighting against an expended enemy operative, that friendly operative's weapons have the Balanced weapon rule and its ranged weapons have the Saturate weapon rule."
         },
         {
             "ployId": "TAU-SB-S-BOU",
@@ -27,7 +27,7 @@
             "ployType": "S",
             "seq": 2,
             "ployName": "Bonds of Unity",
-            "description": "Whenever a friendly XV26 STEALTH BATTLESUIT operative is activated (excluding DRONE), if it's visible to and within 6\" of another friendly XV26 STEALTH BATTLESUIT operative (excluding DRONE), you can ignore any changes to that first friendly operative's APL stat and select one of the following:\n- Ignore any changes to that first friendly operative’s Move stat from being injured until the end of that activation.\n- Ignore any changes to the Hit stat of that first friendly operative’s weapons from being injured until the end of that activation."
+            "description": "Whenever a friendly XV26 STEALTH BATTLESUIT operative is activated (excluding DRONE), if it's visible to and within 6\" of another friendly XV26 STEALTH BATTLESUIT operative (excluding DRONE), you can ignore any changes to that first friendly operative's APL stat and select one of the following:\n- Ignore any changes to that first friendly operative's Move stat from being injured until the end of that activation.\n- Ignore any changes to the Hit stat of that first friendly operative's weapons from being injured until the end of that activation."
         },
         {
             "ployId": "TAU-SB-S-PA",
@@ -35,7 +35,7 @@
             "ployType": "S",
             "seq": 3,
             "ployName": "Prepare Ambush",
-            "description": "Place one of your Ambush markers wholly within your territory and more than 2\" from enemy operatives. Whenever a friendly XV26 STEALTH BATTLESUIT operative is shooting an enemy operative that’s within 2\" of that marker, you can use this rule. If you do, remove that marker and that friendly operative's ranged weapons have the Seek weapon rule until the end of the action. In the Ready step of the next Strategy phase, if that marker is still in the killzone, remove that marker."
+            "description": "Place one of your Ambush markers wholly within your territory and more than 2\" from enemy operatives. Whenever a friendly XV26 STEALTH BATTLESUIT operative is shooting an enemy operative that's within 2\" of that marker, you can use this rule. If you do, remove that marker and that friendly operative's ranged weapons have the Seek weapon rule until the end of the action. In the Ready step of the next Strategy phase, if that marker is still in the killzone, remove that marker."
         },
         {
             "ployId": "TAU-SB-S-HC",
@@ -43,7 +43,7 @@
             "ployType": "S",
             "seq": 4,
             "ployName": "Holowave Countermeasures",
-            "description": "Whenever an operative is shooting a friendly XV26 STEALTH BATTLESUIT operative more than 6\" from it, in the Roll Attack Dice step, the attacker must discard one of their unresolved normal successes (or one of their critical successes if there are none). This isn’t cumulative with being obscured."
+            "description": "Whenever an operative is shooting a friendly XV26 STEALTH BATTLESUIT operative more than 6\" from it, in the Roll Attack Dice step, the attacker must discard one of their unresolved normal successes (or one of their critical successes if there are none). This isn't cumulative with being obscured."
         },
         {
             "ployId": "TAU-SB-T-G",
@@ -51,7 +51,7 @@
             "ployType": "T",
             "seq": 5,
             "ployName": "Ghostshroud",
-            "description": "Use this firefight ploy at the end of a friendly XV26 STEALTH BATTLESUIT operative’s activation. If that operative has an Engage order, change it to Conceal. You cannot use this ploy for each friendly operative more than once per battle."
+            "description": "Use this firefight ploy at the end of a friendly XV26 STEALTH BATTLESUIT operative's activation. If that operative has an Engage order, change it to Conceal. You cannot use this ploy for each friendly operative more than once per battle."
         },
         {
             "ployId": "TAU-SB-T-VRT",
@@ -59,7 +59,7 @@
             "ployType": "T",
             "seq": 6,
             "ployName": "Vectored Retro-Thrusters",
-            "description": "Use this firefight ploy when an enemy operative ends the Charge action within control range of a friendly XV26 STEALTH BATTLESUIT operative (excluding DRONE). Interrupt that action to use this rule. If you do, that friendly operative can immediately perform a free Fall Back action, but it cannot move more than 3\" during that action. Then, that enemy operative can immediately perform a free Reposition action using any remaining move distance it had from that first Charge action, and can do so even if it’s performed an action that prevents it from performing the Reposition action."
+            "description": "Use this firefight ploy when an enemy operative ends the Charge action within control range of a friendly XV26 STEALTH BATTLESUIT operative (excluding DRONE). Interrupt that action to use this rule. If you do, that friendly operative can immediately perform a free Fall Back action, but it cannot move more than 3\" during that action. Then, that enemy operative can immediately perform a free Reposition action using any remaining move distance it had from that first Charge action, and can do so even if it's performed an action that prevents it from performing the Reposition action."
         },
         {
             "ployId": "TAU-SB-T-EJP",
@@ -75,7 +75,7 @@
             "ployType": "T",
             "seq": 8,
             "ployName": "Saviour Protocols",
-            "description": "Use this firefight ploy when a friendly XV26 STEALTH BATTLESUIT operative (excluding DRONE) is selected as the valid target of a Shoot action. Select one friendly XV26 STEALTH BATTLESUIT DRONE operative visible to and within 3\" of that first friendly operative to become the valid target instead (even if it wouldn’t normally be valid for this). That friendly DRONE operative is only in cover or obscured if the original target was. This ploy has no effect if the ranged weapon has the Blast or Torrent weapon rule."
+            "description": "Use this firefight ploy when a friendly XV26 STEALTH BATTLESUIT operative (excluding DRONE) is selected as the valid target of a Shoot action. Select one friendly XV26 STEALTH BATTLESUIT DRONE operative visible to and within 3\" of that first friendly operative to become the valid target instead (even if it wouldn't normally be valid for this). That friendly DRONE operative is only in cover or obscured if the original target was. This ploy has no effect if the ranged weapon has the Blast or Torrent weapon rule."
         }
     ],
     "equipments": [
@@ -91,7 +91,7 @@
             "killteamId": "TAU-SB",
             "seq": 2,
             "eqName": "Counter-Network Jammers",
-            "description": "Whenever determining control of a marker, treat the total APL stat of enemy operatives that contest it as 1 lower if only one friendly XV26 STEALTH BATTLESUIT operative and only two enemy operatives contest it. That friendly XV26 STEALTH BATTLESUIT operative cannot be a DRONE operative. Note this isn’t a change to the APL stat, so any changes are cumulative with this."
+            "description": "Whenever determining control of a marker, treat the total APL stat of enemy operatives that contest it as 1 lower if only one friendly XV26 STEALTH BATTLESUIT operative and only two enemy operatives contest it. That friendly XV26 STEALTH BATTLESUIT operative cannot be a DRONE operative. Note this isn't a change to the APL stat, so any changes are cumulative with this."
         },
         {
             "eqId": "TAU-SB-ABF",
@@ -112,7 +112,7 @@
         {
             "abilityId": "TAU-SB-TA-K",
             "abilityName": "Kauyon",
-            "description": "Whenever a friendly XV26 STEALTH BATTLESUIT operative is shooting an enemy operative, its ranged weapons have the Accurate X weapon rule. X is determined by that enemy operative’s location:\n- Within 3\" of your territory: Accurate 1\n- Within your territory: Accurate 2\n- Within 3\" of your drop zone: Accurate 3"
+            "description": "Whenever a friendly XV26 STEALTH BATTLESUIT operative is shooting an enemy operative, its ranged weapons have the Accurate X weapon rule. X is determined by that enemy operative's location:\n- Within 3\" of your territory: Accurate 1\n- Within your territory: Accurate 2\n- Within 3\" of your drop zone: Accurate 3"
         },
         {
             "abilityId": "TAU-SB-TA-SF",
@@ -130,7 +130,7 @@
             "APL": 3,
             "SAVE": "3+",
             "WOUNDS": 13,
-            "keywords": "XV26 STEALTH BATTLESUIT, T'AU EMPIRE, LEADER, SHAS’VRE",
+            "keywords": "XV26 STEALTH BATTLESUIT, T'AU EMPIRE, LEADER, SHAS'VRE",
             "basesize": 32,
             "weapons": [
                 {
@@ -270,7 +270,7 @@
                     "abilityId": "TAU-SB-SHAS-DC",
                     "opTypeId": "TAU-SB-SHAS",
                     "abilityName": "XV26 Drone Controller",
-                    "description": "STRATEGIC GAMBIT whenever this operative is in the killzone. Select one friendly XV26 STEALTH BATTLESUIT DRONE operative in the killzone. Until the end of that operative’s next activation, ignore the first two bullet points of its Drone rule (this takes precedence over that rule)."
+                    "description": "STRATEGIC GAMBIT whenever this operative is in the killzone. Select one friendly XV26 STEALTH BATTLESUIT DRONE operative in the killzone. Until the end of that operative's next activation, ignore the first two bullet points of its Drone rule (this takes precedence over that rule)."
                 },
                 {
                     "abilityId": "TAU-SB-SHAS-FGG",
@@ -409,7 +409,7 @@
                     "abilityId": "TAU-SB-DES-ML",
                     "opTypeId": "TAU-SB-DES",
                     "abilityName": "Markerlight",
-                    "description": "Whenever an enemy operative is a valid target for this operative, or is visible to this operative and within 2\" of your Ambush marker (see Prepare Ambush strategy ploy), it's marked. Whenever a friendly XV26 STEALTH BATTLESUIT operative is shooting an operative that's marked, that friendly operative’s ranged weapons have the Severe weapon rule. Note that an operative can be a valid target for this operative even if this operative isn't the active operative."
+                    "description": "Whenever an enemy operative is a valid target for this operative, or is visible to this operative and within 2\" of your Ambush marker (see Prepare Ambush strategy ploy), it's marked. Whenever a friendly XV26 STEALTH BATTLESUIT operative is shooting an operative that's marked, that friendly operative's ranged weapons have the Severe weapon rule. Note that an operative can be a valid target for this operative even if this operative isn't the active operative."
                 }
             ]
         },
@@ -722,7 +722,7 @@
                     "abilityId": "TAU-SB-LIB-G",
                     "opTypeId": "TAU-SB-LIB",
                     "abilityName": "Grenadier",
-                    "description": "This operative can use frag, krak, smoke and stun grenades (see universal equipment). Doing so doesn’t count towards any limited uses you have (i.e. if you also select those grenades from equipment for other operatives). Whenever this operative is using a frag or krak grenade, improve the Hit stat of that weapon by 1."
+                    "description": "This operative can use frag, krak, smoke and stun grenades (see universal equipment). Doing so doesn't count towards any limited uses you have (i.e. if you also select those grenades from equipment for other operatives). Whenever this operative is using a frag or krak grenade, improve the Hit stat of that weapon by 1."
                 }
             ]
         },
@@ -855,13 +855,13 @@
                     "abilityId": "TAU-SB-LOD-EL",
                     "opTypeId": "TAU-SB-LOD",
                     "abilityName": "Electrochaff Launcher",
-                    "description": "Once per turning point, when an enemy operative is performing the Shoot action and your opponent selects a valid target (excluding DRONE), you can use this rule, providing this operative isn’t within control range of enemy operatives. If you do, until the end of that action, whenever an enemy operative is shooting a friendly XV26 STEALTH BATTLESUIT operative that’s both visible to and within 3\" of this operative and more than 2\" from that enemy operative:\n- Ignore the Piercing weapon rule.\n- That friendly operative is obscured."
+                    "description": "Once per turning point, when an enemy operative is performing the Shoot action and your opponent selects a valid target (excluding DRONE), you can use this rule, providing this operative isn't within control range of enemy operatives. If you do, until the end of that action, whenever an enemy operative is shooting a friendly XV26 STEALTH BATTLESUIT operative that's both visible to and within 3\" of this operative and more than 2\" from that enemy operative:\n- Ignore the Piercing weapon rule.\n- That friendly operative is obscured."
                 },
                 {
                     "abilityId": "TAU-SB-LOD-HB",
                     "opTypeId": "TAU-SB-LOD",
                     "abilityName": "Homing Beacon",
-                    "description": "This operative is carrying your Homing Beacon marker. Operatives (excluding DRONE) can perform the Pick Up Marker action on that marker. The first time an enemy operative performs the Pick Up Marker action on your Homing Beacon marker, discard that marker (remove it from the battle).\n\nIn the Ready step of each Strategy phase, when you gain CP, if your Homing Beacon marker is in the killzone, roll one D6 if it's more than 6\" from your drop zone; roll two D6 instead if it's within your opponent’s territory; roll three D6 instead if it's within 6\" of your opponent’s drop zone. If any result is a 4+, you gain one additional CP."
+                    "description": "This operative is carrying your Homing Beacon marker. Operatives (excluding DRONE) can perform the Pick Up Marker action on that marker. The first time an enemy operative performs the Pick Up Marker action on your Homing Beacon marker, discard that marker (remove it from the battle).\n\nIn the Ready step of each Strategy phase, when you gain CP, if your Homing Beacon marker is in the killzone, roll one D6 if it's more than 6\" from your drop zone; roll two D6 instead if it's within your opponent's territory; roll three D6 instead if it's within 6\" of your opponent's drop zone. If any result is a 4+, you gain one additional CP."
                 }
             ]
         },
@@ -1000,7 +1000,7 @@
                     "abilityId": "TAU-SB-NEU-SJ",
                     "opTypeId": "TAU-SB-NEU",
                     "abilityName": "System Jam",
-                    "description": "1/2AP. Select one enemy operative visible to this operative. Until the end of that operative’s next activation, subtract 1 from its APL stat. Whenever this operative has a Conceal order, you must spend 1 additional AP to perform this action.\n\nThis operative cannot perform this action while within control range of an enemy operative."
+                    "description": "1/2AP. Select one enemy operative visible to this operative. Until the end of that operative's next activation, subtract 1 from its APL stat. Whenever this operative has a Conceal order, you must spend 1 additional AP to perform this action.\n\nThis operative cannot perform this action while within control range of an enemy operative."
                 }
             ]
         },
@@ -1064,13 +1064,13 @@
                     "abilityId": "TAU-SB-GD-D",
                     "opTypeId": "TAU-SB-GD",
                     "abilityName": "Drone",
-                    "description": "- This operative cannot perform any actions other than Charge, Dash, Fall Back, Fight, Photon Grenade Launcher, Reposition and Shoot.\n- Whenever determining control of an objective marker, treat this operative’s APL stat as 1 lower. Note this isn’t a change to its APL stat, so any changes are cumulative with this.\n- This operative cannot use any weapons that aren’t on its datacard.\n- Whenever determining what’s visible to this operative, the round disc at the top of the miniature is its head.\n- This operative is ignored for your opponent’s kill/elimination op (when it’s incapacitated, and when determining your starting number of operatives). It’s also ignored for victory conditions and scoring VPs if either require operatives to ‘escape’, ‘survive’ or be incapacitated by enemy operatives (if it escapes/survives/is incapacitated, determining how many operatives must escape/survive/be incapacitated, etc.)."
+                    "description": "- This operative cannot perform any actions other than Charge, Dash, Fall Back, Fight, Photon Grenade Launcher, Reposition and Shoot.\n- Whenever determining control of an objective marker, treat this operative's APL stat as 1 lower. Note this isn't a change to its APL stat, so any changes are cumulative with this.\n- This operative cannot use any weapons that aren't on its datacard.\n- Whenever determining what's visible to this operative, the round disc at the top of the miniature is its head.\n- This operative is ignored for your opponent's kill/elimination op (when it's incapacitated, and when determining your starting number of operatives). It's also ignored for victory conditions and scoring VPs if either require operatives to 'escape', 'survive' or be incapacitated by enemy operatives (if it escapes/survives/is incapacitated, determining how many operatives must escape/survive/be incapacitated, etc.)."
                 },
                 {
                     "abilityId": "TAU-SB-GD-PGL",
                     "opTypeId": "TAU-SB-GD",
                     "abilityName": "Photon Grenade Launcher",
-                    "description": "1AP. Select one enemy operative visible to this operative and roll one D6: on a 3+, until the end of that operative’s next activation, subtract 2\" from its Move stat.\n\nThis operative cannot perform this action while within control range of an enemy operative."
+                    "description": "1AP. Select one enemy operative visible to this operative and roll one D6: on a 3+, until the end of that operative's next activation, subtract 2\" from its Move stat.\n\nThis operative cannot perform this action while within control range of an enemy operative."
                 }
             ]
         },
@@ -1111,13 +1111,13 @@
                     "abilityId": "TAU-SB-MD-D",
                     "opTypeId": "TAU-SB-MD",
                     "abilityName": "Drone",
-                    "description": "- This operative cannot perform any actions other than Charge, Dash, Fall Back, Fight, Reposition and Shoot.\n- Whenever determining control of an objective marker, treat this operative’s APL stat as 1 lower. Note this isn’t a change to its APL stat, so any changes are cumulative with this.\n- This operative cannot use any weapons that aren’t on its datacard.\n- Whenever determining what’s visible to this operative, the round disc at the top of the miniature is its head.\n- This operative is ignored for your opponent’s kill/elimination op (when it’s incapacitated, and when determining your starting number of operatives). It’s also ignored for victory conditions and scoring VPs if either require operatives to ‘escape’, ‘survive’ or be incapacitated by enemy operatives (if it escapes/survives/is incapacitated, determining how many operatives must escape/survive/be incapacitated, etc.)."
+                    "description": "- This operative cannot perform any actions other than Charge, Dash, Fall Back, Fight, Reposition and Shoot.\n- Whenever determining control of an objective marker, treat this operative's APL stat as 1 lower. Note this isn't a change to its APL stat, so any changes are cumulative with this.\n- This operative cannot use any weapons that aren't on its datacard.\n- Whenever determining what's visible to this operative, the round disc at the top of the miniature is its head.\n- This operative is ignored for your opponent's kill/elimination op (when it's incapacitated, and when determining your starting number of operatives). It's also ignored for victory conditions and scoring VPs if either require operatives to 'escape', 'survive' or be incapacitated by enemy operatives (if it escapes/survives/is incapacitated, determining how many operatives must escape/survive/be incapacitated, etc.)."
                 },
                 {
                     "abilityId": "TAU-SB-MD-ML",
                     "opTypeId": "TAU-SB-MD",
                     "abilityName": "Markerlight",
-                    "description": "Whenever an enemy operative is a valid target for this operative, or is visible to this operative and within 2\" of your Ambush marker (see Prepare Ambush strategy ploy), it’s marked. Whenever a friendly XV26 STEALTH BATTLESUIT operative is shooting an operative that’s marked, that friendly operative’s ranged weapons have the Severe weapon rule. Note that an operative can be a valid target for this operative even if this operative isn’t the active operative."
+                    "description": "Whenever an enemy operative is a valid target for this operative, or is visible to this operative and within 2\" of your Ambush marker (see Prepare Ambush strategy ploy), it's marked. Whenever a friendly XV26 STEALTH BATTLESUIT operative is shooting an operative that's marked, that friendly operative's ranged weapons have the Severe weapon rule. Note that an operative can be a valid target for this operative even if this operative isn't the active operative."
                 }
             ]
         }
